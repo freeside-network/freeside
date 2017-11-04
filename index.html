@@ -1,11 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <title>Freeside</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<link rel="stylesheet" href="./bootstrap.min.css" />
-	</head>
+    <head>
+        <title>Freeside</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="stylesheet" href="./bootstrap.min.css" />
+        <style>
+            .media {
+                padding: 1em;
+            }
+        </style>
+    </head>
+
 	<body>
     <nav class="navbar">
       <h1 class="navbar-brand" href="#">Freeside</h1>
@@ -14,16 +20,25 @@
         <p>We are a group of nerds that discuss traps on IRC</p>
     </div>
     <div class="container">
-      <table class="table">
-        <tr>
-          <th>Nick</th>
-          <th>Site</th>
-        </tr>
-        <tr>
-          <th>s3krit</th>
-          <th><tt><a href="github.com/s3krit">github.com/s3krit<a></tt></th>
-        </tr>
-      </table>
+
+      <ul class="list-unstyled">
+          <li class="media">
+              <img class="mr-3" src="https://avatars0.githubusercontent.com/u/157807?s=64&v=4" alt="s3krit's avatar">
+              <div class="media-body">
+                  <h5 class="mt-0 mb-1">s3krit</h5>
+                  <a href="https://github.com/s3krit">github.com/s3krit<a>
+              </div>
+          </li>
+
+          <li class="media">
+              <img class="mr-3" src="https://avatars0.githubusercontent.com/u/1935975?s=64&v=4" alt="boreq's avatar">
+              <div class="media-body">
+                  <h5 class="mt-0 mb-1">boreq</h5>
+                  <a href="https://github.com/boreq">github.com/boreq<a>
+              </div>
+          </li>
+      </ul>
+
     </div>
   </body>
 </html>
