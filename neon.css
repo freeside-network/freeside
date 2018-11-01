@@ -16,9 +16,6 @@ a {
   -moz-transition: all 0.5s;
   transition: all 0.5s;
 }
-a:hover {
-  text-decoration: none;
-}
 p:nth-child(1) a {
   font-size: 1em;
   color: #ebffff;
@@ -29,6 +26,7 @@ p:nth-child(1) a:hover {
   -webkit-animation: neon6 1.5s ease-in-out infinite alternate;
   -moz-animation: neon6 1.5s ease-in-out infinite alternate;
   animation: neon6 1.5s ease-in-out infinite alternate;
+  text-decoration: none;
 }
 p a:hover {
   color: #ffffff;
