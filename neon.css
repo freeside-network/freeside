@@ -16,7 +16,9 @@ a {
   -moz-transition: all 0.5s;
   transition: all 0.5s;
 }
-
+a:hover {
+  text-decoration: none;
+}
 p:nth-child(1) a {
   font-size: 1em;
   color: #ebffff;
