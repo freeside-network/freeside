@@ -134,7 +134,7 @@ body {
   line-height: 1.5;
   color: #888;
   text-align: left;
-  background-color: #060606;
+  background-color: #0f0f0f;
 }
 
 [tabindex="-1"]:focus {
@@ -5038,7 +5038,7 @@ tbody.collapse.show {
 .jumbotron {
   padding: 1rem 1rem;
   margin-bottom: 1rem;
-  background-color: #060606;
+  background-color: #0f0f0f;
   border-radius: 0.3rem;
 }
 
