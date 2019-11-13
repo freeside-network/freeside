@@ -5,8 +5,8 @@
   word-break: break-word;
   overflow-wrap: break-word;
   font-family: "SFMono-Regular", Monaco, Menlo, Consolas, "Liberation Mono", Courier, monospace;
-  font-size: 10px;
-  line-height: 1.1;
+  font-size: 12px;
+  line-height: 1;
   white-space: pre-wrap;
 }
 
