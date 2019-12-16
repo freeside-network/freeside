@@ -1,0 +1,2665 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/3fdf28bc/
+#container	neon.css	/^#container {$/;"	i
+#fade	flicker.css	/^#fade {$/;"	i
+*	bootstrap.css	/^  *,$/;"	s
+*	bootstrap.css	/^*,$/;"	s
+*::after	bootstrap.css	/^  *::after {$/;"	s
+*::after	bootstrap.css	/^*::after {$/;"	s
+*::before	bootstrap.css	/^  *::before,$/;"	s
+*::before	bootstrap.css	/^*::before,$/;"	s
+.active.carousel-item-left	bootstrap.css	/^  .active.carousel-item-left {$/;"	c
+.active.carousel-item-left	bootstrap.css	/^.active.carousel-item-left {$/;"	c
+.active.carousel-item-right	bootstrap.css	/^  .active.carousel-item-right {$/;"	c
+.active.carousel-item-right	bootstrap.css	/^.active.carousel-item-right {$/;"	c
+.alert	bootstrap.css	/^.alert {$/;"	c
+.alert .alert-link	bootstrap.css	/^.alert .alert-link {$/;"	c
+.alert a	bootstrap.css	/^.alert a,$/;"	s
+.alert-danger	bootstrap.css	/^.alert-danger {$/;"	c
+.alert-danger .alert-link	bootstrap.css	/^.alert-danger .alert-link {$/;"	c
+.alert-danger hr	bootstrap.css	/^.alert-danger hr {$/;"	s
+.alert-dark	bootstrap.css	/^.alert-dark {$/;"	c
+.alert-dark .alert-link	bootstrap.css	/^.alert-dark .alert-link {$/;"	c
+.alert-dark hr	bootstrap.css	/^.alert-dark hr {$/;"	s
+.alert-dismissible .close	bootstrap.css	/^.alert-dismissible .close {$/;"	c
+.alert-heading	bootstrap.css	/^.alert-heading {$/;"	c
+.alert-info	bootstrap.css	/^.alert-info {$/;"	c
+.alert-info .alert-link	bootstrap.css	/^.alert-info .alert-link {$/;"	c
+.alert-info hr	bootstrap.css	/^.alert-info hr {$/;"	s
+.alert-light	bootstrap.css	/^.alert-light {$/;"	c
+.alert-light .alert-link	bootstrap.css	/^.alert-light .alert-link {$/;"	c
+.alert-light hr	bootstrap.css	/^.alert-light hr {$/;"	s
+.alert-link	bootstrap.css	/^.alert-link {$/;"	c
+.alert-primary	bootstrap.css	/^.alert-primary {$/;"	c
+.alert-primary .alert-link	bootstrap.css	/^.alert-primary .alert-link {$/;"	c
+.alert-primary hr	bootstrap.css	/^.alert-primary hr {$/;"	s
+.alert-secondary	bootstrap.css	/^.alert-secondary {$/;"	c
+.alert-secondary .alert-link	bootstrap.css	/^.alert-secondary .alert-link {$/;"	c
+.alert-secondary hr	bootstrap.css	/^.alert-secondary hr {$/;"	s
+.alert-success	bootstrap.css	/^.alert-success {$/;"	c
+.alert-success .alert-link	bootstrap.css	/^.alert-success .alert-link {$/;"	c
+.alert-success hr	bootstrap.css	/^.alert-success hr {$/;"	s
+.alert-warning	bootstrap.css	/^.alert-warning {$/;"	c
+.alert-warning .alert-link	bootstrap.css	/^.alert-warning .alert-link {$/;"	c
+.alert-warning hr	bootstrap.css	/^.alert-warning hr {$/;"	s
+.align-baseline	bootstrap.css	/^.align-baseline {$/;"	c
+.align-bottom	bootstrap.css	/^.align-bottom {$/;"	c
+.align-content-around	bootstrap.css	/^.align-content-around {$/;"	c
+.align-content-between	bootstrap.css	/^.align-content-between {$/;"	c
+.align-content-center	bootstrap.css	/^.align-content-center {$/;"	c
+.align-content-end	bootstrap.css	/^.align-content-end {$/;"	c
+.align-content-lg-around	bootstrap.css	/^  .align-content-lg-around {$/;"	c
+.align-content-lg-between	bootstrap.css	/^  .align-content-lg-between {$/;"	c
+.align-content-lg-center	bootstrap.css	/^  .align-content-lg-center {$/;"	c
+.align-content-lg-end	bootstrap.css	/^  .align-content-lg-end {$/;"	c
+.align-content-lg-start	bootstrap.css	/^  .align-content-lg-start {$/;"	c
+.align-content-lg-stretch	bootstrap.css	/^  .align-content-lg-stretch {$/;"	c
+.align-content-md-around	bootstrap.css	/^  .align-content-md-around {$/;"	c
+.align-content-md-between	bootstrap.css	/^  .align-content-md-between {$/;"	c
+.align-content-md-center	bootstrap.css	/^  .align-content-md-center {$/;"	c
+.align-content-md-end	bootstrap.css	/^  .align-content-md-end {$/;"	c
+.align-content-md-start	bootstrap.css	/^  .align-content-md-start {$/;"	c
+.align-content-md-stretch	bootstrap.css	/^  .align-content-md-stretch {$/;"	c
+.align-content-sm-around	bootstrap.css	/^  .align-content-sm-around {$/;"	c
+.align-content-sm-between	bootstrap.css	/^  .align-content-sm-between {$/;"	c
+.align-content-sm-center	bootstrap.css	/^  .align-content-sm-center {$/;"	c
+.align-content-sm-end	bootstrap.css	/^  .align-content-sm-end {$/;"	c
+.align-content-sm-start	bootstrap.css	/^  .align-content-sm-start {$/;"	c
+.align-content-sm-stretch	bootstrap.css	/^  .align-content-sm-stretch {$/;"	c
+.align-content-start	bootstrap.css	/^.align-content-start {$/;"	c
+.align-content-stretch	bootstrap.css	/^.align-content-stretch {$/;"	c
+.align-content-xl-around	bootstrap.css	/^  .align-content-xl-around {$/;"	c
+.align-content-xl-between	bootstrap.css	/^  .align-content-xl-between {$/;"	c
+.align-content-xl-center	bootstrap.css	/^  .align-content-xl-center {$/;"	c
+.align-content-xl-end	bootstrap.css	/^  .align-content-xl-end {$/;"	c
+.align-content-xl-start	bootstrap.css	/^  .align-content-xl-start {$/;"	c
+.align-content-xl-stretch	bootstrap.css	/^  .align-content-xl-stretch {$/;"	c
+.align-items-baseline	bootstrap.css	/^.align-items-baseline {$/;"	c
+.align-items-center	bootstrap.css	/^.align-items-center {$/;"	c
+.align-items-end	bootstrap.css	/^.align-items-end {$/;"	c
+.align-items-lg-baseline	bootstrap.css	/^  .align-items-lg-baseline {$/;"	c
+.align-items-lg-center	bootstrap.css	/^  .align-items-lg-center {$/;"	c
+.align-items-lg-end	bootstrap.css	/^  .align-items-lg-end {$/;"	c
+.align-items-lg-start	bootstrap.css	/^  .align-items-lg-start {$/;"	c
+.align-items-lg-stretch	bootstrap.css	/^  .align-items-lg-stretch {$/;"	c
+.align-items-md-baseline	bootstrap.css	/^  .align-items-md-baseline {$/;"	c
+.align-items-md-center	bootstrap.css	/^  .align-items-md-center {$/;"	c
+.align-items-md-end	bootstrap.css	/^  .align-items-md-end {$/;"	c
+.align-items-md-start	bootstrap.css	/^  .align-items-md-start {$/;"	c
+.align-items-md-stretch	bootstrap.css	/^  .align-items-md-stretch {$/;"	c
+.align-items-sm-baseline	bootstrap.css	/^  .align-items-sm-baseline {$/;"	c
+.align-items-sm-center	bootstrap.css	/^  .align-items-sm-center {$/;"	c
+.align-items-sm-end	bootstrap.css	/^  .align-items-sm-end {$/;"	c
+.align-items-sm-start	bootstrap.css	/^  .align-items-sm-start {$/;"	c
+.align-items-sm-stretch	bootstrap.css	/^  .align-items-sm-stretch {$/;"	c
+.align-items-start	bootstrap.css	/^.align-items-start {$/;"	c
+.align-items-stretch	bootstrap.css	/^.align-items-stretch {$/;"	c
+.align-items-xl-baseline	bootstrap.css	/^  .align-items-xl-baseline {$/;"	c
+.align-items-xl-center	bootstrap.css	/^  .align-items-xl-center {$/;"	c
+.align-items-xl-end	bootstrap.css	/^  .align-items-xl-end {$/;"	c
+.align-items-xl-start	bootstrap.css	/^  .align-items-xl-start {$/;"	c
+.align-items-xl-stretch	bootstrap.css	/^  .align-items-xl-stretch {$/;"	c
+.align-middle	bootstrap.css	/^.align-middle {$/;"	c
+.align-self-auto	bootstrap.css	/^.align-self-auto {$/;"	c
+.align-self-baseline	bootstrap.css	/^.align-self-baseline {$/;"	c
+.align-self-center	bootstrap.css	/^.align-self-center {$/;"	c
+.align-self-end	bootstrap.css	/^.align-self-end {$/;"	c
+.align-self-lg-auto	bootstrap.css	/^  .align-self-lg-auto {$/;"	c
+.align-self-lg-baseline	bootstrap.css	/^  .align-self-lg-baseline {$/;"	c
+.align-self-lg-center	bootstrap.css	/^  .align-self-lg-center {$/;"	c
+.align-self-lg-end	bootstrap.css	/^  .align-self-lg-end {$/;"	c
+.align-self-lg-start	bootstrap.css	/^  .align-self-lg-start {$/;"	c
+.align-self-lg-stretch	bootstrap.css	/^  .align-self-lg-stretch {$/;"	c
+.align-self-md-auto	bootstrap.css	/^  .align-self-md-auto {$/;"	c
+.align-self-md-baseline	bootstrap.css	/^  .align-self-md-baseline {$/;"	c
+.align-self-md-center	bootstrap.css	/^  .align-self-md-center {$/;"	c
+.align-self-md-end	bootstrap.css	/^  .align-self-md-end {$/;"	c
+.align-self-md-start	bootstrap.css	/^  .align-self-md-start {$/;"	c
+.align-self-md-stretch	bootstrap.css	/^  .align-self-md-stretch {$/;"	c
+.align-self-sm-auto	bootstrap.css	/^  .align-self-sm-auto {$/;"	c
+.align-self-sm-baseline	bootstrap.css	/^  .align-self-sm-baseline {$/;"	c
+.align-self-sm-center	bootstrap.css	/^  .align-self-sm-center {$/;"	c
+.align-self-sm-end	bootstrap.css	/^  .align-self-sm-end {$/;"	c
+.align-self-sm-start	bootstrap.css	/^  .align-self-sm-start {$/;"	c
+.align-self-sm-stretch	bootstrap.css	/^  .align-self-sm-stretch {$/;"	c
+.align-self-start	bootstrap.css	/^.align-self-start {$/;"	c
+.align-self-stretch	bootstrap.css	/^.align-self-stretch {$/;"	c
+.align-self-xl-auto	bootstrap.css	/^  .align-self-xl-auto {$/;"	c
+.align-self-xl-baseline	bootstrap.css	/^  .align-self-xl-baseline {$/;"	c
+.align-self-xl-center	bootstrap.css	/^  .align-self-xl-center {$/;"	c
+.align-self-xl-end	bootstrap.css	/^  .align-self-xl-end {$/;"	c
+.align-self-xl-start	bootstrap.css	/^  .align-self-xl-start {$/;"	c
+.align-self-xl-stretch	bootstrap.css	/^  .align-self-xl-stretch {$/;"	c
+.align-text-bottom	bootstrap.css	/^.align-text-bottom {$/;"	c
+.align-text-top	bootstrap.css	/^.align-text-top {$/;"	c
+.align-top	bootstrap.css	/^.align-top {$/;"	c
+.badge	bootstrap.css	/^  .badge {$/;"	c
+.badge	bootstrap.css	/^.badge {$/;"	c
+.badge-danger	bootstrap.css	/^.badge-danger {$/;"	c
+.badge-danger[href] :focus	bootstrap.css	/^.badge-danger[href]:focus, .badge-danger[href]:hover {$/;"	s
+.badge-danger[href] :hover	bootstrap.css	/^.badge-danger[href]:focus, .badge-danger[href]:hover {$/;"	s
+.badge-dark	bootstrap.css	/^.badge-dark {$/;"	c
+.badge-dark[href] :focus	bootstrap.css	/^.badge-dark[href]:focus, .badge-dark[href]:hover {$/;"	s
+.badge-dark[href] :hover	bootstrap.css	/^.badge-dark[href]:focus, .badge-dark[href]:hover {$/;"	s
+.badge-info	bootstrap.css	/^.badge-info {$/;"	c
+.badge-info[href] :focus	bootstrap.css	/^.badge-info[href]:focus, .badge-info[href]:hover {$/;"	s
+.badge-info[href] :hover	bootstrap.css	/^.badge-info[href]:focus, .badge-info[href]:hover {$/;"	s
+.badge-light	bootstrap.css	/^.badge-light {$/;"	c
+.badge-light[href] :focus	bootstrap.css	/^.badge-light[href]:focus, .badge-light[href]:hover {$/;"	s
+.badge-light[href] :hover	bootstrap.css	/^.badge-light[href]:focus, .badge-light[href]:hover {$/;"	s
+.badge-pill	bootstrap.css	/^.badge-pill {$/;"	c
+.badge-primary	bootstrap.css	/^.badge-primary {$/;"	c
+.badge-primary[href] :focus	bootstrap.css	/^.badge-primary[href]:focus, .badge-primary[href]:hover {$/;"	s
+.badge-primary[href] :hover	bootstrap.css	/^.badge-primary[href]:focus, .badge-primary[href]:hover {$/;"	s
+.badge-secondary	bootstrap.css	/^.badge-secondary {$/;"	c
+.badge-secondary[href] :focus	bootstrap.css	/^.badge-secondary[href]:focus, .badge-secondary[href]:hover {$/;"	s
+.badge-secondary[href] :hover	bootstrap.css	/^.badge-secondary[href]:focus, .badge-secondary[href]:hover {$/;"	s
+.badge-success	bootstrap.css	/^.badge-success {$/;"	c
+.badge-success[href] :focus	bootstrap.css	/^.badge-success[href]:focus, .badge-success[href]:hover {$/;"	s
+.badge-success[href] :hover	bootstrap.css	/^.badge-success[href]:focus, .badge-success[href]:hover {$/;"	s
+.badge-warning	bootstrap.css	/^.badge-warning {$/;"	c
+.badge-warning[href] :focus	bootstrap.css	/^.badge-warning[href]:focus, .badge-warning[href]:hover {$/;"	s
+.badge-warning[href] :hover	bootstrap.css	/^.badge-warning[href]:focus, .badge-warning[href]:hover {$/;"	s
+.badge:empty	bootstrap.css	/^.badge:empty {$/;"	c
+.bg-danger	bootstrap.css	/^.bg-danger {$/;"	c
+.bg-dark	bootstrap.css	/^.bg-dark {$/;"	c
+.bg-info	bootstrap.css	/^.bg-info {$/;"	c
+.bg-light	bootstrap.css	/^.bg-light {$/;"	c
+.bg-primary	bootstrap.css	/^.bg-primary {$/;"	c
+.bg-secondary	bootstrap.css	/^.bg-secondary {$/;"	c
+.bg-success	bootstrap.css	/^.bg-success {$/;"	c
+.bg-transparent	bootstrap.css	/^.bg-transparent {$/;"	c
+.bg-warning	bootstrap.css	/^.bg-warning {$/;"	c
+.bg-white	bootstrap.css	/^.bg-white {$/;"	c
+.blockquote	bootstrap.css	/^.blockquote {$/;"	c
+.blockquote-footer	bootstrap.css	/^.blockquote-footer {$/;"	c
+.blockquote-footer::before	bootstrap.css	/^.blockquote-footer::before {$/;"	c
+.border	bootstrap.css	/^.border {$/;"	c
+.border-0	bootstrap.css	/^.border-0 {$/;"	c
+.border-bottom-0	bootstrap.css	/^.border-bottom-0 {$/;"	c
+.border-danger	bootstrap.css	/^.border-danger {$/;"	c
+.border-dark	bootstrap.css	/^.border-dark {$/;"	c
+.border-info	bootstrap.css	/^.border-info {$/;"	c
+.border-left-0	bootstrap.css	/^.border-left-0 {$/;"	c
+.border-light	bootstrap.css	/^.border-light {$/;"	c
+.border-primary	bootstrap.css	/^.border-primary {$/;"	c
+.border-right-0	bootstrap.css	/^.border-right-0 {$/;"	c
+.border-secondary	bootstrap.css	/^.border-secondary {$/;"	c
+.border-success	bootstrap.css	/^.border-success {$/;"	c
+.border-top-0	bootstrap.css	/^.border-top-0 {$/;"	c
+.border-warning	bootstrap.css	/^.border-warning {$/;"	c
+.border-white	bootstrap.css	/^.border-white {$/;"	c
+.breadcrumb	bootstrap.css	/^.breadcrumb {$/;"	c
+.breadcrumb a	bootstrap.css	/^.breadcrumb a {$/;"	s
+.breadcrumb-item + .breadcrumb-item::before	bootstrap.css	/^.breadcrumb-item + .breadcrumb-item::before {$/;"	c
+.breadcrumb-item + .breadcrumb-item:hover::before	bootstrap.css	/^.breadcrumb-item + .breadcrumb-item:hover::before {$/;"	c
+.breadcrumb-item.active	bootstrap.css	/^.breadcrumb-item.active {$/;"	c
+.btn	bootstrap.css	/^.btn {$/;"	c
+.btn + .dropdown-toggle-split	bootstrap.css	/^.btn + .dropdown-toggle-split {$/;"	c
+.btn + .dropdown-toggle-split::after	bootstrap.css	/^.btn + .dropdown-toggle-split::after {$/;"	c
+.btn .badge	bootstrap.css	/^.btn .badge {$/;"	c
+.btn-block	bootstrap.css	/^.btn-block {$/;"	c
+.btn-block + .btn-block	bootstrap.css	/^.btn-block + .btn-block {$/;"	c
+.btn-danger	bootstrap.css	/^.btn-danger {$/;"	c
+.btn-danger.disabled	bootstrap.css	/^.btn-danger.disabled, .btn-danger:disabled {$/;"	c
+.btn-danger.focus	bootstrap.css	/^.btn-danger:focus, .btn-danger.focus {$/;"	c
+.btn-danger:disabled	bootstrap.css	/^.btn-danger.disabled, .btn-danger:disabled {$/;"	c
+.btn-danger:focus	bootstrap.css	/^.btn-danger:focus, .btn-danger.focus {$/;"	c
+.btn-danger:hover	bootstrap.css	/^.btn-danger:hover {$/;"	c
+.btn-danger:not([disabled] ):not(.disabled).active	bootstrap.css	/^.btn-danger:not([disabled]):not(.disabled):active, .btn-danger:not([disabled]):not(.disabled).ac/;"	c
+.btn-danger:not([disabled] ):not(.disabled):active	bootstrap.css	/^.btn-danger:not([disabled]):not(.disabled):active, .btn-danger:not([disabled]):not(.disabled).ac/;"	c
+.btn-dark	bootstrap.css	/^.btn-dark {$/;"	c
+.btn-dark.disabled	bootstrap.css	/^.btn-dark.disabled, .btn-dark:disabled {$/;"	c
+.btn-dark.focus	bootstrap.css	/^.btn-dark:focus, .btn-dark.focus {$/;"	c
+.btn-dark:disabled	bootstrap.css	/^.btn-dark.disabled, .btn-dark:disabled {$/;"	c
+.btn-dark:focus	bootstrap.css	/^.btn-dark:focus, .btn-dark.focus {$/;"	c
+.btn-dark:hover	bootstrap.css	/^.btn-dark:hover {$/;"	c
+.btn-dark:not([disabled] ):not(.disabled).active	bootstrap.css	/^.btn-dark:not([disabled]):not(.disabled):active, .btn-dark:not([disabled]):not(.disabled).active/;"	c
+.btn-dark:not([disabled] ):not(.disabled):active	bootstrap.css	/^.btn-dark:not([disabled]):not(.disabled):active, .btn-dark:not([disabled]):not(.disabled).active/;"	c
+.btn-group	bootstrap.css	/^.btn-group,$/;"	c
+.btn-group .btn + .btn	bootstrap.css	/^.btn-group .btn + .btn,$/;"	c
+.btn-group .btn + .btn-group	bootstrap.css	/^.btn-group .btn + .btn-group,$/;"	c
+.btn-group .btn-group + .btn	bootstrap.css	/^.btn-group .btn-group + .btn,$/;"	c
+.btn-group .btn-group + .btn-group	bootstrap.css	/^.btn-group .btn-group + .btn-group,$/;"	c
+.btn-group > .btn	bootstrap.css	/^.btn-group > .btn,$/;"	c
+.btn-group > .btn-group	bootstrap.css	/^.btn-group > .btn-group {$/;"	c
+.btn-group > .btn-group:first-child:not(:last-child) > .btn:last-child	bootstrap.css	/^.btn-group > .btn-group:first-child:not(:last-child) > .btn:last-child,$/;"	c
+.btn-group > .btn-group:first-child:not(:last-child) > .dropdown-toggle	bootstrap.css	/^.btn-group > .btn-group:first-child:not(:last-child) > .dropdown-toggle {$/;"	c
+.btn-group > .btn-group:last-child:not(:first-child) > .btn:first-child	bootstrap.css	/^.btn-group > .btn-group:last-child:not(:first-child) > .btn:first-child {$/;"	c
+.btn-group > .btn-group:not(:first-child):not(:last-child) > .btn	bootstrap.css	/^.btn-group > .btn-group:not(:first-child):not(:last-child) > .btn {$/;"	c
+.btn-group > .btn.active	bootstrap.css	/^.btn-group > .btn:focus, .btn-group > .btn:active, .btn-group > .btn.active,$/;"	c
+.btn-group > .btn:active	bootstrap.css	/^.btn-group > .btn:focus, .btn-group > .btn:active, .btn-group > .btn.active,$/;"	c
+.btn-group > .btn:first-child	bootstrap.css	/^.btn-group > .btn:first-child {$/;"	c
+.btn-group > .btn:first-child:not(:last-child):not(.dropdown-toggle)	bootstrap.css	/^.btn-group > .btn:first-child:not(:last-child):not(.dropdown-toggle) {$/;"	c
+.btn-group > .btn:focus	bootstrap.css	/^.btn-group > .btn:focus, .btn-group > .btn:active, .btn-group > .btn.active,$/;"	c
+.btn-group > .btn:hover	bootstrap.css	/^.btn-group > .btn:hover,$/;"	c
+.btn-group > .btn:last-child:not(:first-child)	bootstrap.css	/^.btn-group > .btn:last-child:not(:first-child),$/;"	c
+.btn-group > .btn:not(:first-child):not(:last-child):not(.dropdown-toggle)	bootstrap.css	/^.btn-group > .btn:not(:first-child):not(:last-child):not(.dropdown-toggle) {$/;"	c
+.btn-group > .dropdown-toggle:not(:first-child)	bootstrap.css	/^.btn-group > .dropdown-toggle:not(:first-child) {$/;"	c
+.btn-group-lg > .btn	bootstrap.css	/^.btn-lg, .btn-group-lg > .btn {$/;"	c
+.btn-group-lg > .btn + .dropdown-toggle-split	bootstrap.css	/^.btn-lg + .dropdown-toggle-split, .btn-group-lg > .btn + .dropdown-toggle-split {$/;"	c
+.btn-group-sm > .btn	bootstrap.css	/^.btn-sm, .btn-group-sm > .btn {$/;"	c
+.btn-group-sm > .btn + .dropdown-toggle-split	bootstrap.css	/^.btn-sm + .dropdown-toggle-split, .btn-group-sm > .btn + .dropdown-toggle-split {$/;"	c
+.btn-group-vertical	bootstrap.css	/^.btn-group-vertical {$/;"	c
+.btn-group-vertical .btn	bootstrap.css	/^.btn-group-vertical .btn,$/;"	c
+.btn-group-vertical .btn + .btn	bootstrap.css	/^.btn-group-vertical .btn + .btn,$/;"	c
+.btn-group-vertical .btn + .btn-group	bootstrap.css	/^.btn-group-vertical .btn + .btn-group,$/;"	c
+.btn-group-vertical .btn-group	bootstrap.css	/^.btn-group-vertical .btn-group {$/;"	c
+.btn-group-vertical .btn-group + .btn	bootstrap.css	/^.btn-group-vertical .btn-group + .btn,$/;"	c
+.btn-group-vertical .btn-group + .btn-group	bootstrap.css	/^.btn-group-vertical .btn-group + .btn-group {$/;"	c
+.btn-group-vertical > .btn	bootstrap.css	/^.btn-group-vertical > .btn {$/;"	c
+.btn-group-vertical > .btn + .btn	bootstrap.css	/^.btn-group-vertical > .btn + .btn,$/;"	c
+.btn-group-vertical > .btn + .btn-group	bootstrap.css	/^.btn-group-vertical > .btn + .btn-group,$/;"	c
+.btn-group-vertical > .btn-group + .btn	bootstrap.css	/^.btn-group-vertical > .btn-group + .btn,$/;"	c
+.btn-group-vertical > .btn-group + .btn-group	bootstrap.css	/^.btn-group-vertical > .btn-group + .btn-group {$/;"	c
+.btn-group-vertical > .btn-group:first-child:not(:last-child) > .btn:last-child	bootstrap.css	/^.btn-group-vertical > .btn-group:first-child:not(:last-child) > .btn:last-child,$/;"	c
+.btn-group-vertical > .btn-group:first-child:not(:last-child) > .dropdown-toggle	bootstrap.css	/^.btn-group-vertical > .btn-group:first-child:not(:last-child) > .dropdown-toggle {$/;"	c
+.btn-group-vertical > .btn-group:last-child:not(:first-child) > .btn:first-child	bootstrap.css	/^.btn-group-vertical > .btn-group:last-child:not(:first-child) > .btn:first-child {$/;"	c
+.btn-group-vertical > .btn-group:not(:first-child):not(:last-child) > .btn	bootstrap.css	/^.btn-group-vertical > .btn-group:not(:first-child):not(:last-child) > .btn {$/;"	c
+.btn-group-vertical > .btn.active	bootstrap.css	/^.btn-group-vertical > .btn.active {$/;"	c
+.btn-group-vertical > .btn:active	bootstrap.css	/^.btn-group-vertical > .btn:active,$/;"	c
+.btn-group-vertical > .btn:first-child:not(:last-child)	bootstrap.css	/^.btn-group-vertical > .btn:first-child:not(:last-child) {$/;"	c
+.btn-group-vertical > .btn:focus	bootstrap.css	/^.btn-group-vertical > .btn:focus,$/;"	c
+.btn-group-vertical > .btn:hover	bootstrap.css	/^.btn-group-vertical > .btn:hover {$/;"	c
+.btn-group-vertical > .btn:last-child:not(:first-child)	bootstrap.css	/^.btn-group-vertical > .btn:last-child:not(:first-child) {$/;"	c
+.btn-group-vertical > .btn:not(:first-child):not(:last-child)	bootstrap.css	/^.btn-group-vertical > .btn:not(:first-child):not(:last-child) {$/;"	c
+.btn-info	bootstrap.css	/^.btn-info {$/;"	c
+.btn-info.disabled	bootstrap.css	/^.btn-info.disabled, .btn-info:disabled {$/;"	c
+.btn-info.focus	bootstrap.css	/^.btn-info:focus, .btn-info.focus {$/;"	c
+.btn-info:disabled	bootstrap.css	/^.btn-info.disabled, .btn-info:disabled {$/;"	c
+.btn-info:focus	bootstrap.css	/^.btn-info:focus, .btn-info.focus {$/;"	c
+.btn-info:hover	bootstrap.css	/^.btn-info:hover {$/;"	c
+.btn-info:not([disabled] ):not(.disabled).active	bootstrap.css	/^.btn-info:not([disabled]):not(.disabled):active, .btn-info:not([disabled]):not(.disabled).active/;"	c
+.btn-info:not([disabled] ):not(.disabled):active	bootstrap.css	/^.btn-info:not([disabled]):not(.disabled):active, .btn-info:not([disabled]):not(.disabled).active/;"	c
+.btn-lg	bootstrap.css	/^.btn-lg, .btn-group-lg > .btn {$/;"	c
+.btn-lg + .dropdown-toggle-split	bootstrap.css	/^.btn-lg + .dropdown-toggle-split, .btn-group-lg > .btn + .dropdown-toggle-split {$/;"	c
+.btn-light	bootstrap.css	/^.btn-light {$/;"	c
+.btn-light.disabled	bootstrap.css	/^.btn-light.disabled, .btn-light:disabled {$/;"	c
+.btn-light.focus	bootstrap.css	/^.btn-light:focus, .btn-light.focus {$/;"	c
+.btn-light:disabled	bootstrap.css	/^.btn-light.disabled, .btn-light:disabled {$/;"	c
+.btn-light:focus	bootstrap.css	/^.btn-light:focus, .btn-light.focus {$/;"	c
+.btn-light:hover	bootstrap.css	/^.btn-light:hover {$/;"	c
+.btn-light:not([disabled] ):not(.disabled).active	bootstrap.css	/^.btn-light:not([disabled]):not(.disabled):active, .btn-light:not([disabled]):not(.disabled).acti/;"	c
+.btn-light:not([disabled] ):not(.disabled):active	bootstrap.css	/^.btn-light:not([disabled]):not(.disabled):active, .btn-light:not([disabled]):not(.disabled).acti/;"	c
+.btn-link	bootstrap.css	/^.btn-link {$/;"	c
+.btn-link.disabled	bootstrap.css	/^.btn-link:disabled, .btn-link.disabled {$/;"	c
+.btn-link.focus	bootstrap.css	/^.btn-link:focus, .btn-link.focus {$/;"	c
+.btn-link:disabled	bootstrap.css	/^.btn-link:disabled, .btn-link.disabled {$/;"	c
+.btn-link:focus	bootstrap.css	/^.btn-link:focus, .btn-link.focus {$/;"	c
+.btn-link:hover	bootstrap.css	/^.btn-link:hover {$/;"	c
+.btn-outline-danger	bootstrap.css	/^.btn-outline-danger {$/;"	c
+.btn-outline-danger.disabled	bootstrap.css	/^.btn-outline-danger.disabled, .btn-outline-danger:disabled {$/;"	c
+.btn-outline-danger.focus	bootstrap.css	/^.btn-outline-danger:focus, .btn-outline-danger.focus {$/;"	c
+.btn-outline-danger:disabled	bootstrap.css	/^.btn-outline-danger.disabled, .btn-outline-danger:disabled {$/;"	c
+.btn-outline-danger:focus	bootstrap.css	/^.btn-outline-danger:focus, .btn-outline-danger.focus {$/;"	c
+.btn-outline-danger:hover	bootstrap.css	/^.btn-outline-danger:hover {$/;"	c
+.btn-outline-danger:not([disabled] ):not(.disabled).active	bootstrap.css	/^.btn-outline-danger:not([disabled]):not(.disabled):active, .btn-outline-danger:not([disabled]):n/;"	c
+.btn-outline-danger:not([disabled] ):not(.disabled):active	bootstrap.css	/^.btn-outline-danger:not([disabled]):not(.disabled):active, .btn-outline-danger:not([disabled]):n/;"	c
+.btn-outline-dark	bootstrap.css	/^.btn-outline-dark {$/;"	c
+.btn-outline-dark.disabled	bootstrap.css	/^.btn-outline-dark.disabled, .btn-outline-dark:disabled {$/;"	c
+.btn-outline-dark.focus	bootstrap.css	/^.btn-outline-dark:focus, .btn-outline-dark.focus {$/;"	c
+.btn-outline-dark:disabled	bootstrap.css	/^.btn-outline-dark.disabled, .btn-outline-dark:disabled {$/;"	c
+.btn-outline-dark:focus	bootstrap.css	/^.btn-outline-dark:focus, .btn-outline-dark.focus {$/;"	c
+.btn-outline-dark:hover	bootstrap.css	/^.btn-outline-dark:hover {$/;"	c
+.btn-outline-dark:not([disabled] ):not(.disabled).active	bootstrap.css	/^.btn-outline-dark:not([disabled]):not(.disabled):active, .btn-outline-dark:not([disabled]):not(./;"	c
+.btn-outline-dark:not([disabled] ):not(.disabled):active	bootstrap.css	/^.btn-outline-dark:not([disabled]):not(.disabled):active, .btn-outline-dark:not([disabled]):not(./;"	c
+.btn-outline-info	bootstrap.css	/^.btn-outline-info {$/;"	c
+.btn-outline-info.disabled	bootstrap.css	/^.btn-outline-info.disabled, .btn-outline-info:disabled {$/;"	c
+.btn-outline-info.focus	bootstrap.css	/^.btn-outline-info:focus, .btn-outline-info.focus {$/;"	c
+.btn-outline-info:disabled	bootstrap.css	/^.btn-outline-info.disabled, .btn-outline-info:disabled {$/;"	c
+.btn-outline-info:focus	bootstrap.css	/^.btn-outline-info:focus, .btn-outline-info.focus {$/;"	c
+.btn-outline-info:hover	bootstrap.css	/^.btn-outline-info:hover {$/;"	c
+.btn-outline-info:not([disabled] ):not(.disabled).active	bootstrap.css	/^.btn-outline-info:not([disabled]):not(.disabled):active, .btn-outline-info:not([disabled]):not(./;"	c
+.btn-outline-info:not([disabled] ):not(.disabled):active	bootstrap.css	/^.btn-outline-info:not([disabled]):not(.disabled):active, .btn-outline-info:not([disabled]):not(./;"	c
+.btn-outline-light	bootstrap.css	/^.btn-outline-light {$/;"	c
+.btn-outline-light.disabled	bootstrap.css	/^.btn-outline-light.disabled, .btn-outline-light:disabled {$/;"	c
+.btn-outline-light.focus	bootstrap.css	/^.btn-outline-light:focus, .btn-outline-light.focus {$/;"	c
+.btn-outline-light:disabled	bootstrap.css	/^.btn-outline-light.disabled, .btn-outline-light:disabled {$/;"	c
+.btn-outline-light:focus	bootstrap.css	/^.btn-outline-light:focus, .btn-outline-light.focus {$/;"	c
+.btn-outline-light:hover	bootstrap.css	/^.btn-outline-light:hover {$/;"	c
+.btn-outline-light:not([disabled] ):not(.disabled).active	bootstrap.css	/^.btn-outline-light:not([disabled]):not(.disabled):active, .btn-outline-light:not([disabled]):not/;"	c
+.btn-outline-light:not([disabled] ):not(.disabled):active	bootstrap.css	/^.btn-outline-light:not([disabled]):not(.disabled):active, .btn-outline-light:not([disabled]):not/;"	c
+.btn-outline-primary	bootstrap.css	/^.btn-outline-primary {$/;"	c
+.btn-outline-primary.disabled	bootstrap.css	/^.btn-outline-primary.disabled, .btn-outline-primary:disabled {$/;"	c
+.btn-outline-primary.focus	bootstrap.css	/^.btn-outline-primary:focus, .btn-outline-primary.focus {$/;"	c
+.btn-outline-primary:disabled	bootstrap.css	/^.btn-outline-primary.disabled, .btn-outline-primary:disabled {$/;"	c
+.btn-outline-primary:focus	bootstrap.css	/^.btn-outline-primary:focus, .btn-outline-primary.focus {$/;"	c
+.btn-outline-primary:hover	bootstrap.css	/^.btn-outline-primary:hover {$/;"	c
+.btn-outline-primary:not([disabled] ):not(.disabled).active	bootstrap.css	/^.btn-outline-primary:not([disabled]):not(.disabled):active, .btn-outline-primary:not([disabled])/;"	c
+.btn-outline-primary:not([disabled] ):not(.disabled):active	bootstrap.css	/^.btn-outline-primary:not([disabled]):not(.disabled):active, .btn-outline-primary:not([disabled])/;"	c
+.btn-outline-secondary	bootstrap.css	/^.btn-outline-secondary {$/;"	c
+.btn-outline-secondary.disabled	bootstrap.css	/^.btn-outline-secondary.disabled, .btn-outline-secondary:disabled {$/;"	c
+.btn-outline-secondary.focus	bootstrap.css	/^.btn-outline-secondary:focus, .btn-outline-secondary.focus {$/;"	c
+.btn-outline-secondary:disabled	bootstrap.css	/^.btn-outline-secondary.disabled, .btn-outline-secondary:disabled {$/;"	c
+.btn-outline-secondary:focus	bootstrap.css	/^.btn-outline-secondary:focus, .btn-outline-secondary.focus {$/;"	c
+.btn-outline-secondary:hover	bootstrap.css	/^.btn-outline-secondary:hover {$/;"	c
+.btn-outline-secondary:not([disabled] ):not(.disabled).active	bootstrap.css	/^.btn-outline-secondary:not([disabled]):not(.disabled):active, .btn-outline-secondary:not([disabl/;"	c
+.btn-outline-secondary:not([disabled] ):not(.disabled):active	bootstrap.css	/^.btn-outline-secondary:not([disabled]):not(.disabled):active, .btn-outline-secondary:not([disabl/;"	c
+.btn-outline-success	bootstrap.css	/^.btn-outline-success {$/;"	c
+.btn-outline-success.disabled	bootstrap.css	/^.btn-outline-success.disabled, .btn-outline-success:disabled {$/;"	c
+.btn-outline-success.focus	bootstrap.css	/^.btn-outline-success:focus, .btn-outline-success.focus {$/;"	c
+.btn-outline-success:disabled	bootstrap.css	/^.btn-outline-success.disabled, .btn-outline-success:disabled {$/;"	c
+.btn-outline-success:focus	bootstrap.css	/^.btn-outline-success:focus, .btn-outline-success.focus {$/;"	c
+.btn-outline-success:hover	bootstrap.css	/^.btn-outline-success:hover {$/;"	c
+.btn-outline-success:not([disabled] ):not(.disabled).active	bootstrap.css	/^.btn-outline-success:not([disabled]):not(.disabled):active, .btn-outline-success:not([disabled])/;"	c
+.btn-outline-success:not([disabled] ):not(.disabled):active	bootstrap.css	/^.btn-outline-success:not([disabled]):not(.disabled):active, .btn-outline-success:not([disabled])/;"	c
+.btn-outline-warning	bootstrap.css	/^.btn-outline-warning {$/;"	c
+.btn-outline-warning.disabled	bootstrap.css	/^.btn-outline-warning.disabled, .btn-outline-warning:disabled {$/;"	c
+.btn-outline-warning.focus	bootstrap.css	/^.btn-outline-warning:focus, .btn-outline-warning.focus {$/;"	c
+.btn-outline-warning:disabled	bootstrap.css	/^.btn-outline-warning.disabled, .btn-outline-warning:disabled {$/;"	c
+.btn-outline-warning:focus	bootstrap.css	/^.btn-outline-warning:focus, .btn-outline-warning.focus {$/;"	c
+.btn-outline-warning:hover	bootstrap.css	/^.btn-outline-warning:hover {$/;"	c
+.btn-outline-warning:not([disabled] ):not(.disabled).active	bootstrap.css	/^.btn-outline-warning:not([disabled]):not(.disabled):active, .btn-outline-warning:not([disabled])/;"	c
+.btn-outline-warning:not([disabled] ):not(.disabled):active	bootstrap.css	/^.btn-outline-warning:not([disabled]):not(.disabled):active, .btn-outline-warning:not([disabled])/;"	c
+.btn-primary	bootstrap.css	/^.btn-primary {$/;"	c
+.btn-primary.disabled	bootstrap.css	/^.btn-primary.disabled, .btn-primary:disabled {$/;"	c
+.btn-primary.focus	bootstrap.css	/^.btn-primary:focus, .btn-primary.focus {$/;"	c
+.btn-primary:disabled	bootstrap.css	/^.btn-primary.disabled, .btn-primary:disabled {$/;"	c
+.btn-primary:focus	bootstrap.css	/^.btn-primary:focus, .btn-primary.focus {$/;"	c
+.btn-primary:hover	bootstrap.css	/^.btn-primary:hover {$/;"	c
+.btn-primary:not([disabled] ):not(.disabled).active	bootstrap.css	/^.btn-primary:not([disabled]):not(.disabled):active, .btn-primary:not([disabled]):not(.disabled)./;"	c
+.btn-primary:not([disabled] ):not(.disabled):active	bootstrap.css	/^.btn-primary:not([disabled]):not(.disabled):active, .btn-primary:not([disabled]):not(.disabled)./;"	c
+.btn-secondary	bootstrap.css	/^.btn-secondary {$/;"	c
+.btn-secondary.disabled	bootstrap.css	/^.btn-secondary.disabled, .btn-secondary:disabled {$/;"	c
+.btn-secondary.focus	bootstrap.css	/^.btn-secondary:focus, .btn-secondary.focus {$/;"	c
+.btn-secondary:disabled	bootstrap.css	/^.btn-secondary.disabled, .btn-secondary:disabled {$/;"	c
+.btn-secondary:focus	bootstrap.css	/^.btn-secondary:focus, .btn-secondary.focus {$/;"	c
+.btn-secondary:hover	bootstrap.css	/^.btn-secondary:hover {$/;"	c
+.btn-secondary:not([disabled] ):not(.disabled).active	bootstrap.css	/^.btn-secondary:not([disabled]):not(.disabled):active, .btn-secondary:not([disabled]):not(.disabl/;"	c
+.btn-secondary:not([disabled] ):not(.disabled):active	bootstrap.css	/^.btn-secondary:not([disabled]):not(.disabled):active, .btn-secondary:not([disabled]):not(.disabl/;"	c
+.btn-sm	bootstrap.css	/^.btn-sm, .btn-group-sm > .btn {$/;"	c
+.btn-sm + .dropdown-toggle-split	bootstrap.css	/^.btn-sm + .dropdown-toggle-split, .btn-group-sm > .btn + .dropdown-toggle-split {$/;"	c
+.btn-success	bootstrap.css	/^.btn-success {$/;"	c
+.btn-success.disabled	bootstrap.css	/^.btn-success.disabled, .btn-success:disabled {$/;"	c
+.btn-success.focus	bootstrap.css	/^.btn-success:focus, .btn-success.focus {$/;"	c
+.btn-success:disabled	bootstrap.css	/^.btn-success.disabled, .btn-success:disabled {$/;"	c
+.btn-success:focus	bootstrap.css	/^.btn-success:focus, .btn-success.focus {$/;"	c
+.btn-success:hover	bootstrap.css	/^.btn-success:hover {$/;"	c
+.btn-success:not([disabled] ):not(.disabled).active	bootstrap.css	/^.btn-success:not([disabled]):not(.disabled):active, .btn-success:not([disabled]):not(.disabled)./;"	c
+.btn-success:not([disabled] ):not(.disabled):active	bootstrap.css	/^.btn-success:not([disabled]):not(.disabled):active, .btn-success:not([disabled]):not(.disabled)./;"	c
+.btn-toolbar	bootstrap.css	/^.btn-toolbar {$/;"	c
+.btn-toolbar .input-group	bootstrap.css	/^.btn-toolbar .input-group {$/;"	c
+.btn-warning	bootstrap.css	/^.btn-warning {$/;"	c
+.btn-warning	bootstrap.css	/^.btn-warning, .btn-warning:hover {$/;"	c
+.btn-warning.disabled	bootstrap.css	/^.btn-warning.disabled, .btn-warning:disabled {$/;"	c
+.btn-warning.focus	bootstrap.css	/^.btn-warning:focus, .btn-warning.focus {$/;"	c
+.btn-warning:disabled	bootstrap.css	/^.btn-warning.disabled, .btn-warning:disabled {$/;"	c
+.btn-warning:focus	bootstrap.css	/^.btn-warning:focus, .btn-warning.focus {$/;"	c
+.btn-warning:hover	bootstrap.css	/^.btn-warning, .btn-warning:hover {$/;"	c
+.btn-warning:hover	bootstrap.css	/^.btn-warning:hover {$/;"	c
+.btn-warning:not([disabled] ):not(.disabled).active	bootstrap.css	/^.btn-warning:not([disabled]):not(.disabled):active, .btn-warning:not([disabled]):not(.disabled)./;"	c
+.btn-warning:not([disabled] ):not(.disabled):active	bootstrap.css	/^.btn-warning:not([disabled]):not(.disabled):active, .btn-warning:not([disabled]):not(.disabled)./;"	c
+.btn.disabled	bootstrap.css	/^.btn.disabled, .btn:disabled {$/;"	c
+.btn.focus	bootstrap.css	/^.btn:focus, .btn.focus {$/;"	c
+.btn:disabled	bootstrap.css	/^.btn.disabled, .btn:disabled {$/;"	c
+.btn:focus	bootstrap.css	/^.btn:focus, .btn.focus {$/;"	c
+.btn:focus	bootstrap.css	/^.btn:focus, .btn:hover {$/;"	c
+.btn:hover	bootstrap.css	/^.btn:focus, .btn:hover {$/;"	c
+.btn:not([disabled] ):not(.disabled).active	bootstrap.css	/^.btn:not([disabled]):not(.disabled):active, .btn:not([disabled]):not(.disabled).active {$/;"	c
+.btn:not([disabled] ):not(.disabled):active	bootstrap.css	/^.btn:not([disabled]):not(.disabled):active, .btn:not([disabled]):not(.disabled).active {$/;"	c
+.card	bootstrap.css	/^.card {$/;"	c
+.card > .list-group:first-child .list-group-item:first-child	bootstrap.css	/^.card > .list-group:first-child .list-group-item:first-child {$/;"	c
+.card > .list-group:last-child .list-group-item:last-child	bootstrap.css	/^.card > .list-group:last-child .list-group-item:last-child {$/;"	c
+.card > hr	bootstrap.css	/^.card > hr {$/;"	s
+.card-body	bootstrap.css	/^.card-body {$/;"	c
+.card-columns	bootstrap.css	/^  .card-columns {$/;"	c
+.card-columns .card	bootstrap.css	/^  .card-columns .card {$/;"	c
+.card-columns .card	bootstrap.css	/^.card-columns .card {$/;"	c
+.card-deck	bootstrap.css	/^  .card-deck {$/;"	c
+.card-deck	bootstrap.css	/^.card-deck {$/;"	c
+.card-deck .card	bootstrap.css	/^  .card-deck .card {$/;"	c
+.card-deck .card	bootstrap.css	/^.card-deck .card {$/;"	c
+.card-footer	bootstrap.css	/^.card-footer {$/;"	c
+.card-footer:last-child	bootstrap.css	/^.card-footer:last-child {$/;"	c
+.card-group	bootstrap.css	/^  .card-group {$/;"	c
+.card-group	bootstrap.css	/^.card-group {$/;"	c
+.card-group .card	bootstrap.css	/^  .card-group .card {$/;"	c
+.card-group .card	bootstrap.css	/^.card-group .card {$/;"	c
+.card-group .card + .card	bootstrap.css	/^  .card-group .card + .card {$/;"	c
+.card-group .card:first-child	bootstrap.css	/^  .card-group .card:first-child {$/;"	c
+.card-group .card:first-child .card-img-bottom	bootstrap.css	/^  .card-group .card:first-child .card-img-bottom {$/;"	c
+.card-group .card:first-child .card-img-top	bootstrap.css	/^  .card-group .card:first-child .card-img-top {$/;"	c
+.card-group .card:last-child	bootstrap.css	/^  .card-group .card:last-child {$/;"	c
+.card-group .card:last-child .card-img-bottom	bootstrap.css	/^  .card-group .card:last-child .card-img-bottom {$/;"	c
+.card-group .card:last-child .card-img-top	bootstrap.css	/^  .card-group .card:last-child .card-img-top {$/;"	c
+.card-group .card:not(:first-child):not(:last-child):not(:only-child)	bootstrap.css	/^  .card-group .card:not(:first-child):not(:last-child):not(:only-child) {$/;"	c
+.card-group .card:not(:first-child):not(:last-child):not(:only-child) .card-img-bottom	bootstrap.css	/^  .card-group .card:not(:first-child):not(:last-child):not(:only-child) .card-img-bottom {$/;"	c
+.card-group .card:not(:first-child):not(:last-child):not(:only-child) .card-img-top	bootstrap.css	/^  .card-group .card:not(:first-child):not(:last-child):not(:only-child) .card-img-top,$/;"	c
+.card-group .card:only-child	bootstrap.css	/^  .card-group .card:only-child {$/;"	c
+.card-group .card:only-child .card-img-bottom	bootstrap.css	/^  .card-group .card:only-child .card-img-bottom {$/;"	c
+.card-group .card:only-child .card-img-top	bootstrap.css	/^  .card-group .card:only-child .card-img-top {$/;"	c
+.card-header	bootstrap.css	/^.card-header {$/;"	c
+.card-header	bootstrap.css	/^.card-header, .card-title {$/;"	c
+.card-header + .list-group .list-group-item:first-child	bootstrap.css	/^.card-header + .list-group .list-group-item:first-child {$/;"	c
+.card-header-pills	bootstrap.css	/^.card-header-pills {$/;"	c
+.card-header-tabs	bootstrap.css	/^.card-header-tabs {$/;"	c
+.card-header:first-child	bootstrap.css	/^.card-header:first-child {$/;"	c
+.card-img	bootstrap.css	/^.card-img {$/;"	c
+.card-img-bottom	bootstrap.css	/^.card-img-bottom {$/;"	c
+.card-img-overlay	bootstrap.css	/^.card-img-overlay {$/;"	c
+.card-img-top	bootstrap.css	/^.card-img-top {$/;"	c
+.card-link + .card-link	bootstrap.css	/^.card-link + .card-link {$/;"	c
+.card-link:hover	bootstrap.css	/^.card-link:hover {$/;"	c
+.card-subtitle	bootstrap.css	/^.card-subtitle {$/;"	c
+.card-text:last-child	bootstrap.css	/^.card-text:last-child {$/;"	c
+.card-title	bootstrap.css	/^.card-header, .card-title {$/;"	c
+.card-title	bootstrap.css	/^.card-title {$/;"	c
+.carousel	bootstrap.css	/^.carousel {$/;"	c
+.carousel-caption	bootstrap.css	/^.carousel-caption {$/;"	c
+.carousel-control-next	bootstrap.css	/^.carousel-control-next {$/;"	c
+.carousel-control-next-icon	bootstrap.css	/^.carousel-control-next-icon {$/;"	c
+.carousel-control-next:focus	bootstrap.css	/^.carousel-control-next:focus,$/;"	c
+.carousel-control-next:hover	bootstrap.css	/^.carousel-control-next:hover {$/;"	c
+.carousel-control-prev	bootstrap.css	/^.carousel-control-prev {$/;"	c
+.carousel-control-prev	bootstrap.css	/^.carousel-control-prev,$/;"	c
+.carousel-control-prev-icon	bootstrap.css	/^.carousel-control-prev-icon {$/;"	c
+.carousel-control-prev-icon	bootstrap.css	/^.carousel-control-prev-icon,$/;"	c
+.carousel-control-prev:focus	bootstrap.css	/^.carousel-control-prev:focus, .carousel-control-prev:hover,$/;"	c
+.carousel-control-prev:hover	bootstrap.css	/^.carousel-control-prev:focus, .carousel-control-prev:hover,$/;"	c
+.carousel-indicators	bootstrap.css	/^.carousel-indicators {$/;"	c
+.carousel-indicators .active	bootstrap.css	/^.carousel-indicators .active {$/;"	c
+.carousel-indicators li	bootstrap.css	/^.carousel-indicators li {$/;"	s
+.carousel-indicators li::after	bootstrap.css	/^.carousel-indicators li::after {$/;"	s
+.carousel-indicators li::before	bootstrap.css	/^.carousel-indicators li::before {$/;"	s
+.carousel-inner	bootstrap.css	/^.carousel-inner {$/;"	c
+.carousel-item	bootstrap.css	/^.carousel-item {$/;"	c
+.carousel-item-next	bootstrap.css	/^  .carousel-item-next,$/;"	c
+.carousel-item-next	bootstrap.css	/^.carousel-item-next,$/;"	c
+.carousel-item-next.carousel-item-left	bootstrap.css	/^  .carousel-item-next.carousel-item-left,$/;"	c
+.carousel-item-next.carousel-item-left	bootstrap.css	/^.carousel-item-next.carousel-item-left,$/;"	c
+.carousel-item-prev	bootstrap.css	/^  .carousel-item-prev,$/;"	c
+.carousel-item-prev	bootstrap.css	/^.carousel-item-prev {$/;"	c
+.carousel-item-prev	bootstrap.css	/^.carousel-item-prev,$/;"	c
+.carousel-item-prev.carousel-item-right	bootstrap.css	/^  .carousel-item-prev.carousel-item-right {$/;"	c
+.carousel-item-prev.carousel-item-right	bootstrap.css	/^.carousel-item-prev.carousel-item-right {$/;"	c
+.carousel-item.active	bootstrap.css	/^.carousel-item.active,$/;"	c
+.clearfix::after	bootstrap.css	/^.clearfix::after {$/;"	c
+.close	bootstrap.css	/^.close {$/;"	c
+.close:focus	bootstrap.css	/^.close:focus, .close:hover {$/;"	c
+.close:hover	bootstrap.css	/^.close:focus, .close:hover {$/;"	c
+.close:hover	bootstrap.css	/^.close:hover {$/;"	c
+.col	bootstrap.css	/^.col {$/;"	c
+.col	bootstrap.css	/^.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-1/;"	c
+.col-1	bootstrap.css	/^.col-1 {$/;"	c
+.col-1	bootstrap.css	/^.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-1/;"	c
+.col-10	bootstrap.css	/^.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-1/;"	c
+.col-10	bootstrap.css	/^.col-10 {$/;"	c
+.col-11	bootstrap.css	/^.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-1/;"	c
+.col-11	bootstrap.css	/^.col-11 {$/;"	c
+.col-12	bootstrap.css	/^.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-1/;"	c
+.col-12	bootstrap.css	/^.col-12 {$/;"	c
+.col-2	bootstrap.css	/^.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-1/;"	c
+.col-2	bootstrap.css	/^.col-2 {$/;"	c
+.col-3	bootstrap.css	/^.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-1/;"	c
+.col-3	bootstrap.css	/^.col-3 {$/;"	c
+.col-4	bootstrap.css	/^.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-1/;"	c
+.col-4	bootstrap.css	/^.col-4 {$/;"	c
+.col-5	bootstrap.css	/^.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-1/;"	c
+.col-5	bootstrap.css	/^.col-5 {$/;"	c
+.col-6	bootstrap.css	/^.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-1/;"	c
+.col-6	bootstrap.css	/^.col-6 {$/;"	c
+.col-7	bootstrap.css	/^.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-1/;"	c
+.col-7	bootstrap.css	/^.col-7 {$/;"	c
+.col-8	bootstrap.css	/^.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-1/;"	c
+.col-8	bootstrap.css	/^.col-8 {$/;"	c
+.col-9	bootstrap.css	/^.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-1/;"	c
+.col-9	bootstrap.css	/^.col-9 {$/;"	c
+.col-auto	bootstrap.css	/^.col-auto {$/;"	c
+.col-auto	bootstrap.css	/^.col-auto, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-/;"	c
+.col-form-label	bootstrap.css	/^.col-form-label {$/;"	c
+.col-form-label-lg	bootstrap.css	/^.col-form-label-lg {$/;"	c
+.col-form-label-sm	bootstrap.css	/^.col-form-label-sm {$/;"	c
+.col-form-legend	bootstrap.css	/^.col-form-legend {$/;"	c
+.col-lg	bootstrap.css	/^  .col-lg {$/;"	c
+.col-lg	bootstrap.css	/^.col-md-auto, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-/;"	c
+.col-lg-1	bootstrap.css	/^  .col-lg-1 {$/;"	c
+.col-lg-1	bootstrap.css	/^.col-md-auto, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-/;"	c
+.col-lg-10	bootstrap.css	/^  .col-lg-10 {$/;"	c
+.col-lg-10	bootstrap.css	/^.col-md-auto, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-/;"	c
+.col-lg-11	bootstrap.css	/^  .col-lg-11 {$/;"	c
+.col-lg-11	bootstrap.css	/^.col-md-auto, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-/;"	c
+.col-lg-12	bootstrap.css	/^  .col-lg-12 {$/;"	c
+.col-lg-12	bootstrap.css	/^.col-md-auto, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-/;"	c
+.col-lg-2	bootstrap.css	/^  .col-lg-2 {$/;"	c
+.col-lg-2	bootstrap.css	/^.col-md-auto, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-/;"	c
+.col-lg-3	bootstrap.css	/^  .col-lg-3 {$/;"	c
+.col-lg-3	bootstrap.css	/^.col-md-auto, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-/;"	c
+.col-lg-4	bootstrap.css	/^  .col-lg-4 {$/;"	c
+.col-lg-4	bootstrap.css	/^.col-md-auto, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-/;"	c
+.col-lg-5	bootstrap.css	/^  .col-lg-5 {$/;"	c
+.col-lg-5	bootstrap.css	/^.col-md-auto, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-/;"	c
+.col-lg-6	bootstrap.css	/^  .col-lg-6 {$/;"	c
+.col-lg-6	bootstrap.css	/^.col-md-auto, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-/;"	c
+.col-lg-7	bootstrap.css	/^  .col-lg-7 {$/;"	c
+.col-lg-7	bootstrap.css	/^.col-md-auto, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-/;"	c
+.col-lg-8	bootstrap.css	/^  .col-lg-8 {$/;"	c
+.col-lg-8	bootstrap.css	/^.col-md-auto, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-/;"	c
+.col-lg-9	bootstrap.css	/^  .col-lg-9 {$/;"	c
+.col-lg-9	bootstrap.css	/^.col-md-auto, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-/;"	c
+.col-lg-auto	bootstrap.css	/^  .col-lg-auto {$/;"	c
+.col-lg-auto	bootstrap.css	/^.col-lg-auto, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-/;"	c
+.col-md	bootstrap.css	/^  .col-md {$/;"	c
+.col-md	bootstrap.css	/^.col-sm-auto, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-/;"	c
+.col-md-1	bootstrap.css	/^  .col-md-1 {$/;"	c
+.col-md-1	bootstrap.css	/^.col-sm-auto, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-/;"	c
+.col-md-10	bootstrap.css	/^  .col-md-10 {$/;"	c
+.col-md-10	bootstrap.css	/^.col-sm-auto, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-/;"	c
+.col-md-11	bootstrap.css	/^  .col-md-11 {$/;"	c
+.col-md-11	bootstrap.css	/^.col-sm-auto, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-/;"	c
+.col-md-12	bootstrap.css	/^  .col-md-12 {$/;"	c
+.col-md-12	bootstrap.css	/^.col-sm-auto, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-/;"	c
+.col-md-2	bootstrap.css	/^  .col-md-2 {$/;"	c
+.col-md-2	bootstrap.css	/^.col-sm-auto, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-/;"	c
+.col-md-3	bootstrap.css	/^  .col-md-3 {$/;"	c
+.col-md-3	bootstrap.css	/^.col-sm-auto, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-/;"	c
+.col-md-4	bootstrap.css	/^  .col-md-4 {$/;"	c
+.col-md-4	bootstrap.css	/^.col-sm-auto, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-/;"	c
+.col-md-5	bootstrap.css	/^  .col-md-5 {$/;"	c
+.col-md-5	bootstrap.css	/^.col-sm-auto, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-/;"	c
+.col-md-6	bootstrap.css	/^  .col-md-6 {$/;"	c
+.col-md-6	bootstrap.css	/^.col-sm-auto, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-/;"	c
+.col-md-7	bootstrap.css	/^  .col-md-7 {$/;"	c
+.col-md-7	bootstrap.css	/^.col-sm-auto, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-/;"	c
+.col-md-8	bootstrap.css	/^  .col-md-8 {$/;"	c
+.col-md-8	bootstrap.css	/^.col-sm-auto, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-/;"	c
+.col-md-9	bootstrap.css	/^  .col-md-9 {$/;"	c
+.col-md-9	bootstrap.css	/^.col-sm-auto, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-/;"	c
+.col-md-auto	bootstrap.css	/^  .col-md-auto {$/;"	c
+.col-md-auto	bootstrap.css	/^.col-md-auto, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-/;"	c
+.col-sm	bootstrap.css	/^  .col-sm {$/;"	c
+.col-sm	bootstrap.css	/^.col-auto, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-/;"	c
+.col-sm-1	bootstrap.css	/^  .col-sm-1 {$/;"	c
+.col-sm-1	bootstrap.css	/^.col-auto, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-/;"	c
+.col-sm-10	bootstrap.css	/^  .col-sm-10 {$/;"	c
+.col-sm-10	bootstrap.css	/^.col-auto, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-/;"	c
+.col-sm-11	bootstrap.css	/^  .col-sm-11 {$/;"	c
+.col-sm-11	bootstrap.css	/^.col-auto, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-/;"	c
+.col-sm-12	bootstrap.css	/^  .col-sm-12 {$/;"	c
+.col-sm-12	bootstrap.css	/^.col-auto, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-/;"	c
+.col-sm-2	bootstrap.css	/^  .col-sm-2 {$/;"	c
+.col-sm-2	bootstrap.css	/^.col-auto, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-/;"	c
+.col-sm-3	bootstrap.css	/^  .col-sm-3 {$/;"	c
+.col-sm-3	bootstrap.css	/^.col-auto, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-/;"	c
+.col-sm-4	bootstrap.css	/^  .col-sm-4 {$/;"	c
+.col-sm-4	bootstrap.css	/^.col-auto, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-/;"	c
+.col-sm-5	bootstrap.css	/^  .col-sm-5 {$/;"	c
+.col-sm-5	bootstrap.css	/^.col-auto, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-/;"	c
+.col-sm-6	bootstrap.css	/^  .col-sm-6 {$/;"	c
+.col-sm-6	bootstrap.css	/^.col-auto, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-/;"	c
+.col-sm-7	bootstrap.css	/^  .col-sm-7 {$/;"	c
+.col-sm-7	bootstrap.css	/^.col-auto, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-/;"	c
+.col-sm-8	bootstrap.css	/^  .col-sm-8 {$/;"	c
+.col-sm-8	bootstrap.css	/^.col-auto, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-/;"	c
+.col-sm-9	bootstrap.css	/^  .col-sm-9 {$/;"	c
+.col-sm-9	bootstrap.css	/^.col-auto, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-/;"	c
+.col-sm-auto	bootstrap.css	/^  .col-sm-auto {$/;"	c
+.col-sm-auto	bootstrap.css	/^.col-sm-auto, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-/;"	c
+.col-xl	bootstrap.css	/^  .col-xl {$/;"	c
+.col-xl	bootstrap.css	/^.col-lg-auto, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-/;"	c
+.col-xl-1	bootstrap.css	/^  .col-xl-1 {$/;"	c
+.col-xl-1	bootstrap.css	/^.col-lg-auto, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-/;"	c
+.col-xl-10	bootstrap.css	/^  .col-xl-10 {$/;"	c
+.col-xl-10	bootstrap.css	/^.col-lg-auto, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-/;"	c
+.col-xl-11	bootstrap.css	/^  .col-xl-11 {$/;"	c
+.col-xl-11	bootstrap.css	/^.col-lg-auto, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-/;"	c
+.col-xl-12	bootstrap.css	/^  .col-xl-12 {$/;"	c
+.col-xl-12	bootstrap.css	/^.col-lg-auto, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-/;"	c
+.col-xl-2	bootstrap.css	/^  .col-xl-2 {$/;"	c
+.col-xl-2	bootstrap.css	/^.col-lg-auto, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-/;"	c
+.col-xl-3	bootstrap.css	/^  .col-xl-3 {$/;"	c
+.col-xl-3	bootstrap.css	/^.col-lg-auto, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-/;"	c
+.col-xl-4	bootstrap.css	/^  .col-xl-4 {$/;"	c
+.col-xl-4	bootstrap.css	/^.col-lg-auto, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-/;"	c
+.col-xl-5	bootstrap.css	/^  .col-xl-5 {$/;"	c
+.col-xl-5	bootstrap.css	/^.col-lg-auto, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-/;"	c
+.col-xl-6	bootstrap.css	/^  .col-xl-6 {$/;"	c
+.col-xl-6	bootstrap.css	/^.col-lg-auto, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-/;"	c
+.col-xl-7	bootstrap.css	/^  .col-xl-7 {$/;"	c
+.col-xl-7	bootstrap.css	/^.col-lg-auto, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-/;"	c
+.col-xl-8	bootstrap.css	/^  .col-xl-8 {$/;"	c
+.col-xl-8	bootstrap.css	/^.col-lg-auto, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-/;"	c
+.col-xl-9	bootstrap.css	/^  .col-xl-9 {$/;"	c
+.col-xl-9	bootstrap.css	/^.col-lg-auto, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-/;"	c
+.col-xl-auto	bootstrap.css	/^  .col-xl-auto {$/;"	c
+.col-xl-auto	bootstrap.css	/^.col-xl-auto {$/;"	c
+.collapse	bootstrap.css	/^.collapse {$/;"	c
+.collapse.show	bootstrap.css	/^.collapse.show {$/;"	c
+.collapsing	bootstrap.css	/^.collapsing {$/;"	c
+.container	bootstrap.css	/^  .container {$/;"	c
+.container	bootstrap.css	/^.container {$/;"	c
+.container	jumbotron.css	/^  .container {$/;"	c
+.container-fluid	bootstrap.css	/^.container-fluid {$/;"	c
+.container-narrow > hr	jumbotron.css	/^.container-narrow > hr {$/;"	s
+.custom-checkbox .custom-control-indicator	bootstrap.css	/^.custom-checkbox .custom-control-indicator {$/;"	c
+.custom-checkbox .custom-control-input:checked	bootstrap.css	/^.custom-checkbox .custom-control-input:checked ~ .custom-control-indicator {$/;"	c
+.custom-checkbox .custom-control-input:indeterminate	bootstrap.css	/^.custom-checkbox .custom-control-input:indeterminate ~ .custom-control-indicator {$/;"	c
+.custom-control	bootstrap.css	/^.custom-control {$/;"	c
+.custom-control-description	bootstrap.css	/^.custom-control-input:disabled ~ .custom-control-description {$/;"	c
+.custom-control-description	bootstrap.css	/^.was-validated .custom-control-input:invalid ~ .custom-control-description, .custom-control-inpu/;"	c
+.custom-control-description	bootstrap.css	/^.was-validated .custom-control-input:valid ~ .custom-control-description, .custom-control-input./;"	c
+.custom-control-indicator	bootstrap.css	/^.custom-checkbox .custom-control-input:checked ~ .custom-control-indicator {$/;"	c
+.custom-control-indicator	bootstrap.css	/^.custom-checkbox .custom-control-input:indeterminate ~ .custom-control-indicator {$/;"	c
+.custom-control-indicator	bootstrap.css	/^.custom-control-indicator {$/;"	c
+.custom-control-indicator	bootstrap.css	/^.custom-control-input:active ~ .custom-control-indicator {$/;"	c
+.custom-control-indicator	bootstrap.css	/^.custom-control-input:checked ~ .custom-control-indicator {$/;"	c
+.custom-control-indicator	bootstrap.css	/^.custom-control-input:disabled ~ .custom-control-indicator {$/;"	c
+.custom-control-indicator	bootstrap.css	/^.custom-control-input:focus ~ .custom-control-indicator {$/;"	c
+.custom-control-indicator	bootstrap.css	/^.custom-radio .custom-control-input:checked ~ .custom-control-indicator {$/;"	c
+.custom-control-indicator	bootstrap.css	/^.was-validated .custom-control-input:invalid ~ .custom-control-indicator, .custom-control-input./;"	c
+.custom-control-indicator	bootstrap.css	/^.was-validated .custom-control-input:valid ~ .custom-control-indicator, .custom-control-input.is/;"	c
+.custom-control-input	bootstrap.css	/^.custom-control-input {$/;"	c
+.custom-control-input.is-invalid	bootstrap.css	/^.was-validated .custom-control-input:invalid ~ .custom-control-description, .custom-control-inpu/;"	c
+.custom-control-input.is-invalid	bootstrap.css	/^.was-validated .custom-control-input:invalid ~ .custom-control-indicator, .custom-control-input./;"	c
+.custom-control-input.is-valid	bootstrap.css	/^.was-validated .custom-control-input:valid ~ .custom-control-description, .custom-control-input./;"	c
+.custom-control-input.is-valid	bootstrap.css	/^.was-validated .custom-control-input:valid ~ .custom-control-indicator, .custom-control-input.is/;"	c
+.custom-control-input:active	bootstrap.css	/^.custom-control-input:active ~ .custom-control-indicator {$/;"	c
+.custom-control-input:checked	bootstrap.css	/^.custom-control-input:checked ~ .custom-control-indicator {$/;"	c
+.custom-control-input:disabled	bootstrap.css	/^.custom-control-input:disabled ~ .custom-control-description {$/;"	c
+.custom-control-input:disabled	bootstrap.css	/^.custom-control-input:disabled ~ .custom-control-indicator {$/;"	c
+.custom-control-input:focus	bootstrap.css	/^.custom-control-input:focus ~ .custom-control-indicator {$/;"	c
+.custom-controls-stacked	bootstrap.css	/^.custom-controls-stacked {$/;"	c
+.custom-controls-stacked .custom-control	bootstrap.css	/^.custom-controls-stacked .custom-control {$/;"	c
+.custom-controls-stacked .custom-control + .custom-control	bootstrap.css	/^.custom-controls-stacked .custom-control + .custom-control {$/;"	c
+.custom-file	bootstrap.css	/^.custom-file {$/;"	c
+.custom-file-control	bootstrap.css	/^.custom-file-control {$/;"	c
+.custom-file-control	bootstrap.css	/^.custom-file-input:focus ~ .custom-file-control {$/;"	c
+.custom-file-control	bootstrap.css	/^.was-validated .custom-file-input:invalid ~ .custom-file-control, .custom-file-input.is-invalid /;"	c
+.custom-file-control	bootstrap.css	/^.was-validated .custom-file-input:valid ~ .custom-file-control, .custom-file-input.is-valid ~ .c/;"	c
+.custom-file-control::before	bootstrap.css	/^.custom-file-control::before {$/;"	c
+.custom-file-control::before	bootstrap.css	/^.was-validated .custom-file-input:invalid ~ .custom-file-control::before, .custom-file-input.is-/;"	c
+.custom-file-control::before	bootstrap.css	/^.was-validated .custom-file-input:valid ~ .custom-file-control::before, .custom-file-input.is-va/;"	c
+.custom-file-control:lang(en)::before	bootstrap.css	/^.custom-file-control:lang(en)::before {$/;"	c
+.custom-file-control:lang(en):empty::after	bootstrap.css	/^.custom-file-control:lang(en):empty::after {$/;"	c
+.custom-file-input	bootstrap.css	/^.custom-file-input {$/;"	c
+.custom-file-input.is-invalid	bootstrap.css	/^.was-validated .custom-file-input:invalid ~ .custom-file-control, .custom-file-input.is-invalid /;"	c
+.custom-file-input.is-invalid	bootstrap.css	/^.was-validated .custom-file-input:invalid ~ .custom-file-control::before, .custom-file-input.is-/;"	c
+.custom-file-input.is-invalid:focus	bootstrap.css	/^.was-validated .custom-file-input:invalid:focus, .custom-file-input.is-invalid:focus {$/;"	c
+.custom-file-input.is-valid	bootstrap.css	/^.was-validated .custom-file-input:valid ~ .custom-file-control, .custom-file-input.is-valid ~ .c/;"	c
+.custom-file-input.is-valid	bootstrap.css	/^.was-validated .custom-file-input:valid ~ .custom-file-control::before, .custom-file-input.is-va/;"	c
+.custom-file-input.is-valid:focus	bootstrap.css	/^.was-validated .custom-file-input:valid:focus, .custom-file-input.is-valid:focus {$/;"	c
+.custom-file-input:focus	bootstrap.css	/^.custom-file-input:focus ~ .custom-file-control {$/;"	c
+.custom-radio .custom-control-indicator	bootstrap.css	/^.custom-radio .custom-control-indicator {$/;"	c
+.custom-radio .custom-control-input:checked	bootstrap.css	/^.custom-radio .custom-control-input:checked ~ .custom-control-indicator {$/;"	c
+.custom-select	bootstrap.css	/^.custom-select {$/;"	c
+.custom-select-sm	bootstrap.css	/^.custom-select-sm {$/;"	c
+.custom-select.is-invalid	bootstrap.css	/^.custom-select.is-invalid {$/;"	c
+.custom-select.is-invalid	bootstrap.css	/^.custom-select.is-invalid ~ .invalid-feedback,$/;"	c
+.custom-select.is-invalid	bootstrap.css	/^.custom-select.is-invalid ~ .invalid-tooltip {$/;"	c
+.custom-select.is-invalid:focus	bootstrap.css	/^.custom-select.is-invalid:focus {$/;"	c
+.custom-select.is-valid	bootstrap.css	/^.custom-select.is-valid {$/;"	c
+.custom-select.is-valid	bootstrap.css	/^.custom-select.is-valid ~ .valid-feedback,$/;"	c
+.custom-select.is-valid	bootstrap.css	/^.custom-select.is-valid ~ .valid-tooltip {$/;"	c
+.custom-select.is-valid:focus	bootstrap.css	/^.custom-select.is-valid:focus {$/;"	c
+.custom-select::-ms-expand	bootstrap.css	/^.custom-select::-ms-expand {$/;"	c
+.custom-select:disabled	bootstrap.css	/^.custom-select:disabled {$/;"	c
+.custom-select:focus	bootstrap.css	/^.custom-select:focus {$/;"	c
+.custom-select:focus::-ms-value	bootstrap.css	/^.custom-select:focus::-ms-value {$/;"	c
+.custom-select[multiple]	bootstrap.css	/^.custom-select[multiple] {$/;"	c
+.d-block	bootstrap.css	/^.d-block {$/;"	c
+.d-flex	bootstrap.css	/^.d-flex {$/;"	c
+.d-inline	bootstrap.css	/^.d-inline {$/;"	c
+.d-inline-block	bootstrap.css	/^.d-inline-block {$/;"	c
+.d-inline-flex	bootstrap.css	/^.d-inline-flex {$/;"	c
+.d-lg-block	bootstrap.css	/^  .d-lg-block {$/;"	c
+.d-lg-flex	bootstrap.css	/^  .d-lg-flex {$/;"	c
+.d-lg-inline	bootstrap.css	/^  .d-lg-inline {$/;"	c
+.d-lg-inline-block	bootstrap.css	/^  .d-lg-inline-block {$/;"	c
+.d-lg-inline-flex	bootstrap.css	/^  .d-lg-inline-flex {$/;"	c
+.d-lg-none	bootstrap.css	/^  .d-lg-none {$/;"	c
+.d-lg-table	bootstrap.css	/^  .d-lg-table {$/;"	c
+.d-lg-table-cell	bootstrap.css	/^  .d-lg-table-cell {$/;"	c
+.d-lg-table-row	bootstrap.css	/^  .d-lg-table-row {$/;"	c
+.d-md-block	bootstrap.css	/^  .d-md-block {$/;"	c
+.d-md-flex	bootstrap.css	/^  .d-md-flex {$/;"	c
+.d-md-inline	bootstrap.css	/^  .d-md-inline {$/;"	c
+.d-md-inline-block	bootstrap.css	/^  .d-md-inline-block {$/;"	c
+.d-md-inline-flex	bootstrap.css	/^  .d-md-inline-flex {$/;"	c
+.d-md-none	bootstrap.css	/^  .d-md-none {$/;"	c
+.d-md-table	bootstrap.css	/^  .d-md-table {$/;"	c
+.d-md-table-cell	bootstrap.css	/^  .d-md-table-cell {$/;"	c
+.d-md-table-row	bootstrap.css	/^  .d-md-table-row {$/;"	c
+.d-none	bootstrap.css	/^.d-none {$/;"	c
+.d-print-block	bootstrap.css	/^  .d-print-block {$/;"	c
+.d-print-block	bootstrap.css	/^.d-print-block {$/;"	c
+.d-print-inline	bootstrap.css	/^  .d-print-inline {$/;"	c
+.d-print-inline	bootstrap.css	/^.d-print-inline {$/;"	c
+.d-print-inline-block	bootstrap.css	/^  .d-print-inline-block {$/;"	c
+.d-print-inline-block	bootstrap.css	/^.d-print-inline-block {$/;"	c
+.d-print-none	bootstrap.css	/^  .d-print-none {$/;"	c
+.d-sm-block	bootstrap.css	/^  .d-sm-block {$/;"	c
+.d-sm-flex	bootstrap.css	/^  .d-sm-flex {$/;"	c
+.d-sm-inline	bootstrap.css	/^  .d-sm-inline {$/;"	c
+.d-sm-inline-block	bootstrap.css	/^  .d-sm-inline-block {$/;"	c
+.d-sm-inline-flex	bootstrap.css	/^  .d-sm-inline-flex {$/;"	c
+.d-sm-none	bootstrap.css	/^  .d-sm-none {$/;"	c
+.d-sm-table	bootstrap.css	/^  .d-sm-table {$/;"	c
+.d-sm-table-cell	bootstrap.css	/^  .d-sm-table-cell {$/;"	c
+.d-sm-table-row	bootstrap.css	/^  .d-sm-table-row {$/;"	c
+.d-table	bootstrap.css	/^.d-table {$/;"	c
+.d-table-cell	bootstrap.css	/^.d-table-cell {$/;"	c
+.d-table-row	bootstrap.css	/^.d-table-row {$/;"	c
+.d-xl-block	bootstrap.css	/^  .d-xl-block {$/;"	c
+.d-xl-flex	bootstrap.css	/^  .d-xl-flex {$/;"	c
+.d-xl-inline	bootstrap.css	/^  .d-xl-inline {$/;"	c
+.d-xl-inline-block	bootstrap.css	/^  .d-xl-inline-block {$/;"	c
+.d-xl-inline-flex	bootstrap.css	/^  .d-xl-inline-flex {$/;"	c
+.d-xl-none	bootstrap.css	/^  .d-xl-none {$/;"	c
+.d-xl-table	bootstrap.css	/^  .d-xl-table {$/;"	c
+.d-xl-table-cell	bootstrap.css	/^  .d-xl-table-cell {$/;"	c
+.d-xl-table-row	bootstrap.css	/^  .d-xl-table-row {$/;"	c
+.display-1	bootstrap.css	/^.display-1 {$/;"	c
+.display-2	bootstrap.css	/^.display-2 {$/;"	c
+.display-3	bootstrap.css	/^.display-3 {$/;"	c
+.display-4	bootstrap.css	/^.display-4 {$/;"	c
+.dropdown	bootstrap.css	/^.dropdown {$/;"	c
+.dropdown-divider	bootstrap.css	/^.dropdown-divider {$/;"	c
+.dropdown-header	bootstrap.css	/^.dropdown-header {$/;"	c
+.dropdown-item	bootstrap.css	/^.dropdown-item {$/;"	c
+.dropdown-item.active	bootstrap.css	/^.dropdown-item.active, .dropdown-item:active {$/;"	c
+.dropdown-item.disabled	bootstrap.css	/^.dropdown-item.disabled, .dropdown-item:disabled {$/;"	c
+.dropdown-item:active	bootstrap.css	/^.dropdown-item.active, .dropdown-item:active {$/;"	c
+.dropdown-item:disabled	bootstrap.css	/^.dropdown-item.disabled, .dropdown-item:disabled {$/;"	c
+.dropdown-item:focus	bootstrap.css	/^.dropdown-item:focus, .dropdown-item:hover {$/;"	c
+.dropdown-item:hover	bootstrap.css	/^.dropdown-item:focus, .dropdown-item:hover {$/;"	c
+.dropdown-menu	bootstrap.css	/^.dropdown-menu {$/;"	c
+.dropdown-menu.show	bootstrap.css	/^.dropdown-menu.show {$/;"	c
+.dropdown-toggle::after	bootstrap.css	/^.dropdown-toggle::after {$/;"	c
+.dropdown-toggle:empty::after	bootstrap.css	/^.dropdown-toggle:empty::after {$/;"	c
+.dropup	bootstrap.css	/^.dropup,$/;"	c
+.dropup .dropdown-menu	bootstrap.css	/^.dropup .dropdown-menu {$/;"	c
+.dropup .dropdown-toggle::after	bootstrap.css	/^.dropup .dropdown-toggle::after {$/;"	c
+.dropup .dropdown-toggle:empty::after	bootstrap.css	/^.dropup .dropdown-toggle:empty::after {$/;"	c
+.embed-responsive	bootstrap.css	/^.embed-responsive {$/;"	c
+.embed-responsive .embed-responsive-item	bootstrap.css	/^.embed-responsive .embed-responsive-item,$/;"	c
+.embed-responsive embed	bootstrap.css	/^.embed-responsive embed,$/;"	s
+.embed-responsive iframe	bootstrap.css	/^.embed-responsive iframe,$/;"	s
+.embed-responsive object	bootstrap.css	/^.embed-responsive object,$/;"	s
+.embed-responsive video	bootstrap.css	/^.embed-responsive video {$/;"	s
+.embed-responsive-16by9::before	bootstrap.css	/^.embed-responsive-16by9::before {$/;"	c
+.embed-responsive-1by1::before	bootstrap.css	/^.embed-responsive-1by1::before {$/;"	c
+.embed-responsive-21by9::before	bootstrap.css	/^.embed-responsive-21by9::before {$/;"	c
+.embed-responsive-4by3::before	bootstrap.css	/^.embed-responsive-4by3::before {$/;"	c
+.embed-responsive::before	bootstrap.css	/^.embed-responsive::before {$/;"	c
+.fade	bootstrap.css	/^.fade {$/;"	c
+.fade.show	bootstrap.css	/^.fade.show {$/;"	c
+.figure	bootstrap.css	/^.figure {$/;"	c
+.figure-caption	bootstrap.css	/^.figure-caption {$/;"	c
+.figure-img	bootstrap.css	/^.figure-img {$/;"	c
+.fixed-bottom	bootstrap.css	/^.fixed-bottom {$/;"	c
+.fixed-top	bootstrap.css	/^.fixed-top {$/;"	c
+.flex-column	bootstrap.css	/^.flex-column {$/;"	c
+.flex-column-reverse	bootstrap.css	/^.flex-column-reverse {$/;"	c
+.flex-lg-column	bootstrap.css	/^  .flex-lg-column {$/;"	c
+.flex-lg-column-reverse	bootstrap.css	/^  .flex-lg-column-reverse {$/;"	c
+.flex-lg-nowrap	bootstrap.css	/^  .flex-lg-nowrap {$/;"	c
+.flex-lg-row	bootstrap.css	/^  .flex-lg-row {$/;"	c
+.flex-lg-row-reverse	bootstrap.css	/^  .flex-lg-row-reverse {$/;"	c
+.flex-lg-wrap	bootstrap.css	/^  .flex-lg-wrap {$/;"	c
+.flex-lg-wrap-reverse	bootstrap.css	/^  .flex-lg-wrap-reverse {$/;"	c
+.flex-md-column	bootstrap.css	/^  .flex-md-column {$/;"	c
+.flex-md-column-reverse	bootstrap.css	/^  .flex-md-column-reverse {$/;"	c
+.flex-md-nowrap	bootstrap.css	/^  .flex-md-nowrap {$/;"	c
+.flex-md-row	bootstrap.css	/^  .flex-md-row {$/;"	c
+.flex-md-row-reverse	bootstrap.css	/^  .flex-md-row-reverse {$/;"	c
+.flex-md-wrap	bootstrap.css	/^  .flex-md-wrap {$/;"	c
+.flex-md-wrap-reverse	bootstrap.css	/^  .flex-md-wrap-reverse {$/;"	c
+.flex-nowrap	bootstrap.css	/^.flex-nowrap {$/;"	c
+.flex-row	bootstrap.css	/^.flex-row {$/;"	c
+.flex-row-reverse	bootstrap.css	/^.flex-row-reverse {$/;"	c
+.flex-sm-column	bootstrap.css	/^  .flex-sm-column {$/;"	c
+.flex-sm-column-reverse	bootstrap.css	/^  .flex-sm-column-reverse {$/;"	c
+.flex-sm-nowrap	bootstrap.css	/^  .flex-sm-nowrap {$/;"	c
+.flex-sm-row	bootstrap.css	/^  .flex-sm-row {$/;"	c
+.flex-sm-row-reverse	bootstrap.css	/^  .flex-sm-row-reverse {$/;"	c
+.flex-sm-wrap	bootstrap.css	/^  .flex-sm-wrap {$/;"	c
+.flex-sm-wrap-reverse	bootstrap.css	/^  .flex-sm-wrap-reverse {$/;"	c
+.flex-wrap	bootstrap.css	/^.flex-wrap {$/;"	c
+.flex-wrap-reverse	bootstrap.css	/^.flex-wrap-reverse {$/;"	c
+.flex-xl-column	bootstrap.css	/^  .flex-xl-column {$/;"	c
+.flex-xl-column-reverse	bootstrap.css	/^  .flex-xl-column-reverse {$/;"	c
+.flex-xl-nowrap	bootstrap.css	/^  .flex-xl-nowrap {$/;"	c
+.flex-xl-row	bootstrap.css	/^  .flex-xl-row {$/;"	c
+.flex-xl-row-reverse	bootstrap.css	/^  .flex-xl-row-reverse {$/;"	c
+.flex-xl-wrap	bootstrap.css	/^  .flex-xl-wrap {$/;"	c
+.flex-xl-wrap-reverse	bootstrap.css	/^  .flex-xl-wrap-reverse {$/;"	c
+.float-left	bootstrap.css	/^.float-left {$/;"	c
+.float-lg-left	bootstrap.css	/^  .float-lg-left {$/;"	c
+.float-lg-none	bootstrap.css	/^  .float-lg-none {$/;"	c
+.float-lg-right	bootstrap.css	/^  .float-lg-right {$/;"	c
+.float-md-left	bootstrap.css	/^  .float-md-left {$/;"	c
+.float-md-none	bootstrap.css	/^  .float-md-none {$/;"	c
+.float-md-right	bootstrap.css	/^  .float-md-right {$/;"	c
+.float-none	bootstrap.css	/^.float-none {$/;"	c
+.float-right	bootstrap.css	/^.float-right {$/;"	c
+.float-sm-left	bootstrap.css	/^  .float-sm-left {$/;"	c
+.float-sm-none	bootstrap.css	/^  .float-sm-none {$/;"	c
+.float-sm-right	bootstrap.css	/^  .float-sm-right {$/;"	c
+.float-xl-left	bootstrap.css	/^  .float-xl-left {$/;"	c
+.float-xl-none	bootstrap.css	/^  .float-xl-none {$/;"	c
+.float-xl-right	bootstrap.css	/^  .float-xl-right {$/;"	c
+.font-italic	bootstrap.css	/^.font-italic {$/;"	c
+.font-weight-bold	bootstrap.css	/^.font-weight-bold {$/;"	c
+.font-weight-light	bootstrap.css	/^.font-weight-light {$/;"	c
+.font-weight-normal	bootstrap.css	/^.font-weight-normal {$/;"	c
+.footer	jumbotron.css	/^  .footer {$/;"	c
+.footer	jumbotron.css	/^.footer {$/;"	c
+.form-check	bootstrap.css	/^.form-check {$/;"	c
+.form-check-inline	bootstrap.css	/^.form-check-inline {$/;"	c
+.form-check-inline .form-check-label	bootstrap.css	/^.form-check-inline .form-check-label {$/;"	c
+.form-check-input	bootstrap.css	/^.form-check-input {$/;"	c
+.form-check-input.is-invalid + .form-check-label	bootstrap.css	/^.was-validated .form-check-input:invalid + .form-check-label, .form-check-input.is-invalid + .fo/;"	c
+.form-check-input.is-valid + .form-check-label	bootstrap.css	/^.was-validated .form-check-input:valid + .form-check-label, .form-check-input.is-valid + .form-c/;"	c
+.form-check-label	bootstrap.css	/^.form-check-label {$/;"	c
+.form-check.disabled .form-check-label	bootstrap.css	/^.form-check.disabled .form-check-label {$/;"	c
+.form-control	bootstrap.css	/^.form-control {$/;"	c
+.form-control + .input-group-addon:not(:first-child)	bootstrap.css	/^.form-control + .input-group-addon:not(:first-child) {$/;"	c
+.form-control-file	bootstrap.css	/^.form-control-file,$/;"	c
+.form-control-lg	bootstrap.css	/^.form-control-lg, .input-group-lg > .form-control,$/;"	c
+.form-control-plaintext	bootstrap.css	/^.form-control-plaintext {$/;"	c
+.form-control-plaintext.form-control-lg	bootstrap.css	/^.input-group-sm > .input-group-btn > .form-control-plaintext.btn, .form-control-plaintext.form-c/;"	c
+.form-control-plaintext.form-control-sm	bootstrap.css	/^.form-control-plaintext.form-control-sm, .input-group-sm > .form-control-plaintext.form-control,$/;"	c
+.form-control-range	bootstrap.css	/^.form-control-range {$/;"	c
+.form-control-sm	bootstrap.css	/^.form-control-sm, .input-group-sm > .form-control,$/;"	c
+.form-control.is-invalid	bootstrap.css	/^.form-control.is-invalid ~ .invalid-tooltip, .was-validated$/;"	c
+.form-control.is-invalid	bootstrap.css	/^.was-validated .form-control:invalid ~ .invalid-tooltip, .form-control.is-invalid ~ .invalid-fee/;"	c
+.form-control.is-invalid	bootstrap.css	/^.was-validated .form-control:invalid, .form-control.is-invalid, .was-validated$/;"	c
+.form-control.is-invalid:focus	bootstrap.css	/^.was-validated .form-control:invalid:focus, .form-control.is-invalid:focus, .was-validated$/;"	c
+.form-control.is-valid	bootstrap.css	/^.form-control.is-valid ~ .valid-tooltip, .was-validated$/;"	c
+.form-control.is-valid	bootstrap.css	/^.was-validated .form-control:valid ~ .valid-tooltip, .form-control.is-valid ~ .valid-feedback,$/;"	c
+.form-control.is-valid	bootstrap.css	/^.was-validated .form-control:valid, .form-control.is-valid, .was-validated$/;"	c
+.form-control.is-valid:focus	bootstrap.css	/^.was-validated .form-control:valid:focus, .form-control.is-valid:focus, .was-validated$/;"	c
+.form-control:-ms-input-placeholder	bootstrap.css	/^.form-control:-ms-input-placeholder {$/;"	c
+.form-control::-moz-placeholder	bootstrap.css	/^.form-control::-moz-placeholder {$/;"	c
+.form-control::-ms-expand	bootstrap.css	/^.form-control::-ms-expand {$/;"	c
+.form-control::-webkit-input-placeholder	bootstrap.css	/^.form-control::-webkit-input-placeholder {$/;"	c
+.form-control::placeholder	bootstrap.css	/^.form-control::placeholder {$/;"	c
+.form-control:disabled	bootstrap.css	/^.form-control:disabled, .form-control[readonly] {$/;"	c
+.form-control:focus	bootstrap.css	/^.form-control:focus {$/;"	c
+.form-control[readonly]	bootstrap.css	/^.form-control:disabled, .form-control[readonly] {$/;"	c
+.form-group	bootstrap.css	/^.form-group {$/;"	c
+.form-inline	bootstrap.css	/^.form-inline {$/;"	c
+.form-inline .custom-control	bootstrap.css	/^  .form-inline .custom-control {$/;"	c
+.form-inline .custom-control-indicator	bootstrap.css	/^  .form-inline .custom-control-indicator {$/;"	c
+.form-inline .form-check	bootstrap.css	/^  .form-inline .form-check {$/;"	c
+.form-inline .form-check	bootstrap.css	/^.form-inline .form-check {$/;"	c
+.form-inline .form-check-input	bootstrap.css	/^  .form-inline .form-check-input {$/;"	c
+.form-inline .form-check-label	bootstrap.css	/^  .form-inline .form-check-label {$/;"	c
+.form-inline .form-control	bootstrap.css	/^  .form-inline .form-control {$/;"	c
+.form-inline .form-control-plaintext	bootstrap.css	/^  .form-inline .form-control-plaintext {$/;"	c
+.form-inline .form-group	bootstrap.css	/^  .form-inline .form-group {$/;"	c
+.form-inline .has-feedback .form-control-feedback	bootstrap.css	/^  .form-inline .has-feedback .form-control-feedback {$/;"	c
+.form-inline .input-group	bootstrap.css	/^  .form-inline .input-group {$/;"	c
+.form-inline label	bootstrap.css	/^  .form-inline label {$/;"	s
+.form-row	bootstrap.css	/^.form-row {$/;"	c
+.form-row > .col	bootstrap.css	/^.form-row > .col,$/;"	c
+.form-row >[class*="col-"]	bootstrap.css	/^.form-row > [class*="col-"] {$/;"	s
+.form-text	bootstrap.css	/^.form-text {$/;"	c
+.h-100	bootstrap.css	/^.h-100 {$/;"	c
+.h-25	bootstrap.css	/^.h-25 {$/;"	c
+.h-50	bootstrap.css	/^.h-50 {$/;"	c
+.h-75	bootstrap.css	/^.h-75 {$/;"	c
+.h1	bootstrap.css	/^.h1, .h2, .h3, .h4, .h5, .h6 {$/;"	c
+.h1	bootstrap.css	/^h1, .h1 {$/;"	c
+.h2	bootstrap.css	/^.h1, .h2, .h3, .h4, .h5, .h6 {$/;"	c
+.h2	bootstrap.css	/^h2, .h2 {$/;"	c
+.h3	bootstrap.css	/^.h1, .h2, .h3, .h4, .h5, .h6 {$/;"	c
+.h3	bootstrap.css	/^h3, .h3 {$/;"	c
+.h4	bootstrap.css	/^.h1, .h2, .h3, .h4, .h5, .h6 {$/;"	c
+.h4	bootstrap.css	/^h4, .h4 {$/;"	c
+.h5	bootstrap.css	/^.h1, .h2, .h3, .h4, .h5, .h6 {$/;"	c
+.h5	bootstrap.css	/^h5, .h5 {$/;"	c
+.h6	bootstrap.css	/^.h1, .h2, .h3, .h4, .h5, .h6 {$/;"	c
+.h6	bootstrap.css	/^h6, .h6 {$/;"	c
+.header	jumbotron.css	/^  .header {$/;"	c
+.header	jumbotron.css	/^  .header,$/;"	c
+.header	jumbotron.css	/^.header {$/;"	c
+.header	jumbotron.css	/^.header,$/;"	c
+.header h3	jumbotron.css	/^.header h3 {$/;"	s
+.img-fluid	bootstrap.css	/^.img-fluid {$/;"	c
+.img-thumbnail	bootstrap.css	/^.img-thumbnail {$/;"	c
+.initialism	bootstrap.css	/^.initialism {$/;"	c
+.input-group	bootstrap.css	/^.input-group {$/;"	c
+.input-group .form-control	bootstrap.css	/^.input-group .form-control {$/;"	c
+.input-group .form-control:active	bootstrap.css	/^.input-group .form-control:focus, .input-group .form-control:active, .input-group .form-control:/;"	c
+.input-group .form-control:focus	bootstrap.css	/^.input-group .form-control:focus, .input-group .form-control:active, .input-group .form-control:/;"	c
+.input-group .form-control:hover	bootstrap.css	/^.input-group .form-control:focus, .input-group .form-control:active, .input-group .form-control:/;"	c
+.input-group .form-control:not(:first-child)	bootstrap.css	/^.input-group .form-control:not(:first-child),$/;"	c
+.input-group .form-control:not(:first-child):not(:last-child)	bootstrap.css	/^.input-group .form-control:not(:first-child):not(:last-child) {$/;"	c
+.input-group .form-control:not(:last-child)	bootstrap.css	/^.input-group .form-control:not(:last-child),$/;"	c
+.input-group-addon	bootstrap.css	/^.input-group-addon {$/;"	c
+.input-group-addon	bootstrap.css	/^.input-group-addon,$/;"	c
+.input-group-addon input[type="checkbox"]	bootstrap.css	/^.input-group-addon input[type="checkbox"] {$/;"	s
+.input-group-addon input[type="radio"]	bootstrap.css	/^.input-group-addon input[type="radio"],$/;"	s
+.input-group-addon.form-control-lg	bootstrap.css	/^.input-group-addon.form-control-lg,$/;"	c
+.input-group-addon.form-control-sm	bootstrap.css	/^.input-group-addon.form-control-sm,$/;"	c
+.input-group-addon:not(:first-child)	bootstrap.css	/^.input-group-addon:not(:first-child),$/;"	c
+.input-group-addon:not(:first-child):not(:last-child)	bootstrap.css	/^.input-group-addon:not(:first-child):not(:last-child),$/;"	c
+.input-group-addon:not(:last-child)	bootstrap.css	/^.input-group-addon:not(:last-child) {$/;"	c
+.input-group-addon:not(:last-child)	bootstrap.css	/^.input-group-addon:not(:last-child),$/;"	c
+.input-group-btn	bootstrap.css	/^.input-group-btn {$/;"	c
+.input-group-btn	bootstrap.css	/^.input-group-btn,$/;"	c
+.input-group-btn > .btn	bootstrap.css	/^.input-group-btn > .btn {$/;"	c
+.input-group-btn > .btn + .btn	bootstrap.css	/^.input-group-btn > .btn + .btn {$/;"	c
+.input-group-btn > .btn:active	bootstrap.css	/^.input-group-btn > .btn:focus, .input-group-btn > .btn:active, .input-group-btn > .btn:hover {$/;"	c
+.input-group-btn > .btn:focus	bootstrap.css	/^.input-group-btn > .btn:focus, .input-group-btn > .btn:active, .input-group-btn > .btn:hover {$/;"	c
+.input-group-btn > .btn:hover	bootstrap.css	/^.input-group-btn > .btn:focus, .input-group-btn > .btn:active, .input-group-btn > .btn:hover {$/;"	c
+.input-group-btn:first-child > .btn + .btn	bootstrap.css	/^.input-group-btn:first-child > .btn + .btn {$/;"	c
+.input-group-btn:not(:first-child) > .btn	bootstrap.css	/^.input-group-btn:not(:first-child) > .btn,$/;"	c
+.input-group-btn:not(:first-child) > .btn-group	bootstrap.css	/^.input-group-btn:not(:first-child) > .btn-group {$/;"	c
+.input-group-btn:not(:first-child) > .btn-group > .btn	bootstrap.css	/^.input-group-btn:not(:first-child) > .btn-group > .btn,$/;"	c
+.input-group-btn:not(:first-child) > .btn-group:active	bootstrap.css	/^.input-group-btn:not(:first-child) > .btn-group:active,$/;"	c
+.input-group-btn:not(:first-child) > .btn-group:first-child	bootstrap.css	/^.input-group-btn:not(:first-child) > .btn-group:first-child {$/;"	c
+.input-group-btn:not(:first-child) > .btn-group:focus	bootstrap.css	/^.input-group-btn:not(:first-child) > .btn-group:focus,$/;"	c
+.input-group-btn:not(:first-child) > .btn-group:hover	bootstrap.css	/^.input-group-btn:not(:first-child) > .btn-group:hover {$/;"	c
+.input-group-btn:not(:first-child) > .btn-group:not(:last-child) > .btn	bootstrap.css	/^.input-group-btn:not(:first-child) > .btn-group:not(:last-child) > .btn {$/;"	c
+.input-group-btn:not(:first-child) > .btn:active	bootstrap.css	/^.input-group-btn:not(:first-child) > .btn:focus, .input-group-btn:not(:first-child) > .btn:activ/;"	c
+.input-group-btn:not(:first-child) > .btn:first-child	bootstrap.css	/^.input-group-btn:not(:first-child) > .btn:first-child,$/;"	c
+.input-group-btn:not(:first-child) > .btn:focus	bootstrap.css	/^.input-group-btn:not(:first-child) > .btn:focus, .input-group-btn:not(:first-child) > .btn:activ/;"	c
+.input-group-btn:not(:first-child) > .btn:hover	bootstrap.css	/^.input-group-btn:not(:first-child) > .btn:focus, .input-group-btn:not(:first-child) > .btn:activ/;"	c
+.input-group-btn:not(:first-child) > .btn:not(:last-child):not(.dropdown-toggle)	bootstrap.css	/^.input-group-btn:not(:first-child) > .btn:not(:last-child):not(.dropdown-toggle),$/;"	c
+.input-group-btn:not(:first-child) > .dropdown-toggle	bootstrap.css	/^.input-group-btn:not(:first-child) > .dropdown-toggle,$/;"	c
+.input-group-btn:not(:first-child):not(:last-child)	bootstrap.css	/^.input-group-btn:not(:first-child):not(:last-child),$/;"	c
+.input-group-btn:not(:last-child) > .btn	bootstrap.css	/^.input-group-btn:not(:last-child) > .btn,$/;"	c
+.input-group-btn:not(:last-child) > .btn-group	bootstrap.css	/^.input-group-btn:not(:last-child) > .btn-group {$/;"	c
+.input-group-btn:not(:last-child) > .btn-group > .btn	bootstrap.css	/^.input-group-btn:not(:last-child) > .btn-group > .btn,$/;"	c
+.input-group-btn:not(:last-child) > .btn-group:not(:first-child) > .btn	bootstrap.css	/^.input-group-btn:not(:last-child) > .btn-group:not(:first-child) > .btn {$/;"	c
+.input-group-btn:not(:last-child) > .btn:not(:first-child)	bootstrap.css	/^.input-group-btn:not(:last-child) > .btn:not(:first-child),$/;"	c
+.input-group-btn:not(:last-child) > .dropdown-toggle	bootstrap.css	/^.input-group-btn:not(:last-child) > .dropdown-toggle,$/;"	c
+.input-group-lg > .form-control	bootstrap.css	/^.form-control-lg, .input-group-lg > .form-control,$/;"	c
+.input-group-lg > .form-control-plaintext.form-control	bootstrap.css	/^.input-group-sm > .input-group-btn > .form-control-plaintext.btn, .form-control-plaintext.form-c/;"	c
+.input-group-lg > .form-control-plaintext.input-group-addon	bootstrap.css	/^.input-group-lg > .form-control-plaintext.input-group-addon,$/;"	c
+.input-group-lg > .input-group-addon	bootstrap.css	/^.input-group-lg > .input-group-addon,$/;"	c
+.input-group-lg > .input-group-btn > .btn	bootstrap.css	/^.input-group-lg > .input-group-btn > .btn {$/;"	c
+.input-group-lg > .input-group-btn > .form-control-plaintext.btn	bootstrap.css	/^.input-group-lg > .input-group-btn > .form-control-plaintext.btn {$/;"	c
+.input-group-lg > .input-group-btn > .input-group-addon.btn	bootstrap.css	/^.input-group-lg > .input-group-btn > .input-group-addon.btn {$/;"	c
+.input-group-lg > .input-group-btn > select.btn:not([size] ):not([multiple] )	bootstrap.css	/^.input-group-lg > .input-group-btn > select.btn:not([size]):not([multiple]) {$/;"	s
+.input-group-lg > select.form-control:not([size] ):not([multiple] )	bootstrap.css	/^select.form-control-lg:not([size]):not([multiple]), .input-group-lg > select.form-control:not([s/;"	s
+.input-group-lg > select.input-group-addon:not([size] ):not([multiple] )	bootstrap.css	/^.input-group-lg > select.input-group-addon:not([size]):not([multiple]),$/;"	s
+.input-group-sm > .form-control	bootstrap.css	/^.form-control-sm, .input-group-sm > .form-control,$/;"	c
+.input-group-sm > .form-control-plaintext.form-control	bootstrap.css	/^.form-control-plaintext.form-control-sm, .input-group-sm > .form-control-plaintext.form-control,$/;"	c
+.input-group-sm > .form-control-plaintext.input-group-addon	bootstrap.css	/^.input-group-sm > .form-control-plaintext.input-group-addon,$/;"	c
+.input-group-sm > .input-group-addon	bootstrap.css	/^.input-group-sm > .input-group-addon,$/;"	c
+.input-group-sm > .input-group-btn > .btn	bootstrap.css	/^.input-group-sm > .input-group-btn > .btn {$/;"	c
+.input-group-sm > .input-group-btn > .form-control-plaintext.btn	bootstrap.css	/^.input-group-sm > .input-group-btn > .form-control-plaintext.btn, .form-control-plaintext.form-c/;"	c
+.input-group-sm > .input-group-btn > .input-group-addon.btn	bootstrap.css	/^.input-group-sm > .input-group-btn > .input-group-addon.btn {$/;"	c
+.input-group-sm > .input-group-btn > select.btn:not([size] ):not([multiple] )	bootstrap.css	/^.input-group-sm > .input-group-btn > select.btn:not([size]):not([multiple]) {$/;"	s
+.input-group-sm > select.form-control:not([size] ):not([multiple] )	bootstrap.css	/^select.form-control-sm:not([size]):not([multiple]), .input-group-sm > select.form-control:not([s/;"	s
+.input-group-sm > select.input-group-addon:not([size] ):not([multiple] )	bootstrap.css	/^.input-group-sm > select.input-group-addon:not([size]):not([multiple]),$/;"	s
+.invalid-feedback	bootstrap.css	/^.custom-select.is-invalid ~ .invalid-feedback,$/;"	c
+.invalid-feedback	bootstrap.css	/^.custom-select:invalid ~ .invalid-feedback,$/;"	c
+.invalid-feedback	bootstrap.css	/^.invalid-feedback {$/;"	c
+.invalid-feedback	bootstrap.css	/^.was-validated .form-control:invalid ~ .invalid-feedback,$/;"	c
+.invalid-feedback	bootstrap.css	/^.was-validated .form-control:invalid ~ .invalid-tooltip, .form-control.is-invalid ~ .invalid-fee/;"	c
+.invalid-tooltip	bootstrap.css	/^.custom-select.is-invalid ~ .invalid-tooltip {$/;"	c
+.invalid-tooltip	bootstrap.css	/^.custom-select:invalid ~ .invalid-tooltip,$/;"	c
+.invalid-tooltip	bootstrap.css	/^.form-control.is-invalid ~ .invalid-tooltip, .was-validated$/;"	c
+.invalid-tooltip	bootstrap.css	/^.invalid-tooltip {$/;"	c
+.invalid-tooltip	bootstrap.css	/^.was-validated .form-control:invalid ~ .invalid-tooltip, .form-control.is-invalid ~ .invalid-fee/;"	c
+.invisible	bootstrap.css	/^.invisible {$/;"	c
+.jumboimage	jumbotron.css	/^.jumboimage {$/;"	c
+.jumbotron	bootstrap.css	/^  .jumbotron {$/;"	c
+.jumbotron	bootstrap.css	/^.jumbotron {$/;"	c
+.jumbotron	jumbotron.css	/^  .jumbotron {$/;"	c
+.jumbotron	jumbotron.css	/^.jumbotron {$/;"	c
+.jumbotron .btn	jumbotron.css	/^.jumbotron .btn {$/;"	c
+.jumbotron-fluid	bootstrap.css	/^.jumbotron-fluid {$/;"	c
+.justify-content-around	bootstrap.css	/^.justify-content-around {$/;"	c
+.justify-content-between	bootstrap.css	/^.justify-content-between {$/;"	c
+.justify-content-center	bootstrap.css	/^.justify-content-center {$/;"	c
+.justify-content-end	bootstrap.css	/^.justify-content-end {$/;"	c
+.justify-content-lg-around	bootstrap.css	/^  .justify-content-lg-around {$/;"	c
+.justify-content-lg-between	bootstrap.css	/^  .justify-content-lg-between {$/;"	c
+.justify-content-lg-center	bootstrap.css	/^  .justify-content-lg-center {$/;"	c
+.justify-content-lg-end	bootstrap.css	/^  .justify-content-lg-end {$/;"	c
+.justify-content-lg-start	bootstrap.css	/^  .justify-content-lg-start {$/;"	c
+.justify-content-md-around	bootstrap.css	/^  .justify-content-md-around {$/;"	c
+.justify-content-md-between	bootstrap.css	/^  .justify-content-md-between {$/;"	c
+.justify-content-md-center	bootstrap.css	/^  .justify-content-md-center {$/;"	c
+.justify-content-md-end	bootstrap.css	/^  .justify-content-md-end {$/;"	c
+.justify-content-md-start	bootstrap.css	/^  .justify-content-md-start {$/;"	c
+.justify-content-sm-around	bootstrap.css	/^  .justify-content-sm-around {$/;"	c
+.justify-content-sm-between	bootstrap.css	/^  .justify-content-sm-between {$/;"	c
+.justify-content-sm-center	bootstrap.css	/^  .justify-content-sm-center {$/;"	c
+.justify-content-sm-end	bootstrap.css	/^  .justify-content-sm-end {$/;"	c
+.justify-content-sm-start	bootstrap.css	/^  .justify-content-sm-start {$/;"	c
+.justify-content-start	bootstrap.css	/^.justify-content-start {$/;"	c
+.justify-content-xl-around	bootstrap.css	/^  .justify-content-xl-around {$/;"	c
+.justify-content-xl-between	bootstrap.css	/^  .justify-content-xl-between {$/;"	c
+.justify-content-xl-center	bootstrap.css	/^  .justify-content-xl-center {$/;"	c
+.justify-content-xl-end	bootstrap.css	/^  .justify-content-xl-end {$/;"	c
+.justify-content-xl-start	bootstrap.css	/^  .justify-content-xl-start {$/;"	c
+.lead	bootstrap.css	/^.lead {$/;"	c
+.list-group	bootstrap.css	/^.list-group {$/;"	c
+.list-group-flush .list-group-item	bootstrap.css	/^.list-group-flush .list-group-item {$/;"	c
+.list-group-flush:first-child .list-group-item:first-child	bootstrap.css	/^.list-group-flush:first-child .list-group-item:first-child {$/;"	c
+.list-group-flush:last-child .list-group-item:last-child	bootstrap.css	/^.list-group-flush:last-child .list-group-item:last-child {$/;"	c
+.list-group-item	bootstrap.css	/^.list-group-item {$/;"	c
+.list-group-item-action	bootstrap.css	/^.list-group-item-action {$/;"	c
+.list-group-item-action .list-group-item-heading	bootstrap.css	/^.list-group-item-action .list-group-item-heading {$/;"	c
+.list-group-item-action:active	bootstrap.css	/^.list-group-item-action:active {$/;"	c
+.list-group-item-action:focus	bootstrap.css	/^.list-group-item-action:focus, .list-group-item-action:hover {$/;"	c
+.list-group-item-action:hover	bootstrap.css	/^.list-group-item-action:focus, .list-group-item-action:hover {$/;"	c
+.list-group-item-danger	bootstrap.css	/^.list-group-item-danger {$/;"	c
+.list-group-item-dark	bootstrap.css	/^.list-group-item-dark {$/;"	c
+.list-group-item-info	bootstrap.css	/^.list-group-item-info {$/;"	c
+.list-group-item-light	bootstrap.css	/^.list-group-item-light {$/;"	c
+.list-group-item-primary	bootstrap.css	/^.list-group-item-primary {$/;"	c
+.list-group-item-secondary	bootstrap.css	/^.list-group-item-secondary {$/;"	c
+.list-group-item-success	bootstrap.css	/^.list-group-item-success {$/;"	c
+.list-group-item-warning	bootstrap.css	/^.list-group-item-warning {$/;"	c
+.list-group-item.active	bootstrap.css	/^.list-group-item.active {$/;"	c
+.list-group-item.disabled	bootstrap.css	/^.list-group-item.disabled, .list-group-item:disabled {$/;"	c
+.list-group-item:disabled	bootstrap.css	/^.list-group-item.disabled, .list-group-item:disabled {$/;"	c
+.list-group-item:first-child	bootstrap.css	/^.list-group-item:first-child {$/;"	c
+.list-group-item:focus	bootstrap.css	/^.list-group-item:focus, .list-group-item:hover {$/;"	c
+.list-group-item:hover	bootstrap.css	/^.list-group-item:focus, .list-group-item:hover {$/;"	c
+.list-group-item:hover	bootstrap.css	/^.list-group-item:hover {$/;"	c
+.list-group-item:hover .list-group-item-heading	bootstrap.css	/^.list-group-item:hover .list-group-item-heading {$/;"	c
+.list-group-item:last-child	bootstrap.css	/^.list-group-item:last-child {$/;"	c
+.list-inline	bootstrap.css	/^.list-inline {$/;"	c
+.list-inline-item	bootstrap.css	/^.list-inline-item {$/;"	c
+.list-inline-item:not(:last-child)	bootstrap.css	/^.list-inline-item:not(:last-child) {$/;"	c
+.list-unstyled	bootstrap.css	/^.list-unstyled {$/;"	c
+.m-0	bootstrap.css	/^.m-0 {$/;"	c
+.m-1	bootstrap.css	/^.m-1 {$/;"	c
+.m-2	bootstrap.css	/^.m-2 {$/;"	c
+.m-3	bootstrap.css	/^.m-3 {$/;"	c
+.m-4	bootstrap.css	/^.m-4 {$/;"	c
+.m-5	bootstrap.css	/^.m-5 {$/;"	c
+.m-auto	bootstrap.css	/^.m-auto {$/;"	c
+.m-lg-0	bootstrap.css	/^  .m-lg-0 {$/;"	c
+.m-lg-1	bootstrap.css	/^  .m-lg-1 {$/;"	c
+.m-lg-2	bootstrap.css	/^  .m-lg-2 {$/;"	c
+.m-lg-3	bootstrap.css	/^  .m-lg-3 {$/;"	c
+.m-lg-4	bootstrap.css	/^  .m-lg-4 {$/;"	c
+.m-lg-5	bootstrap.css	/^  .m-lg-5 {$/;"	c
+.m-lg-auto	bootstrap.css	/^  .m-lg-auto {$/;"	c
+.m-md-0	bootstrap.css	/^  .m-md-0 {$/;"	c
+.m-md-1	bootstrap.css	/^  .m-md-1 {$/;"	c
+.m-md-2	bootstrap.css	/^  .m-md-2 {$/;"	c
+.m-md-3	bootstrap.css	/^  .m-md-3 {$/;"	c
+.m-md-4	bootstrap.css	/^  .m-md-4 {$/;"	c
+.m-md-5	bootstrap.css	/^  .m-md-5 {$/;"	c
+.m-md-auto	bootstrap.css	/^  .m-md-auto {$/;"	c
+.m-sm-0	bootstrap.css	/^  .m-sm-0 {$/;"	c
+.m-sm-1	bootstrap.css	/^  .m-sm-1 {$/;"	c
+.m-sm-2	bootstrap.css	/^  .m-sm-2 {$/;"	c
+.m-sm-3	bootstrap.css	/^  .m-sm-3 {$/;"	c
+.m-sm-4	bootstrap.css	/^  .m-sm-4 {$/;"	c
+.m-sm-5	bootstrap.css	/^  .m-sm-5 {$/;"	c
+.m-sm-auto	bootstrap.css	/^  .m-sm-auto {$/;"	c
+.m-xl-0	bootstrap.css	/^  .m-xl-0 {$/;"	c
+.m-xl-1	bootstrap.css	/^  .m-xl-1 {$/;"	c
+.m-xl-2	bootstrap.css	/^  .m-xl-2 {$/;"	c
+.m-xl-3	bootstrap.css	/^  .m-xl-3 {$/;"	c
+.m-xl-4	bootstrap.css	/^  .m-xl-4 {$/;"	c
+.m-xl-5	bootstrap.css	/^  .m-xl-5 {$/;"	c
+.m-xl-auto	bootstrap.css	/^  .m-xl-auto {$/;"	c
+.mark	bootstrap.css	/^.mark {$/;"	c
+.marketing	jumbotron.css	/^  .marketing,$/;"	c
+.marketing	jumbotron.css	/^.marketing {$/;"	c
+.marketing	jumbotron.css	/^.marketing,$/;"	c
+.marketing p + h4	jumbotron.css	/^.marketing p + h4 {$/;"	s
+.mb-0	bootstrap.css	/^.mb-0,$/;"	c
+.mb-1	bootstrap.css	/^.mb-1,$/;"	c
+.mb-2	bootstrap.css	/^.mb-2,$/;"	c
+.mb-3	bootstrap.css	/^.mb-3,$/;"	c
+.mb-4	bootstrap.css	/^.mb-4,$/;"	c
+.mb-5	bootstrap.css	/^.mb-5,$/;"	c
+.mb-auto	bootstrap.css	/^.mb-auto,$/;"	c
+.mb-lg-0	bootstrap.css	/^  .mb-lg-0,$/;"	c
+.mb-lg-1	bootstrap.css	/^  .mb-lg-1,$/;"	c
+.mb-lg-2	bootstrap.css	/^  .mb-lg-2,$/;"	c
+.mb-lg-3	bootstrap.css	/^  .mb-lg-3,$/;"	c
+.mb-lg-4	bootstrap.css	/^  .mb-lg-4,$/;"	c
+.mb-lg-5	bootstrap.css	/^  .mb-lg-5,$/;"	c
+.mb-lg-auto	bootstrap.css	/^  .mb-lg-auto,$/;"	c
+.mb-md-0	bootstrap.css	/^  .mb-md-0,$/;"	c
+.mb-md-1	bootstrap.css	/^  .mb-md-1,$/;"	c
+.mb-md-2	bootstrap.css	/^  .mb-md-2,$/;"	c
+.mb-md-3	bootstrap.css	/^  .mb-md-3,$/;"	c
+.mb-md-4	bootstrap.css	/^  .mb-md-4,$/;"	c
+.mb-md-5	bootstrap.css	/^  .mb-md-5,$/;"	c
+.mb-md-auto	bootstrap.css	/^  .mb-md-auto,$/;"	c
+.mb-sm-0	bootstrap.css	/^  .mb-sm-0,$/;"	c
+.mb-sm-1	bootstrap.css	/^  .mb-sm-1,$/;"	c
+.mb-sm-2	bootstrap.css	/^  .mb-sm-2,$/;"	c
+.mb-sm-3	bootstrap.css	/^  .mb-sm-3,$/;"	c
+.mb-sm-4	bootstrap.css	/^  .mb-sm-4,$/;"	c
+.mb-sm-5	bootstrap.css	/^  .mb-sm-5,$/;"	c
+.mb-sm-auto	bootstrap.css	/^  .mb-sm-auto,$/;"	c
+.mb-xl-0	bootstrap.css	/^  .mb-xl-0,$/;"	c
+.mb-xl-1	bootstrap.css	/^  .mb-xl-1,$/;"	c
+.mb-xl-2	bootstrap.css	/^  .mb-xl-2,$/;"	c
+.mb-xl-3	bootstrap.css	/^  .mb-xl-3,$/;"	c
+.mb-xl-4	bootstrap.css	/^  .mb-xl-4,$/;"	c
+.mb-xl-5	bootstrap.css	/^  .mb-xl-5,$/;"	c
+.mb-xl-auto	bootstrap.css	/^  .mb-xl-auto,$/;"	c
+.media	bootstrap.css	/^.media {$/;"	c
+.media-body	bootstrap.css	/^.media-body {$/;"	c
+.mh-100	bootstrap.css	/^.mh-100 {$/;"	c
+.ml-0	bootstrap.css	/^.ml-0,$/;"	c
+.ml-1	bootstrap.css	/^.ml-1,$/;"	c
+.ml-2	bootstrap.css	/^.ml-2,$/;"	c
+.ml-3	bootstrap.css	/^.ml-3,$/;"	c
+.ml-4	bootstrap.css	/^.ml-4,$/;"	c
+.ml-5	bootstrap.css	/^.ml-5,$/;"	c
+.ml-auto	bootstrap.css	/^.ml-auto,$/;"	c
+.ml-lg-0	bootstrap.css	/^  .ml-lg-0,$/;"	c
+.ml-lg-1	bootstrap.css	/^  .ml-lg-1,$/;"	c
+.ml-lg-2	bootstrap.css	/^  .ml-lg-2,$/;"	c
+.ml-lg-3	bootstrap.css	/^  .ml-lg-3,$/;"	c
+.ml-lg-4	bootstrap.css	/^  .ml-lg-4,$/;"	c
+.ml-lg-5	bootstrap.css	/^  .ml-lg-5,$/;"	c
+.ml-lg-auto	bootstrap.css	/^  .ml-lg-auto,$/;"	c
+.ml-md-0	bootstrap.css	/^  .ml-md-0,$/;"	c
+.ml-md-1	bootstrap.css	/^  .ml-md-1,$/;"	c
+.ml-md-2	bootstrap.css	/^  .ml-md-2,$/;"	c
+.ml-md-3	bootstrap.css	/^  .ml-md-3,$/;"	c
+.ml-md-4	bootstrap.css	/^  .ml-md-4,$/;"	c
+.ml-md-5	bootstrap.css	/^  .ml-md-5,$/;"	c
+.ml-md-auto	bootstrap.css	/^  .ml-md-auto,$/;"	c
+.ml-sm-0	bootstrap.css	/^  .ml-sm-0,$/;"	c
+.ml-sm-1	bootstrap.css	/^  .ml-sm-1,$/;"	c
+.ml-sm-2	bootstrap.css	/^  .ml-sm-2,$/;"	c
+.ml-sm-3	bootstrap.css	/^  .ml-sm-3,$/;"	c
+.ml-sm-4	bootstrap.css	/^  .ml-sm-4,$/;"	c
+.ml-sm-5	bootstrap.css	/^  .ml-sm-5,$/;"	c
+.ml-sm-auto	bootstrap.css	/^  .ml-sm-auto,$/;"	c
+.ml-xl-0	bootstrap.css	/^  .ml-xl-0,$/;"	c
+.ml-xl-1	bootstrap.css	/^  .ml-xl-1,$/;"	c
+.ml-xl-2	bootstrap.css	/^  .ml-xl-2,$/;"	c
+.ml-xl-3	bootstrap.css	/^  .ml-xl-3,$/;"	c
+.ml-xl-4	bootstrap.css	/^  .ml-xl-4,$/;"	c
+.ml-xl-5	bootstrap.css	/^  .ml-xl-5,$/;"	c
+.ml-xl-auto	bootstrap.css	/^  .ml-xl-auto,$/;"	c
+.modal	bootstrap.css	/^.modal {$/;"	c
+.modal-backdrop	bootstrap.css	/^.modal-backdrop {$/;"	c
+.modal-backdrop.fade	bootstrap.css	/^.modal-backdrop.fade {$/;"	c
+.modal-backdrop.show	bootstrap.css	/^.modal-backdrop.show {$/;"	c
+.modal-body	bootstrap.css	/^.modal-body {$/;"	c
+.modal-content	bootstrap.css	/^.modal-content {$/;"	c
+.modal-dialog	bootstrap.css	/^  .modal-dialog {$/;"	c
+.modal-dialog	bootstrap.css	/^.modal-dialog {$/;"	c
+.modal-footer	bootstrap.css	/^.modal-footer {$/;"	c
+.modal-footer > :not(:first-child)	bootstrap.css	/^.modal-footer > :not(:first-child) {$/;"	s
+.modal-footer > :not(:last-child)	bootstrap.css	/^.modal-footer > :not(:last-child) {$/;"	s
+.modal-header	bootstrap.css	/^.modal-header {$/;"	c
+.modal-header .close	bootstrap.css	/^.modal-header .close {$/;"	c
+.modal-lg	bootstrap.css	/^  .modal-lg {$/;"	c
+.modal-open	bootstrap.css	/^.modal-open {$/;"	c
+.modal-open .modal	bootstrap.css	/^.modal-open .modal {$/;"	c
+.modal-scrollbar-measure	bootstrap.css	/^.modal-scrollbar-measure {$/;"	c
+.modal-sm	bootstrap.css	/^  .modal-sm {$/;"	c
+.modal-title	bootstrap.css	/^.modal-title {$/;"	c
+.modal.fade .modal-dialog	bootstrap.css	/^.modal.fade .modal-dialog {$/;"	c
+.modal.show .modal-dialog	bootstrap.css	/^.modal.show .modal-dialog {$/;"	c
+.mr-0	bootstrap.css	/^.mr-0,$/;"	c
+.mr-1	bootstrap.css	/^.mr-1,$/;"	c
+.mr-2	bootstrap.css	/^.mr-2,$/;"	c
+.mr-3	bootstrap.css	/^.mr-3,$/;"	c
+.mr-4	bootstrap.css	/^.mr-4,$/;"	c
+.mr-5	bootstrap.css	/^.mr-5,$/;"	c
+.mr-auto	bootstrap.css	/^.mr-auto,$/;"	c
+.mr-lg-0	bootstrap.css	/^  .mr-lg-0,$/;"	c
+.mr-lg-1	bootstrap.css	/^  .mr-lg-1,$/;"	c
+.mr-lg-2	bootstrap.css	/^  .mr-lg-2,$/;"	c
+.mr-lg-3	bootstrap.css	/^  .mr-lg-3,$/;"	c
+.mr-lg-4	bootstrap.css	/^  .mr-lg-4,$/;"	c
+.mr-lg-5	bootstrap.css	/^  .mr-lg-5,$/;"	c
+.mr-lg-auto	bootstrap.css	/^  .mr-lg-auto,$/;"	c
+.mr-md-0	bootstrap.css	/^  .mr-md-0,$/;"	c
+.mr-md-1	bootstrap.css	/^  .mr-md-1,$/;"	c
+.mr-md-2	bootstrap.css	/^  .mr-md-2,$/;"	c
+.mr-md-3	bootstrap.css	/^  .mr-md-3,$/;"	c
+.mr-md-4	bootstrap.css	/^  .mr-md-4,$/;"	c
+.mr-md-5	bootstrap.css	/^  .mr-md-5,$/;"	c
+.mr-md-auto	bootstrap.css	/^  .mr-md-auto,$/;"	c
+.mr-sm-0	bootstrap.css	/^  .mr-sm-0,$/;"	c
+.mr-sm-1	bootstrap.css	/^  .mr-sm-1,$/;"	c
+.mr-sm-2	bootstrap.css	/^  .mr-sm-2,$/;"	c
+.mr-sm-3	bootstrap.css	/^  .mr-sm-3,$/;"	c
+.mr-sm-4	bootstrap.css	/^  .mr-sm-4,$/;"	c
+.mr-sm-5	bootstrap.css	/^  .mr-sm-5,$/;"	c
+.mr-sm-auto	bootstrap.css	/^  .mr-sm-auto,$/;"	c
+.mr-xl-0	bootstrap.css	/^  .mr-xl-0,$/;"	c
+.mr-xl-1	bootstrap.css	/^  .mr-xl-1,$/;"	c
+.mr-xl-2	bootstrap.css	/^  .mr-xl-2,$/;"	c
+.mr-xl-3	bootstrap.css	/^  .mr-xl-3,$/;"	c
+.mr-xl-4	bootstrap.css	/^  .mr-xl-4,$/;"	c
+.mr-xl-5	bootstrap.css	/^  .mr-xl-5,$/;"	c
+.mr-xl-auto	bootstrap.css	/^  .mr-xl-auto,$/;"	c
+.mt-0	bootstrap.css	/^.mt-0,$/;"	c
+.mt-1	bootstrap.css	/^.mt-1,$/;"	c
+.mt-2	bootstrap.css	/^.mt-2,$/;"	c
+.mt-3	bootstrap.css	/^.mt-3,$/;"	c
+.mt-4	bootstrap.css	/^.mt-4,$/;"	c
+.mt-5	bootstrap.css	/^.mt-5,$/;"	c
+.mt-auto	bootstrap.css	/^.mt-auto,$/;"	c
+.mt-lg-0	bootstrap.css	/^  .mt-lg-0,$/;"	c
+.mt-lg-1	bootstrap.css	/^  .mt-lg-1,$/;"	c
+.mt-lg-2	bootstrap.css	/^  .mt-lg-2,$/;"	c
+.mt-lg-3	bootstrap.css	/^  .mt-lg-3,$/;"	c
+.mt-lg-4	bootstrap.css	/^  .mt-lg-4,$/;"	c
+.mt-lg-5	bootstrap.css	/^  .mt-lg-5,$/;"	c
+.mt-lg-auto	bootstrap.css	/^  .mt-lg-auto,$/;"	c
+.mt-md-0	bootstrap.css	/^  .mt-md-0,$/;"	c
+.mt-md-1	bootstrap.css	/^  .mt-md-1,$/;"	c
+.mt-md-2	bootstrap.css	/^  .mt-md-2,$/;"	c
+.mt-md-3	bootstrap.css	/^  .mt-md-3,$/;"	c
+.mt-md-4	bootstrap.css	/^  .mt-md-4,$/;"	c
+.mt-md-5	bootstrap.css	/^  .mt-md-5,$/;"	c
+.mt-md-auto	bootstrap.css	/^  .mt-md-auto,$/;"	c
+.mt-sm-0	bootstrap.css	/^  .mt-sm-0,$/;"	c
+.mt-sm-1	bootstrap.css	/^  .mt-sm-1,$/;"	c
+.mt-sm-2	bootstrap.css	/^  .mt-sm-2,$/;"	c
+.mt-sm-3	bootstrap.css	/^  .mt-sm-3,$/;"	c
+.mt-sm-4	bootstrap.css	/^  .mt-sm-4,$/;"	c
+.mt-sm-5	bootstrap.css	/^  .mt-sm-5,$/;"	c
+.mt-sm-auto	bootstrap.css	/^  .mt-sm-auto,$/;"	c
+.mt-xl-0	bootstrap.css	/^  .mt-xl-0,$/;"	c
+.mt-xl-1	bootstrap.css	/^  .mt-xl-1,$/;"	c
+.mt-xl-2	bootstrap.css	/^  .mt-xl-2,$/;"	c
+.mt-xl-3	bootstrap.css	/^  .mt-xl-3,$/;"	c
+.mt-xl-4	bootstrap.css	/^  .mt-xl-4,$/;"	c
+.mt-xl-5	bootstrap.css	/^  .mt-xl-5,$/;"	c
+.mt-xl-auto	bootstrap.css	/^  .mt-xl-auto,$/;"	c
+.mw-100	bootstrap.css	/^.mw-100 {$/;"	c
+.mx-0	bootstrap.css	/^.mx-0 {$/;"	c
+.mx-1	bootstrap.css	/^.mx-1 {$/;"	c
+.mx-2	bootstrap.css	/^.mx-2 {$/;"	c
+.mx-3	bootstrap.css	/^.mx-3 {$/;"	c
+.mx-4	bootstrap.css	/^.mx-4 {$/;"	c
+.mx-5	bootstrap.css	/^.mx-5 {$/;"	c
+.mx-auto	bootstrap.css	/^.mx-auto {$/;"	c
+.mx-lg-0	bootstrap.css	/^  .mx-lg-0 {$/;"	c
+.mx-lg-1	bootstrap.css	/^  .mx-lg-1 {$/;"	c
+.mx-lg-2	bootstrap.css	/^  .mx-lg-2 {$/;"	c
+.mx-lg-3	bootstrap.css	/^  .mx-lg-3 {$/;"	c
+.mx-lg-4	bootstrap.css	/^  .mx-lg-4 {$/;"	c
+.mx-lg-5	bootstrap.css	/^  .mx-lg-5 {$/;"	c
+.mx-lg-auto	bootstrap.css	/^  .mx-lg-auto {$/;"	c
+.mx-md-0	bootstrap.css	/^  .mx-md-0 {$/;"	c
+.mx-md-1	bootstrap.css	/^  .mx-md-1 {$/;"	c
+.mx-md-2	bootstrap.css	/^  .mx-md-2 {$/;"	c
+.mx-md-3	bootstrap.css	/^  .mx-md-3 {$/;"	c
+.mx-md-4	bootstrap.css	/^  .mx-md-4 {$/;"	c
+.mx-md-5	bootstrap.css	/^  .mx-md-5 {$/;"	c
+.mx-md-auto	bootstrap.css	/^  .mx-md-auto {$/;"	c
+.mx-sm-0	bootstrap.css	/^  .mx-sm-0 {$/;"	c
+.mx-sm-1	bootstrap.css	/^  .mx-sm-1 {$/;"	c
+.mx-sm-2	bootstrap.css	/^  .mx-sm-2 {$/;"	c
+.mx-sm-3	bootstrap.css	/^  .mx-sm-3 {$/;"	c
+.mx-sm-4	bootstrap.css	/^  .mx-sm-4 {$/;"	c
+.mx-sm-5	bootstrap.css	/^  .mx-sm-5 {$/;"	c
+.mx-sm-auto	bootstrap.css	/^  .mx-sm-auto {$/;"	c
+.mx-xl-0	bootstrap.css	/^  .mx-xl-0 {$/;"	c
+.mx-xl-1	bootstrap.css	/^  .mx-xl-1 {$/;"	c
+.mx-xl-2	bootstrap.css	/^  .mx-xl-2 {$/;"	c
+.mx-xl-3	bootstrap.css	/^  .mx-xl-3 {$/;"	c
+.mx-xl-4	bootstrap.css	/^  .mx-xl-4 {$/;"	c
+.mx-xl-5	bootstrap.css	/^  .mx-xl-5 {$/;"	c
+.mx-xl-auto	bootstrap.css	/^  .mx-xl-auto {$/;"	c
+.my-0	bootstrap.css	/^.my-0 {$/;"	c
+.my-1	bootstrap.css	/^.my-1 {$/;"	c
+.my-2	bootstrap.css	/^.my-2 {$/;"	c
+.my-3	bootstrap.css	/^.my-3 {$/;"	c
+.my-4	bootstrap.css	/^.my-4 {$/;"	c
+.my-5	bootstrap.css	/^.my-5 {$/;"	c
+.my-auto	bootstrap.css	/^.my-auto {$/;"	c
+.my-lg-0	bootstrap.css	/^  .my-lg-0 {$/;"	c
+.my-lg-1	bootstrap.css	/^  .my-lg-1 {$/;"	c
+.my-lg-2	bootstrap.css	/^  .my-lg-2 {$/;"	c
+.my-lg-3	bootstrap.css	/^  .my-lg-3 {$/;"	c
+.my-lg-4	bootstrap.css	/^  .my-lg-4 {$/;"	c
+.my-lg-5	bootstrap.css	/^  .my-lg-5 {$/;"	c
+.my-lg-auto	bootstrap.css	/^  .my-lg-auto {$/;"	c
+.my-md-0	bootstrap.css	/^  .my-md-0 {$/;"	c
+.my-md-1	bootstrap.css	/^  .my-md-1 {$/;"	c
+.my-md-2	bootstrap.css	/^  .my-md-2 {$/;"	c
+.my-md-3	bootstrap.css	/^  .my-md-3 {$/;"	c
+.my-md-4	bootstrap.css	/^  .my-md-4 {$/;"	c
+.my-md-5	bootstrap.css	/^  .my-md-5 {$/;"	c
+.my-md-auto	bootstrap.css	/^  .my-md-auto {$/;"	c
+.my-sm-0	bootstrap.css	/^  .my-sm-0 {$/;"	c
+.my-sm-1	bootstrap.css	/^  .my-sm-1 {$/;"	c
+.my-sm-2	bootstrap.css	/^  .my-sm-2 {$/;"	c
+.my-sm-3	bootstrap.css	/^  .my-sm-3 {$/;"	c
+.my-sm-4	bootstrap.css	/^  .my-sm-4 {$/;"	c
+.my-sm-5	bootstrap.css	/^  .my-sm-5 {$/;"	c
+.my-sm-auto	bootstrap.css	/^  .my-sm-auto {$/;"	c
+.my-xl-0	bootstrap.css	/^  .my-xl-0 {$/;"	c
+.my-xl-1	bootstrap.css	/^  .my-xl-1 {$/;"	c
+.my-xl-2	bootstrap.css	/^  .my-xl-2 {$/;"	c
+.my-xl-3	bootstrap.css	/^  .my-xl-3 {$/;"	c
+.my-xl-4	bootstrap.css	/^  .my-xl-4 {$/;"	c
+.my-xl-5	bootstrap.css	/^  .my-xl-5 {$/;"	c
+.my-xl-auto	bootstrap.css	/^  .my-xl-auto {$/;"	c
+.nav	bootstrap.css	/^.nav {$/;"	c
+.nav-fill .nav-item	bootstrap.css	/^.nav-fill .nav-item {$/;"	c
+.nav-justified .nav-item	bootstrap.css	/^.nav-justified .nav-item {$/;"	c
+.nav-link	bootstrap.css	/^.nav-link {$/;"	c
+.nav-link.disabled	bootstrap.css	/^.nav-link.disabled {$/;"	c
+.nav-link:focus	bootstrap.css	/^.nav-link:focus, .nav-link:hover {$/;"	c
+.nav-link:hover	bootstrap.css	/^.nav-link:focus, .nav-link:hover {$/;"	c
+.nav-pills .nav-link	bootstrap.css	/^.nav-pills .nav-link {$/;"	c
+.nav-pills .nav-link.active	bootstrap.css	/^.nav-pills .nav-link.active {$/;"	c
+.nav-pills .nav-link.active	bootstrap.css	/^.nav-pills .nav-link.active,$/;"	c
+.nav-pills .nav-link.disabled	bootstrap.css	/^.nav-pills .nav-link.disabled,$/;"	c
+.nav-pills .nav-link.disabled:hover	bootstrap.css	/^.nav-pills .nav-link.disabled:hover {$/;"	c
+.nav-pills .nav-link:hover	bootstrap.css	/^.nav-pills .nav-link:hover {$/;"	c
+.nav-pills .show > .nav-link	bootstrap.css	/^.nav-pills .show > .nav-link {$/;"	c
+.nav-tabs	bootstrap.css	/^.nav-tabs {$/;"	c
+.nav-tabs .dropdown-menu	bootstrap.css	/^.nav-tabs .dropdown-menu {$/;"	c
+.nav-tabs .nav-item	bootstrap.css	/^.nav-tabs .nav-item {$/;"	c
+.nav-tabs .nav-item.show .nav-link	bootstrap.css	/^.nav-tabs .nav-item.show .nav-link {$/;"	c
+.nav-tabs .nav-link	bootstrap.css	/^.nav-tabs .nav-link {$/;"	c
+.nav-tabs .nav-link	bootstrap.css	/^.nav-tabs .nav-link,$/;"	c
+.nav-tabs .nav-link.active	bootstrap.css	/^.nav-tabs .nav-link.active,$/;"	c
+.nav-tabs .nav-link.disabled	bootstrap.css	/^.nav-tabs .nav-link.disabled {$/;"	c
+.nav-tabs .nav-link.disabled	bootstrap.css	/^.nav-tabs .nav-link.disabled, .nav-tabs .nav-link.disabled:hover,$/;"	c
+.nav-tabs .nav-link.disabled:hover	bootstrap.css	/^.nav-tabs .nav-link.disabled, .nav-tabs .nav-link.disabled:hover,$/;"	c
+.nav-tabs .nav-link:focus	bootstrap.css	/^.nav-tabs .nav-link:focus, .nav-tabs .nav-link:hover {$/;"	c
+.nav-tabs .nav-link:hover	bootstrap.css	/^.nav-tabs .nav-link:focus, .nav-tabs .nav-link:hover {$/;"	c
+.nav-tabs .nav-link:hover	bootstrap.css	/^.nav-tabs .nav-link:hover,$/;"	c
+.navbar	bootstrap.css	/^  .navbar {$/;"	c
+.navbar	bootstrap.css	/^.navbar {$/;"	c
+.navbar > .container	bootstrap.css	/^.navbar > .container,$/;"	c
+.navbar > .container-fluid	bootstrap.css	/^.navbar > .container-fluid {$/;"	c
+.navbar-brand	bootstrap.css	/^.navbar-brand {$/;"	c
+.navbar-brand:focus	bootstrap.css	/^.navbar-brand:focus, .navbar-brand:hover {$/;"	c
+.navbar-brand:hover	bootstrap.css	/^.navbar-brand:focus, .navbar-brand:hover {$/;"	c
+.navbar-collapse	bootstrap.css	/^.navbar-collapse {$/;"	c
+.navbar-dark .navbar-brand	bootstrap.css	/^.navbar-dark .navbar-brand {$/;"	c
+.navbar-dark .navbar-brand:focus	bootstrap.css	/^.navbar-dark .navbar-brand:focus, .navbar-dark .navbar-brand:hover {$/;"	c
+.navbar-dark .navbar-brand:hover	bootstrap.css	/^.navbar-dark .navbar-brand:focus, .navbar-dark .navbar-brand:hover {$/;"	c
+.navbar-dark .navbar-nav .active > .nav-link	bootstrap.css	/^.navbar-dark .navbar-nav .active > .nav-link,$/;"	c
+.navbar-dark .navbar-nav .nav-link	bootstrap.css	/^.navbar-dark .navbar-nav .nav-link {$/;"	c
+.navbar-dark .navbar-nav .nav-link.active	bootstrap.css	/^.navbar-dark .navbar-nav .nav-link.active {$/;"	c
+.navbar-dark .navbar-nav .nav-link.disabled	bootstrap.css	/^.navbar-dark .navbar-nav .nav-link.disabled {$/;"	c
+.navbar-dark .navbar-nav .nav-link.show	bootstrap.css	/^.navbar-dark .navbar-nav .nav-link.show,$/;"	c
+.navbar-dark .navbar-nav .nav-link:focus	bootstrap.css	/^.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {$/;"	c
+.navbar-dark .navbar-nav .nav-link:hover	bootstrap.css	/^.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {$/;"	c
+.navbar-dark .navbar-nav .show > .nav-link	bootstrap.css	/^.navbar-dark .navbar-nav .show > .nav-link,$/;"	c
+.navbar-dark .navbar-text	bootstrap.css	/^.navbar-dark .navbar-text {$/;"	c
+.navbar-dark .navbar-text a	bootstrap.css	/^.navbar-dark .navbar-text a {$/;"	s
+.navbar-dark .navbar-text a:focus	bootstrap.css	/^.navbar-dark .navbar-text a:focus, .navbar-dark .navbar-text a:hover {$/;"	s
+.navbar-dark .navbar-text a:hover	bootstrap.css	/^.navbar-dark .navbar-text a:focus, .navbar-dark .navbar-text a:hover {$/;"	s
+.navbar-dark .navbar-toggler	bootstrap.css	/^.navbar-dark .navbar-toggler {$/;"	c
+.navbar-dark .navbar-toggler-icon	bootstrap.css	/^.navbar-dark .navbar-toggler-icon {$/;"	c
+.navbar-expand	bootstrap.css	/^.navbar-expand {$/;"	c
+.navbar-expand .dropup .dropdown-menu	bootstrap.css	/^.navbar-expand .dropup .dropdown-menu {$/;"	c
+.navbar-expand .navbar-collapse	bootstrap.css	/^.navbar-expand .navbar-collapse {$/;"	c
+.navbar-expand .navbar-nav	bootstrap.css	/^.navbar-expand .navbar-nav {$/;"	c
+.navbar-expand .navbar-nav .dropdown-menu	bootstrap.css	/^.navbar-expand .navbar-nav .dropdown-menu {$/;"	c
+.navbar-expand .navbar-nav .dropdown-menu-right	bootstrap.css	/^.navbar-expand .navbar-nav .dropdown-menu-right {$/;"	c
+.navbar-expand .navbar-nav .nav-link	bootstrap.css	/^.navbar-expand .navbar-nav .nav-link {$/;"	c
+.navbar-expand .navbar-toggler	bootstrap.css	/^.navbar-expand .navbar-toggler {$/;"	c
+.navbar-expand > .container	bootstrap.css	/^.navbar-expand > .container,$/;"	c
+.navbar-expand > .container-fluid	bootstrap.css	/^.navbar-expand > .container-fluid {$/;"	c
+.navbar-expand-lg	bootstrap.css	/^  .navbar-expand-lg {$/;"	c
+.navbar-expand-lg .dropup .dropdown-menu	bootstrap.css	/^  .navbar-expand-lg .dropup .dropdown-menu {$/;"	c
+.navbar-expand-lg .navbar-collapse	bootstrap.css	/^  .navbar-expand-lg .navbar-collapse {$/;"	c
+.navbar-expand-lg .navbar-nav	bootstrap.css	/^  .navbar-expand-lg .navbar-nav {$/;"	c
+.navbar-expand-lg .navbar-nav .dropdown-menu	bootstrap.css	/^  .navbar-expand-lg .navbar-nav .dropdown-menu {$/;"	c
+.navbar-expand-lg .navbar-nav .dropdown-menu-right	bootstrap.css	/^  .navbar-expand-lg .navbar-nav .dropdown-menu-right {$/;"	c
+.navbar-expand-lg .navbar-nav .nav-link	bootstrap.css	/^  .navbar-expand-lg .navbar-nav .nav-link {$/;"	c
+.navbar-expand-lg .navbar-toggler	bootstrap.css	/^  .navbar-expand-lg .navbar-toggler {$/;"	c
+.navbar-expand-lg > .container	bootstrap.css	/^  .navbar-expand-lg > .container,$/;"	c
+.navbar-expand-lg > .container-fluid	bootstrap.css	/^  .navbar-expand-lg > .container-fluid {$/;"	c
+.navbar-expand-md	bootstrap.css	/^  .navbar-expand-md {$/;"	c
+.navbar-expand-md .dropup .dropdown-menu	bootstrap.css	/^  .navbar-expand-md .dropup .dropdown-menu {$/;"	c
+.navbar-expand-md .navbar-collapse	bootstrap.css	/^  .navbar-expand-md .navbar-collapse {$/;"	c
+.navbar-expand-md .navbar-nav	bootstrap.css	/^  .navbar-expand-md .navbar-nav {$/;"	c
+.navbar-expand-md .navbar-nav .dropdown-menu	bootstrap.css	/^  .navbar-expand-md .navbar-nav .dropdown-menu {$/;"	c
+.navbar-expand-md .navbar-nav .dropdown-menu-right	bootstrap.css	/^  .navbar-expand-md .navbar-nav .dropdown-menu-right {$/;"	c
+.navbar-expand-md .navbar-nav .nav-link	bootstrap.css	/^  .navbar-expand-md .navbar-nav .nav-link {$/;"	c
+.navbar-expand-md .navbar-toggler	bootstrap.css	/^  .navbar-expand-md .navbar-toggler {$/;"	c
+.navbar-expand-md > .container	bootstrap.css	/^  .navbar-expand-md > .container,$/;"	c
+.navbar-expand-md > .container-fluid	bootstrap.css	/^  .navbar-expand-md > .container-fluid {$/;"	c
+.navbar-expand-sm	bootstrap.css	/^  .navbar-expand-sm {$/;"	c
+.navbar-expand-sm .dropup .dropdown-menu	bootstrap.css	/^  .navbar-expand-sm .dropup .dropdown-menu {$/;"	c
+.navbar-expand-sm .navbar-collapse	bootstrap.css	/^  .navbar-expand-sm .navbar-collapse {$/;"	c
+.navbar-expand-sm .navbar-nav	bootstrap.css	/^  .navbar-expand-sm .navbar-nav {$/;"	c
+.navbar-expand-sm .navbar-nav .dropdown-menu	bootstrap.css	/^  .navbar-expand-sm .navbar-nav .dropdown-menu {$/;"	c
+.navbar-expand-sm .navbar-nav .dropdown-menu-right	bootstrap.css	/^  .navbar-expand-sm .navbar-nav .dropdown-menu-right {$/;"	c
+.navbar-expand-sm .navbar-nav .nav-link	bootstrap.css	/^  .navbar-expand-sm .navbar-nav .nav-link {$/;"	c
+.navbar-expand-sm .navbar-toggler	bootstrap.css	/^  .navbar-expand-sm .navbar-toggler {$/;"	c
+.navbar-expand-sm > .container	bootstrap.css	/^  .navbar-expand-sm > .container,$/;"	c
+.navbar-expand-sm > .container-fluid	bootstrap.css	/^  .navbar-expand-sm > .container-fluid {$/;"	c
+.navbar-expand-xl	bootstrap.css	/^  .navbar-expand-xl {$/;"	c
+.navbar-expand-xl .dropup .dropdown-menu	bootstrap.css	/^  .navbar-expand-xl .dropup .dropdown-menu {$/;"	c
+.navbar-expand-xl .navbar-collapse	bootstrap.css	/^  .navbar-expand-xl .navbar-collapse {$/;"	c
+.navbar-expand-xl .navbar-nav	bootstrap.css	/^  .navbar-expand-xl .navbar-nav {$/;"	c
+.navbar-expand-xl .navbar-nav .dropdown-menu	bootstrap.css	/^  .navbar-expand-xl .navbar-nav .dropdown-menu {$/;"	c
+.navbar-expand-xl .navbar-nav .dropdown-menu-right	bootstrap.css	/^  .navbar-expand-xl .navbar-nav .dropdown-menu-right {$/;"	c
+.navbar-expand-xl .navbar-nav .nav-link	bootstrap.css	/^  .navbar-expand-xl .navbar-nav .nav-link {$/;"	c
+.navbar-expand-xl .navbar-toggler	bootstrap.css	/^  .navbar-expand-xl .navbar-toggler {$/;"	c
+.navbar-expand-xl > .container	bootstrap.css	/^  .navbar-expand-xl > .container,$/;"	c
+.navbar-expand-xl > .container-fluid	bootstrap.css	/^  .navbar-expand-xl > .container-fluid {$/;"	c
+.navbar-light .navbar-brand	bootstrap.css	/^.navbar-light .navbar-brand {$/;"	c
+.navbar-light .navbar-brand:focus	bootstrap.css	/^.navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {$/;"	c
+.navbar-light .navbar-brand:hover	bootstrap.css	/^.navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {$/;"	c
+.navbar-light .navbar-nav .active > .nav-link	bootstrap.css	/^.navbar-light .navbar-nav .active > .nav-link,$/;"	c
+.navbar-light .navbar-nav .nav-link	bootstrap.css	/^.navbar-light .navbar-nav .nav-link {$/;"	c
+.navbar-light .navbar-nav .nav-link.active	bootstrap.css	/^.navbar-light .navbar-nav .nav-link.active {$/;"	c
+.navbar-light .navbar-nav .nav-link.disabled	bootstrap.css	/^.navbar-light .navbar-nav .nav-link.disabled {$/;"	c
+.navbar-light .navbar-nav .nav-link.show	bootstrap.css	/^.navbar-light .navbar-nav .nav-link.show,$/;"	c
+.navbar-light .navbar-nav .nav-link:focus	bootstrap.css	/^.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {$/;"	c
+.navbar-light .navbar-nav .nav-link:hover	bootstrap.css	/^.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {$/;"	c
+.navbar-light .navbar-nav .show > .nav-link	bootstrap.css	/^.navbar-light .navbar-nav .show > .nav-link,$/;"	c
+.navbar-light .navbar-text	bootstrap.css	/^.navbar-light .navbar-text {$/;"	c
+.navbar-light .navbar-text a	bootstrap.css	/^.navbar-light .navbar-text a {$/;"	s
+.navbar-light .navbar-text a:focus	bootstrap.css	/^.navbar-light .navbar-text a:focus, .navbar-light .navbar-text a:hover {$/;"	s
+.navbar-light .navbar-text a:hover	bootstrap.css	/^.navbar-light .navbar-text a:focus, .navbar-light .navbar-text a:hover {$/;"	s
+.navbar-light .navbar-toggler	bootstrap.css	/^.navbar-light .navbar-toggler {$/;"	c
+.navbar-light .navbar-toggler-icon	bootstrap.css	/^.navbar-light .navbar-toggler-icon {$/;"	c
+.navbar-nav	bootstrap.css	/^.navbar-nav {$/;"	c
+.navbar-nav .dropdown-menu	bootstrap.css	/^.navbar-nav .dropdown-menu {$/;"	c
+.navbar-nav .nav-link	bootstrap.css	/^.navbar-nav .nav-link {$/;"	c
+.navbar-text	bootstrap.css	/^.navbar-text {$/;"	c
+.navbar-toggler	bootstrap.css	/^.navbar-toggler {$/;"	c
+.navbar-toggler-icon	bootstrap.css	/^.navbar-toggler-icon {$/;"	c
+.navbar-toggler:focus	bootstrap.css	/^.navbar-toggler:focus, .navbar-toggler:hover {$/;"	c
+.navbar-toggler:hover	bootstrap.css	/^.navbar-toggler:focus, .navbar-toggler:hover {$/;"	c
+.navbar.bg-dark	bootstrap.css	/^.navbar.bg-dark {$/;"	c
+.navbar.bg-light	bootstrap.css	/^.navbar.bg-light {$/;"	c
+.navbar.bg-primary	bootstrap.css	/^.navbar.bg-primary {$/;"	c
+.navbar.fixed-bottom	bootstrap.css	/^.navbar.fixed-bottom {$/;"	c
+.navbar.fixed-top	bootstrap.css	/^.navbar.fixed-top {$/;"	c
+.no-gutters	bootstrap.css	/^.no-gutters {$/;"	c
+.no-gutters > .col	bootstrap.css	/^.no-gutters > .col,$/;"	c
+.no-gutters >[class*="col-"]	bootstrap.css	/^.no-gutters > [class*="col-"] {$/;"	s
+.offset-1	bootstrap.css	/^.offset-1 {$/;"	c
+.offset-10	bootstrap.css	/^.offset-10 {$/;"	c
+.offset-11	bootstrap.css	/^.offset-11 {$/;"	c
+.offset-2	bootstrap.css	/^.offset-2 {$/;"	c
+.offset-3	bootstrap.css	/^.offset-3 {$/;"	c
+.offset-4	bootstrap.css	/^.offset-4 {$/;"	c
+.offset-5	bootstrap.css	/^.offset-5 {$/;"	c
+.offset-6	bootstrap.css	/^.offset-6 {$/;"	c
+.offset-7	bootstrap.css	/^.offset-7 {$/;"	c
+.offset-8	bootstrap.css	/^.offset-8 {$/;"	c
+.offset-9	bootstrap.css	/^.offset-9 {$/;"	c
+.offset-lg-0	bootstrap.css	/^  .offset-lg-0 {$/;"	c
+.offset-lg-1	bootstrap.css	/^  .offset-lg-1 {$/;"	c
+.offset-lg-10	bootstrap.css	/^  .offset-lg-10 {$/;"	c
+.offset-lg-11	bootstrap.css	/^  .offset-lg-11 {$/;"	c
+.offset-lg-2	bootstrap.css	/^  .offset-lg-2 {$/;"	c
+.offset-lg-3	bootstrap.css	/^  .offset-lg-3 {$/;"	c
+.offset-lg-4	bootstrap.css	/^  .offset-lg-4 {$/;"	c
+.offset-lg-5	bootstrap.css	/^  .offset-lg-5 {$/;"	c
+.offset-lg-6	bootstrap.css	/^  .offset-lg-6 {$/;"	c
+.offset-lg-7	bootstrap.css	/^  .offset-lg-7 {$/;"	c
+.offset-lg-8	bootstrap.css	/^  .offset-lg-8 {$/;"	c
+.offset-lg-9	bootstrap.css	/^  .offset-lg-9 {$/;"	c
+.offset-md-0	bootstrap.css	/^  .offset-md-0 {$/;"	c
+.offset-md-1	bootstrap.css	/^  .offset-md-1 {$/;"	c
+.offset-md-10	bootstrap.css	/^  .offset-md-10 {$/;"	c
+.offset-md-11	bootstrap.css	/^  .offset-md-11 {$/;"	c
+.offset-md-2	bootstrap.css	/^  .offset-md-2 {$/;"	c
+.offset-md-3	bootstrap.css	/^  .offset-md-3 {$/;"	c
+.offset-md-4	bootstrap.css	/^  .offset-md-4 {$/;"	c
+.offset-md-5	bootstrap.css	/^  .offset-md-5 {$/;"	c
+.offset-md-6	bootstrap.css	/^  .offset-md-6 {$/;"	c
+.offset-md-7	bootstrap.css	/^  .offset-md-7 {$/;"	c
+.offset-md-8	bootstrap.css	/^  .offset-md-8 {$/;"	c
+.offset-md-9	bootstrap.css	/^  .offset-md-9 {$/;"	c
+.offset-sm-0	bootstrap.css	/^  .offset-sm-0 {$/;"	c
+.offset-sm-1	bootstrap.css	/^  .offset-sm-1 {$/;"	c
+.offset-sm-10	bootstrap.css	/^  .offset-sm-10 {$/;"	c
+.offset-sm-11	bootstrap.css	/^  .offset-sm-11 {$/;"	c
+.offset-sm-2	bootstrap.css	/^  .offset-sm-2 {$/;"	c
+.offset-sm-3	bootstrap.css	/^  .offset-sm-3 {$/;"	c
+.offset-sm-4	bootstrap.css	/^  .offset-sm-4 {$/;"	c
+.offset-sm-5	bootstrap.css	/^  .offset-sm-5 {$/;"	c
+.offset-sm-6	bootstrap.css	/^  .offset-sm-6 {$/;"	c
+.offset-sm-7	bootstrap.css	/^  .offset-sm-7 {$/;"	c
+.offset-sm-8	bootstrap.css	/^  .offset-sm-8 {$/;"	c
+.offset-sm-9	bootstrap.css	/^  .offset-sm-9 {$/;"	c
+.offset-xl-0	bootstrap.css	/^  .offset-xl-0 {$/;"	c
+.offset-xl-1	bootstrap.css	/^  .offset-xl-1 {$/;"	c
+.offset-xl-10	bootstrap.css	/^  .offset-xl-10 {$/;"	c
+.offset-xl-11	bootstrap.css	/^  .offset-xl-11 {$/;"	c
+.offset-xl-2	bootstrap.css	/^  .offset-xl-2 {$/;"	c
+.offset-xl-3	bootstrap.css	/^  .offset-xl-3 {$/;"	c
+.offset-xl-4	bootstrap.css	/^  .offset-xl-4 {$/;"	c
+.offset-xl-5	bootstrap.css	/^  .offset-xl-5 {$/;"	c
+.offset-xl-6	bootstrap.css	/^  .offset-xl-6 {$/;"	c
+.offset-xl-7	bootstrap.css	/^  .offset-xl-7 {$/;"	c
+.offset-xl-8	bootstrap.css	/^  .offset-xl-8 {$/;"	c
+.offset-xl-9	bootstrap.css	/^  .offset-xl-9 {$/;"	c
+.order-1	bootstrap.css	/^.order-1 {$/;"	c
+.order-10	bootstrap.css	/^.order-10 {$/;"	c
+.order-11	bootstrap.css	/^.order-11 {$/;"	c
+.order-12	bootstrap.css	/^.order-12 {$/;"	c
+.order-2	bootstrap.css	/^.order-2 {$/;"	c
+.order-3	bootstrap.css	/^.order-3 {$/;"	c
+.order-4	bootstrap.css	/^.order-4 {$/;"	c
+.order-5	bootstrap.css	/^.order-5 {$/;"	c
+.order-6	bootstrap.css	/^.order-6 {$/;"	c
+.order-7	bootstrap.css	/^.order-7 {$/;"	c
+.order-8	bootstrap.css	/^.order-8 {$/;"	c
+.order-9	bootstrap.css	/^.order-9 {$/;"	c
+.order-first	bootstrap.css	/^.order-first {$/;"	c
+.order-lg-1	bootstrap.css	/^  .order-lg-1 {$/;"	c
+.order-lg-10	bootstrap.css	/^  .order-lg-10 {$/;"	c
+.order-lg-11	bootstrap.css	/^  .order-lg-11 {$/;"	c
+.order-lg-12	bootstrap.css	/^  .order-lg-12 {$/;"	c
+.order-lg-2	bootstrap.css	/^  .order-lg-2 {$/;"	c
+.order-lg-3	bootstrap.css	/^  .order-lg-3 {$/;"	c
+.order-lg-4	bootstrap.css	/^  .order-lg-4 {$/;"	c
+.order-lg-5	bootstrap.css	/^  .order-lg-5 {$/;"	c
+.order-lg-6	bootstrap.css	/^  .order-lg-6 {$/;"	c
+.order-lg-7	bootstrap.css	/^  .order-lg-7 {$/;"	c
+.order-lg-8	bootstrap.css	/^  .order-lg-8 {$/;"	c
+.order-lg-9	bootstrap.css	/^  .order-lg-9 {$/;"	c
+.order-lg-first	bootstrap.css	/^  .order-lg-first {$/;"	c
+.order-md-1	bootstrap.css	/^  .order-md-1 {$/;"	c
+.order-md-10	bootstrap.css	/^  .order-md-10 {$/;"	c
+.order-md-11	bootstrap.css	/^  .order-md-11 {$/;"	c
+.order-md-12	bootstrap.css	/^  .order-md-12 {$/;"	c
+.order-md-2	bootstrap.css	/^  .order-md-2 {$/;"	c
+.order-md-3	bootstrap.css	/^  .order-md-3 {$/;"	c
+.order-md-4	bootstrap.css	/^  .order-md-4 {$/;"	c
+.order-md-5	bootstrap.css	/^  .order-md-5 {$/;"	c
+.order-md-6	bootstrap.css	/^  .order-md-6 {$/;"	c
+.order-md-7	bootstrap.css	/^  .order-md-7 {$/;"	c
+.order-md-8	bootstrap.css	/^  .order-md-8 {$/;"	c
+.order-md-9	bootstrap.css	/^  .order-md-9 {$/;"	c
+.order-md-first	bootstrap.css	/^  .order-md-first {$/;"	c
+.order-sm-1	bootstrap.css	/^  .order-sm-1 {$/;"	c
+.order-sm-10	bootstrap.css	/^  .order-sm-10 {$/;"	c
+.order-sm-11	bootstrap.css	/^  .order-sm-11 {$/;"	c
+.order-sm-12	bootstrap.css	/^  .order-sm-12 {$/;"	c
+.order-sm-2	bootstrap.css	/^  .order-sm-2 {$/;"	c
+.order-sm-3	bootstrap.css	/^  .order-sm-3 {$/;"	c
+.order-sm-4	bootstrap.css	/^  .order-sm-4 {$/;"	c
+.order-sm-5	bootstrap.css	/^  .order-sm-5 {$/;"	c
+.order-sm-6	bootstrap.css	/^  .order-sm-6 {$/;"	c
+.order-sm-7	bootstrap.css	/^  .order-sm-7 {$/;"	c
+.order-sm-8	bootstrap.css	/^  .order-sm-8 {$/;"	c
+.order-sm-9	bootstrap.css	/^  .order-sm-9 {$/;"	c
+.order-sm-first	bootstrap.css	/^  .order-sm-first {$/;"	c
+.order-xl-1	bootstrap.css	/^  .order-xl-1 {$/;"	c
+.order-xl-10	bootstrap.css	/^  .order-xl-10 {$/;"	c
+.order-xl-11	bootstrap.css	/^  .order-xl-11 {$/;"	c
+.order-xl-12	bootstrap.css	/^  .order-xl-12 {$/;"	c
+.order-xl-2	bootstrap.css	/^  .order-xl-2 {$/;"	c
+.order-xl-3	bootstrap.css	/^  .order-xl-3 {$/;"	c
+.order-xl-4	bootstrap.css	/^  .order-xl-4 {$/;"	c
+.order-xl-5	bootstrap.css	/^  .order-xl-5 {$/;"	c
+.order-xl-6	bootstrap.css	/^  .order-xl-6 {$/;"	c
+.order-xl-7	bootstrap.css	/^  .order-xl-7 {$/;"	c
+.order-xl-8	bootstrap.css	/^  .order-xl-8 {$/;"	c
+.order-xl-9	bootstrap.css	/^  .order-xl-9 {$/;"	c
+.order-xl-first	bootstrap.css	/^  .order-xl-first {$/;"	c
+.p-0	bootstrap.css	/^.p-0 {$/;"	c
+.p-1	bootstrap.css	/^.p-1 {$/;"	c
+.p-2	bootstrap.css	/^.p-2 {$/;"	c
+.p-3	bootstrap.css	/^.p-3 {$/;"	c
+.p-4	bootstrap.css	/^.p-4 {$/;"	c
+.p-5	bootstrap.css	/^.p-5 {$/;"	c
+.p-lg-0	bootstrap.css	/^  .p-lg-0 {$/;"	c
+.p-lg-1	bootstrap.css	/^  .p-lg-1 {$/;"	c
+.p-lg-2	bootstrap.css	/^  .p-lg-2 {$/;"	c
+.p-lg-3	bootstrap.css	/^  .p-lg-3 {$/;"	c
+.p-lg-4	bootstrap.css	/^  .p-lg-4 {$/;"	c
+.p-lg-5	bootstrap.css	/^  .p-lg-5 {$/;"	c
+.p-md-0	bootstrap.css	/^  .p-md-0 {$/;"	c
+.p-md-1	bootstrap.css	/^  .p-md-1 {$/;"	c
+.p-md-2	bootstrap.css	/^  .p-md-2 {$/;"	c
+.p-md-3	bootstrap.css	/^  .p-md-3 {$/;"	c
+.p-md-4	bootstrap.css	/^  .p-md-4 {$/;"	c
+.p-md-5	bootstrap.css	/^  .p-md-5 {$/;"	c
+.p-sm-0	bootstrap.css	/^  .p-sm-0 {$/;"	c
+.p-sm-1	bootstrap.css	/^  .p-sm-1 {$/;"	c
+.p-sm-2	bootstrap.css	/^  .p-sm-2 {$/;"	c
+.p-sm-3	bootstrap.css	/^  .p-sm-3 {$/;"	c
+.p-sm-4	bootstrap.css	/^  .p-sm-4 {$/;"	c
+.p-sm-5	bootstrap.css	/^  .p-sm-5 {$/;"	c
+.p-xl-0	bootstrap.css	/^  .p-xl-0 {$/;"	c
+.p-xl-1	bootstrap.css	/^  .p-xl-1 {$/;"	c
+.p-xl-2	bootstrap.css	/^  .p-xl-2 {$/;"	c
+.p-xl-3	bootstrap.css	/^  .p-xl-3 {$/;"	c
+.p-xl-4	bootstrap.css	/^  .p-xl-4 {$/;"	c
+.p-xl-5	bootstrap.css	/^  .p-xl-5 {$/;"	c
+.page-item.active .page-link	bootstrap.css	/^.page-item.active .page-link {$/;"	c
+.page-item.disabled .page-link	bootstrap.css	/^.page-item.disabled .page-link {$/;"	c
+.page-item:first-child .page-link	bootstrap.css	/^.page-item:first-child .page-link {$/;"	c
+.page-item:last-child .page-link	bootstrap.css	/^.page-item:last-child .page-link {$/;"	c
+.page-link	bootstrap.css	/^.page-link {$/;"	c
+.page-link:focus	bootstrap.css	/^.page-link:focus, .page-link:hover {$/;"	c
+.page-link:hover	bootstrap.css	/^.page-link:focus, .page-link:hover {$/;"	c
+.pagination	bootstrap.css	/^.pagination {$/;"	c
+.pagination a:hover	bootstrap.css	/^.pagination a:hover {$/;"	s
+.pagination-lg .page-item:first-child .page-link	bootstrap.css	/^.pagination-lg .page-item:first-child .page-link {$/;"	c
+.pagination-lg .page-item:last-child .page-link	bootstrap.css	/^.pagination-lg .page-item:last-child .page-link {$/;"	c
+.pagination-lg .page-link	bootstrap.css	/^.pagination-lg .page-link {$/;"	c
+.pagination-sm .page-item:first-child .page-link	bootstrap.css	/^.pagination-sm .page-item:first-child .page-link {$/;"	c
+.pagination-sm .page-item:last-child .page-link	bootstrap.css	/^.pagination-sm .page-item:last-child .page-link {$/;"	c
+.pagination-sm .page-link	bootstrap.css	/^.pagination-sm .page-link {$/;"	c
+.pb-0	bootstrap.css	/^.pb-0,$/;"	c
+.pb-1	bootstrap.css	/^.pb-1,$/;"	c
+.pb-2	bootstrap.css	/^.pb-2,$/;"	c
+.pb-3	bootstrap.css	/^.pb-3,$/;"	c
+.pb-4	bootstrap.css	/^.pb-4,$/;"	c
+.pb-5	bootstrap.css	/^.pb-5,$/;"	c
+.pb-lg-0	bootstrap.css	/^  .pb-lg-0,$/;"	c
+.pb-lg-1	bootstrap.css	/^  .pb-lg-1,$/;"	c
+.pb-lg-2	bootstrap.css	/^  .pb-lg-2,$/;"	c
+.pb-lg-3	bootstrap.css	/^  .pb-lg-3,$/;"	c
+.pb-lg-4	bootstrap.css	/^  .pb-lg-4,$/;"	c
+.pb-lg-5	bootstrap.css	/^  .pb-lg-5,$/;"	c
+.pb-md-0	bootstrap.css	/^  .pb-md-0,$/;"	c
+.pb-md-1	bootstrap.css	/^  .pb-md-1,$/;"	c
+.pb-md-2	bootstrap.css	/^  .pb-md-2,$/;"	c
+.pb-md-3	bootstrap.css	/^  .pb-md-3,$/;"	c
+.pb-md-4	bootstrap.css	/^  .pb-md-4,$/;"	c
+.pb-md-5	bootstrap.css	/^  .pb-md-5,$/;"	c
+.pb-sm-0	bootstrap.css	/^  .pb-sm-0,$/;"	c
+.pb-sm-1	bootstrap.css	/^  .pb-sm-1,$/;"	c
+.pb-sm-2	bootstrap.css	/^  .pb-sm-2,$/;"	c
+.pb-sm-3	bootstrap.css	/^  .pb-sm-3,$/;"	c
+.pb-sm-4	bootstrap.css	/^  .pb-sm-4,$/;"	c
+.pb-sm-5	bootstrap.css	/^  .pb-sm-5,$/;"	c
+.pb-xl-0	bootstrap.css	/^  .pb-xl-0,$/;"	c
+.pb-xl-1	bootstrap.css	/^  .pb-xl-1,$/;"	c
+.pb-xl-2	bootstrap.css	/^  .pb-xl-2,$/;"	c
+.pb-xl-3	bootstrap.css	/^  .pb-xl-3,$/;"	c
+.pb-xl-4	bootstrap.css	/^  .pb-xl-4,$/;"	c
+.pb-xl-5	bootstrap.css	/^  .pb-xl-5,$/;"	c
+.pl-0	bootstrap.css	/^.pl-0,$/;"	c
+.pl-1	bootstrap.css	/^.pl-1,$/;"	c
+.pl-2	bootstrap.css	/^.pl-2,$/;"	c
+.pl-3	bootstrap.css	/^.pl-3,$/;"	c
+.pl-4	bootstrap.css	/^.pl-4,$/;"	c
+.pl-5	bootstrap.css	/^.pl-5,$/;"	c
+.pl-lg-0	bootstrap.css	/^  .pl-lg-0,$/;"	c
+.pl-lg-1	bootstrap.css	/^  .pl-lg-1,$/;"	c
+.pl-lg-2	bootstrap.css	/^  .pl-lg-2,$/;"	c
+.pl-lg-3	bootstrap.css	/^  .pl-lg-3,$/;"	c
+.pl-lg-4	bootstrap.css	/^  .pl-lg-4,$/;"	c
+.pl-lg-5	bootstrap.css	/^  .pl-lg-5,$/;"	c
+.pl-md-0	bootstrap.css	/^  .pl-md-0,$/;"	c
+.pl-md-1	bootstrap.css	/^  .pl-md-1,$/;"	c
+.pl-md-2	bootstrap.css	/^  .pl-md-2,$/;"	c
+.pl-md-3	bootstrap.css	/^  .pl-md-3,$/;"	c
+.pl-md-4	bootstrap.css	/^  .pl-md-4,$/;"	c
+.pl-md-5	bootstrap.css	/^  .pl-md-5,$/;"	c
+.pl-sm-0	bootstrap.css	/^  .pl-sm-0,$/;"	c
+.pl-sm-1	bootstrap.css	/^  .pl-sm-1,$/;"	c
+.pl-sm-2	bootstrap.css	/^  .pl-sm-2,$/;"	c
+.pl-sm-3	bootstrap.css	/^  .pl-sm-3,$/;"	c
+.pl-sm-4	bootstrap.css	/^  .pl-sm-4,$/;"	c
+.pl-sm-5	bootstrap.css	/^  .pl-sm-5,$/;"	c
+.pl-xl-0	bootstrap.css	/^  .pl-xl-0,$/;"	c
+.pl-xl-1	bootstrap.css	/^  .pl-xl-1,$/;"	c
+.pl-xl-2	bootstrap.css	/^  .pl-xl-2,$/;"	c
+.pl-xl-3	bootstrap.css	/^  .pl-xl-3,$/;"	c
+.pl-xl-4	bootstrap.css	/^  .pl-xl-4,$/;"	c
+.pl-xl-5	bootstrap.css	/^  .pl-xl-5,$/;"	c
+.popover	bootstrap.css	/^.popover {$/;"	c
+.popover .arrow	bootstrap.css	/^.popover .arrow {$/;"	c
+.popover .arrow::after	bootstrap.css	/^.popover .arrow::after {$/;"	c
+.popover .arrow::before	bootstrap.css	/^.popover .arrow::before {$/;"	c
+.popover .arrow::before	bootstrap.css	/^.popover .arrow::before,$/;"	c
+.popover-body	bootstrap.css	/^.popover-body {$/;"	c
+.popover-header	bootstrap.css	/^.popover-header {$/;"	c
+.popover-header:empty	bootstrap.css	/^.popover-header:empty {$/;"	c
+.popover-title	bootstrap.css	/^.popover-title {$/;"	c
+.popover.bs-popover-auto[x-placement^="bottom"]	bootstrap.css	/^.popover.bs-popover-bottom, .popover.bs-popover-auto[x-placement^="bottom"] {$/;"	c
+.popover.bs-popover-auto[x-placement^="bottom"] .arrow	bootstrap.css	/^.popover.bs-popover-bottom .arrow, .popover.bs-popover-auto[x-placement^="bottom"] .arrow {$/;"	c
+.popover.bs-popover-auto[x-placement^="bottom"] .arrow::after	bootstrap.css	/^.popover.bs-popover-bottom .arrow::after, .popover.bs-popover-auto[x-placement^="bottom"] .arrow/;"	c
+.popover.bs-popover-auto[x-placement^="bottom"] .arrow::before	bootstrap.css	/^.popover.bs-popover-bottom .arrow::before, .popover.bs-popover-auto[x-placement^="bottom"] .arro/;"	c
+.popover.bs-popover-auto[x-placement^="bottom"] .popover-header::before	bootstrap.css	/^.popover.bs-popover-bottom .popover-header::before, .popover.bs-popover-auto[x-placement^="botto/;"	c
+.popover.bs-popover-auto[x-placement^="left"]	bootstrap.css	/^.popover.bs-popover-left, .popover.bs-popover-auto[x-placement^="left"] {$/;"	c
+.popover.bs-popover-auto[x-placement^="left"] .arrow	bootstrap.css	/^.popover.bs-popover-left .arrow, .popover.bs-popover-auto[x-placement^="left"] .arrow {$/;"	c
+.popover.bs-popover-auto[x-placement^="left"] .arrow::after	bootstrap.css	/^.popover.bs-popover-left .arrow::after, .popover.bs-popover-auto[x-placement^="left"] .arrow::af/;"	c
+.popover.bs-popover-auto[x-placement^="left"] .arrow::before	bootstrap.css	/^.popover.bs-popover-left .arrow::before, .popover.bs-popover-auto[x-placement^="left"] .arrow::b/;"	c
+.popover.bs-popover-auto[x-placement^="right"]	bootstrap.css	/^.popover.bs-popover-right, .popover.bs-popover-auto[x-placement^="right"] {$/;"	c
+.popover.bs-popover-auto[x-placement^="right"] .arrow	bootstrap.css	/^.popover.bs-popover-right .arrow, .popover.bs-popover-auto[x-placement^="right"] .arrow {$/;"	c
+.popover.bs-popover-auto[x-placement^="right"] .arrow::after	bootstrap.css	/^.popover.bs-popover-right .arrow::after, .popover.bs-popover-auto[x-placement^="right"] .arrow::/;"	c
+.popover.bs-popover-auto[x-placement^="right"] .arrow::before	bootstrap.css	/^.popover.bs-popover-right .arrow::before, .popover.bs-popover-auto[x-placement^="right"] .arrow:/;"	c
+.popover.bs-popover-auto[x-placement^="top"]	bootstrap.css	/^.popover.bs-popover-top, .popover.bs-popover-auto[x-placement^="top"] {$/;"	c
+.popover.bs-popover-auto[x-placement^="top"] .arrow	bootstrap.css	/^.popover.bs-popover-top .arrow, .popover.bs-popover-auto[x-placement^="top"] .arrow {$/;"	c
+.popover.bs-popover-auto[x-placement^="top"] .arrow::after	bootstrap.css	/^.popover.bs-popover-top .arrow::after, .popover.bs-popover-auto[x-placement^="top"] .arrow::afte/;"	c
+.popover.bs-popover-auto[x-placement^="top"] .arrow::before	bootstrap.css	/^.popover.bs-popover-top .arrow::before, .popover.bs-popover-auto[x-placement^="top"] .arrow::bef/;"	c
+.popover.bs-popover-bottom	bootstrap.css	/^.popover.bs-popover-bottom, .popover.bs-popover-auto[x-placement^="bottom"] {$/;"	c
+.popover.bs-popover-bottom .arrow	bootstrap.css	/^.popover.bs-popover-bottom .arrow, .popover.bs-popover-auto[x-placement^="bottom"] .arrow {$/;"	c
+.popover.bs-popover-bottom .arrow::after	bootstrap.css	/^.popover.bs-popover-bottom .arrow::after, .popover.bs-popover-auto[x-placement^="bottom"] .arrow/;"	c
+.popover.bs-popover-bottom .arrow::before	bootstrap.css	/^.popover.bs-popover-bottom .arrow::before, .popover.bs-popover-auto[x-placement^="bottom"] .arro/;"	c
+.popover.bs-popover-bottom .popover-header::before	bootstrap.css	/^.popover.bs-popover-bottom .popover-header::before, .popover.bs-popover-auto[x-placement^="botto/;"	c
+.popover.bs-popover-left	bootstrap.css	/^.popover.bs-popover-left, .popover.bs-popover-auto[x-placement^="left"] {$/;"	c
+.popover.bs-popover-left .arrow	bootstrap.css	/^.popover.bs-popover-left .arrow, .popover.bs-popover-auto[x-placement^="left"] .arrow {$/;"	c
+.popover.bs-popover-left .arrow::after	bootstrap.css	/^.popover.bs-popover-left .arrow::after, .popover.bs-popover-auto[x-placement^="left"] .arrow::af/;"	c
+.popover.bs-popover-left .arrow::before	bootstrap.css	/^.popover.bs-popover-left .arrow::before, .popover.bs-popover-auto[x-placement^="left"] .arrow::b/;"	c
+.popover.bs-popover-right	bootstrap.css	/^.popover.bs-popover-right, .popover.bs-popover-auto[x-placement^="right"] {$/;"	c
+.popover.bs-popover-right .arrow	bootstrap.css	/^.popover.bs-popover-right .arrow, .popover.bs-popover-auto[x-placement^="right"] .arrow {$/;"	c
+.popover.bs-popover-right .arrow::after	bootstrap.css	/^.popover.bs-popover-right .arrow::after, .popover.bs-popover-auto[x-placement^="right"] .arrow::/;"	c
+.popover.bs-popover-right .arrow::before	bootstrap.css	/^.popover.bs-popover-right .arrow::before, .popover.bs-popover-auto[x-placement^="right"] .arrow:/;"	c
+.popover.bs-popover-top	bootstrap.css	/^.popover.bs-popover-top, .popover.bs-popover-auto[x-placement^="top"] {$/;"	c
+.popover.bs-popover-top .arrow	bootstrap.css	/^.popover.bs-popover-top .arrow, .popover.bs-popover-auto[x-placement^="top"] .arrow {$/;"	c
+.popover.bs-popover-top .arrow::after	bootstrap.css	/^.popover.bs-popover-top .arrow::after, .popover.bs-popover-auto[x-placement^="top"] .arrow::afte/;"	c
+.popover.bs-popover-top .arrow::before	bootstrap.css	/^.popover.bs-popover-top .arrow::before, .popover.bs-popover-auto[x-placement^="top"] .arrow::bef/;"	c
+.position-absolute	bootstrap.css	/^.position-absolute {$/;"	c
+.position-fixed	bootstrap.css	/^.position-fixed {$/;"	c
+.position-relative	bootstrap.css	/^.position-relative {$/;"	c
+.position-static	bootstrap.css	/^.position-static {$/;"	c
+.position-sticky	bootstrap.css	/^.position-sticky {$/;"	c
+.pr-0	bootstrap.css	/^.pr-0,$/;"	c
+.pr-1	bootstrap.css	/^.pr-1,$/;"	c
+.pr-2	bootstrap.css	/^.pr-2,$/;"	c
+.pr-3	bootstrap.css	/^.pr-3,$/;"	c
+.pr-4	bootstrap.css	/^.pr-4,$/;"	c
+.pr-5	bootstrap.css	/^.pr-5,$/;"	c
+.pr-lg-0	bootstrap.css	/^  .pr-lg-0,$/;"	c
+.pr-lg-1	bootstrap.css	/^  .pr-lg-1,$/;"	c
+.pr-lg-2	bootstrap.css	/^  .pr-lg-2,$/;"	c
+.pr-lg-3	bootstrap.css	/^  .pr-lg-3,$/;"	c
+.pr-lg-4	bootstrap.css	/^  .pr-lg-4,$/;"	c
+.pr-lg-5	bootstrap.css	/^  .pr-lg-5,$/;"	c
+.pr-md-0	bootstrap.css	/^  .pr-md-0,$/;"	c
+.pr-md-1	bootstrap.css	/^  .pr-md-1,$/;"	c
+.pr-md-2	bootstrap.css	/^  .pr-md-2,$/;"	c
+.pr-md-3	bootstrap.css	/^  .pr-md-3,$/;"	c
+.pr-md-4	bootstrap.css	/^  .pr-md-4,$/;"	c
+.pr-md-5	bootstrap.css	/^  .pr-md-5,$/;"	c
+.pr-sm-0	bootstrap.css	/^  .pr-sm-0,$/;"	c
+.pr-sm-1	bootstrap.css	/^  .pr-sm-1,$/;"	c
+.pr-sm-2	bootstrap.css	/^  .pr-sm-2,$/;"	c
+.pr-sm-3	bootstrap.css	/^  .pr-sm-3,$/;"	c
+.pr-sm-4	bootstrap.css	/^  .pr-sm-4,$/;"	c
+.pr-sm-5	bootstrap.css	/^  .pr-sm-5,$/;"	c
+.pr-xl-0	bootstrap.css	/^  .pr-xl-0,$/;"	c
+.pr-xl-1	bootstrap.css	/^  .pr-xl-1,$/;"	c
+.pr-xl-2	bootstrap.css	/^  .pr-xl-2,$/;"	c
+.pr-xl-3	bootstrap.css	/^  .pr-xl-3,$/;"	c
+.pr-xl-4	bootstrap.css	/^  .pr-xl-4,$/;"	c
+.pr-xl-5	bootstrap.css	/^  .pr-xl-5,$/;"	c
+.pre-scrollable	bootstrap.css	/^.pre-scrollable {$/;"	c
+.progress	bootstrap.css	/^.progress {$/;"	c
+.progress-bar	bootstrap.css	/^.progress-bar {$/;"	c
+.progress-bar-animated	bootstrap.css	/^.progress-bar-animated {$/;"	c
+.progress-bar-striped	bootstrap.css	/^.progress-bar-striped {$/;"	c
+.pt-0	bootstrap.css	/^.pt-0,$/;"	c
+.pt-1	bootstrap.css	/^.pt-1,$/;"	c
+.pt-2	bootstrap.css	/^.pt-2,$/;"	c
+.pt-3	bootstrap.css	/^.pt-3,$/;"	c
+.pt-4	bootstrap.css	/^.pt-4,$/;"	c
+.pt-5	bootstrap.css	/^.pt-5,$/;"	c
+.pt-lg-0	bootstrap.css	/^  .pt-lg-0,$/;"	c
+.pt-lg-1	bootstrap.css	/^  .pt-lg-1,$/;"	c
+.pt-lg-2	bootstrap.css	/^  .pt-lg-2,$/;"	c
+.pt-lg-3	bootstrap.css	/^  .pt-lg-3,$/;"	c
+.pt-lg-4	bootstrap.css	/^  .pt-lg-4,$/;"	c
+.pt-lg-5	bootstrap.css	/^  .pt-lg-5,$/;"	c
+.pt-md-0	bootstrap.css	/^  .pt-md-0,$/;"	c
+.pt-md-1	bootstrap.css	/^  .pt-md-1,$/;"	c
+.pt-md-2	bootstrap.css	/^  .pt-md-2,$/;"	c
+.pt-md-3	bootstrap.css	/^  .pt-md-3,$/;"	c
+.pt-md-4	bootstrap.css	/^  .pt-md-4,$/;"	c
+.pt-md-5	bootstrap.css	/^  .pt-md-5,$/;"	c
+.pt-sm-0	bootstrap.css	/^  .pt-sm-0,$/;"	c
+.pt-sm-1	bootstrap.css	/^  .pt-sm-1,$/;"	c
+.pt-sm-2	bootstrap.css	/^  .pt-sm-2,$/;"	c
+.pt-sm-3	bootstrap.css	/^  .pt-sm-3,$/;"	c
+.pt-sm-4	bootstrap.css	/^  .pt-sm-4,$/;"	c
+.pt-sm-5	bootstrap.css	/^  .pt-sm-5,$/;"	c
+.pt-xl-0	bootstrap.css	/^  .pt-xl-0,$/;"	c
+.pt-xl-1	bootstrap.css	/^  .pt-xl-1,$/;"	c
+.pt-xl-2	bootstrap.css	/^  .pt-xl-2,$/;"	c
+.pt-xl-3	bootstrap.css	/^  .pt-xl-3,$/;"	c
+.pt-xl-4	bootstrap.css	/^  .pt-xl-4,$/;"	c
+.pt-xl-5	bootstrap.css	/^  .pt-xl-5,$/;"	c
+.px-0	bootstrap.css	/^.px-0 {$/;"	c
+.px-1	bootstrap.css	/^.px-1 {$/;"	c
+.px-2	bootstrap.css	/^.px-2 {$/;"	c
+.px-3	bootstrap.css	/^.px-3 {$/;"	c
+.px-4	bootstrap.css	/^.px-4 {$/;"	c
+.px-5	bootstrap.css	/^.px-5 {$/;"	c
+.px-lg-0	bootstrap.css	/^  .px-lg-0 {$/;"	c
+.px-lg-1	bootstrap.css	/^  .px-lg-1 {$/;"	c
+.px-lg-2	bootstrap.css	/^  .px-lg-2 {$/;"	c
+.px-lg-3	bootstrap.css	/^  .px-lg-3 {$/;"	c
+.px-lg-4	bootstrap.css	/^  .px-lg-4 {$/;"	c
+.px-lg-5	bootstrap.css	/^  .px-lg-5 {$/;"	c
+.px-md-0	bootstrap.css	/^  .px-md-0 {$/;"	c
+.px-md-1	bootstrap.css	/^  .px-md-1 {$/;"	c
+.px-md-2	bootstrap.css	/^  .px-md-2 {$/;"	c
+.px-md-3	bootstrap.css	/^  .px-md-3 {$/;"	c
+.px-md-4	bootstrap.css	/^  .px-md-4 {$/;"	c
+.px-md-5	bootstrap.css	/^  .px-md-5 {$/;"	c
+.px-sm-0	bootstrap.css	/^  .px-sm-0 {$/;"	c
+.px-sm-1	bootstrap.css	/^  .px-sm-1 {$/;"	c
+.px-sm-2	bootstrap.css	/^  .px-sm-2 {$/;"	c
+.px-sm-3	bootstrap.css	/^  .px-sm-3 {$/;"	c
+.px-sm-4	bootstrap.css	/^  .px-sm-4 {$/;"	c
+.px-sm-5	bootstrap.css	/^  .px-sm-5 {$/;"	c
+.px-xl-0	bootstrap.css	/^  .px-xl-0 {$/;"	c
+.px-xl-1	bootstrap.css	/^  .px-xl-1 {$/;"	c
+.px-xl-2	bootstrap.css	/^  .px-xl-2 {$/;"	c
+.px-xl-3	bootstrap.css	/^  .px-xl-3 {$/;"	c
+.px-xl-4	bootstrap.css	/^  .px-xl-4 {$/;"	c
+.px-xl-5	bootstrap.css	/^  .px-xl-5 {$/;"	c
+.py-0	bootstrap.css	/^.py-0 {$/;"	c
+.py-1	bootstrap.css	/^.py-1 {$/;"	c
+.py-2	bootstrap.css	/^.py-2 {$/;"	c
+.py-3	bootstrap.css	/^.py-3 {$/;"	c
+.py-4	bootstrap.css	/^.py-4 {$/;"	c
+.py-5	bootstrap.css	/^.py-5 {$/;"	c
+.py-lg-0	bootstrap.css	/^  .py-lg-0 {$/;"	c
+.py-lg-1	bootstrap.css	/^  .py-lg-1 {$/;"	c
+.py-lg-2	bootstrap.css	/^  .py-lg-2 {$/;"	c
+.py-lg-3	bootstrap.css	/^  .py-lg-3 {$/;"	c
+.py-lg-4	bootstrap.css	/^  .py-lg-4 {$/;"	c
+.py-lg-5	bootstrap.css	/^  .py-lg-5 {$/;"	c
+.py-md-0	bootstrap.css	/^  .py-md-0 {$/;"	c
+.py-md-1	bootstrap.css	/^  .py-md-1 {$/;"	c
+.py-md-2	bootstrap.css	/^  .py-md-2 {$/;"	c
+.py-md-3	bootstrap.css	/^  .py-md-3 {$/;"	c
+.py-md-4	bootstrap.css	/^  .py-md-4 {$/;"	c
+.py-md-5	bootstrap.css	/^  .py-md-5 {$/;"	c
+.py-sm-0	bootstrap.css	/^  .py-sm-0 {$/;"	c
+.py-sm-1	bootstrap.css	/^  .py-sm-1 {$/;"	c
+.py-sm-2	bootstrap.css	/^  .py-sm-2 {$/;"	c
+.py-sm-3	bootstrap.css	/^  .py-sm-3 {$/;"	c
+.py-sm-4	bootstrap.css	/^  .py-sm-4 {$/;"	c
+.py-sm-5	bootstrap.css	/^  .py-sm-5 {$/;"	c
+.py-xl-0	bootstrap.css	/^  .py-xl-0 {$/;"	c
+.py-xl-1	bootstrap.css	/^  .py-xl-1 {$/;"	c
+.py-xl-2	bootstrap.css	/^  .py-xl-2 {$/;"	c
+.py-xl-3	bootstrap.css	/^  .py-xl-3 {$/;"	c
+.py-xl-4	bootstrap.css	/^  .py-xl-4 {$/;"	c
+.py-xl-5	bootstrap.css	/^  .py-xl-5 {$/;"	c
+.rounded	bootstrap.css	/^.rounded {$/;"	c
+.rounded-0	bootstrap.css	/^.rounded-0 {$/;"	c
+.rounded-bottom	bootstrap.css	/^.rounded-bottom {$/;"	c
+.rounded-circle	bootstrap.css	/^.rounded-circle {$/;"	c
+.rounded-left	bootstrap.css	/^.rounded-left {$/;"	c
+.rounded-right	bootstrap.css	/^.rounded-right {$/;"	c
+.rounded-top	bootstrap.css	/^.rounded-top {$/;"	c
+.row	bootstrap.css	/^.row {$/;"	c
+.show > .btn-danger.dropdown-toggle	bootstrap.css	/^.show > .btn-danger.dropdown-toggle {$/;"	c
+.show > .btn-dark.dropdown-toggle	bootstrap.css	/^.show > .btn-dark.dropdown-toggle {$/;"	c
+.show > .btn-info.dropdown-toggle	bootstrap.css	/^.show > .btn-info.dropdown-toggle {$/;"	c
+.show > .btn-light.dropdown-toggle	bootstrap.css	/^.show > .btn-light.dropdown-toggle {$/;"	c
+.show > .btn-outline-danger.dropdown-toggle	bootstrap.css	/^.show > .btn-outline-danger.dropdown-toggle {$/;"	c
+.show > .btn-outline-dark.dropdown-toggle	bootstrap.css	/^.show > .btn-outline-dark.dropdown-toggle {$/;"	c
+.show > .btn-outline-info.dropdown-toggle	bootstrap.css	/^.show > .btn-outline-info.dropdown-toggle {$/;"	c
+.show > .btn-outline-light.dropdown-toggle	bootstrap.css	/^.show > .btn-outline-light.dropdown-toggle {$/;"	c
+.show > .btn-outline-primary.dropdown-toggle	bootstrap.css	/^.show > .btn-outline-primary.dropdown-toggle {$/;"	c
+.show > .btn-outline-secondary.dropdown-toggle	bootstrap.css	/^.show > .btn-outline-secondary.dropdown-toggle {$/;"	c
+.show > .btn-outline-success.dropdown-toggle	bootstrap.css	/^.show > .btn-outline-success.dropdown-toggle {$/;"	c
+.show > .btn-outline-warning.dropdown-toggle	bootstrap.css	/^.show > .btn-outline-warning.dropdown-toggle {$/;"	c
+.show > .btn-primary.dropdown-toggle	bootstrap.css	/^.show > .btn-primary.dropdown-toggle {$/;"	c
+.show > .btn-secondary.dropdown-toggle	bootstrap.css	/^.show > .btn-secondary.dropdown-toggle {$/;"	c
+.show > .btn-success.dropdown-toggle	bootstrap.css	/^.show > .btn-success.dropdown-toggle {$/;"	c
+.show > .btn-warning.dropdown-toggle	bootstrap.css	/^.show > .btn-warning.dropdown-toggle {$/;"	c
+.small	bootstrap.css	/^.small {$/;"	c
+.sr-only	bootstrap.css	/^.sr-only {$/;"	c
+.sr-only-focusable:active	bootstrap.css	/^.sr-only-focusable:active, .sr-only-focusable:focus {$/;"	c
+.sr-only-focusable:focus	bootstrap.css	/^.sr-only-focusable:active, .sr-only-focusable:focus {$/;"	c
+.sticky-top	bootstrap.css	/^  .sticky-top {$/;"	c
+.tab-content > .active	bootstrap.css	/^.tab-content > .active {$/;"	c
+.tab-content > .tab-pane	bootstrap.css	/^.tab-content > .tab-pane {$/;"	c
+.table	bootstrap.css	/^  .table {$/;"	c
+.table	bootstrap.css	/^.table {$/;"	c
+.table .table	bootstrap.css	/^.table .table {$/;"	c
+.table .thead-dark th	bootstrap.css	/^.table .thead-dark th {$/;"	s
+.table .thead-light th	bootstrap.css	/^.table .thead-light th {$/;"	s
+.table tbody + tbody	bootstrap.css	/^.table tbody + tbody {$/;"	s
+.table td	bootstrap.css	/^  .table td,$/;"	s
+.table td	bootstrap.css	/^.table td {$/;"	s
+.table th	bootstrap.css	/^  .table th {$/;"	s
+.table th	bootstrap.css	/^.table th,$/;"	s
+.table thead th	bootstrap.css	/^.table thead th {$/;"	s
+.table-active	bootstrap.css	/^.table-active,$/;"	c
+.table-active > td	bootstrap.css	/^.table-active > td {$/;"	s
+.table-active > th	bootstrap.css	/^.table-active > th,$/;"	s
+.table-bordered	bootstrap.css	/^.table-bordered {$/;"	c
+.table-bordered td	bootstrap.css	/^  .table-bordered td {$/;"	s
+.table-bordered td	bootstrap.css	/^.table-bordered td {$/;"	s
+.table-bordered th	bootstrap.css	/^  .table-bordered th,$/;"	s
+.table-bordered th	bootstrap.css	/^.table-bordered th,$/;"	s
+.table-bordered thead td	bootstrap.css	/^.table-bordered thead td {$/;"	s
+.table-bordered thead th	bootstrap.css	/^.table-bordered thead th,$/;"	s
+.table-danger	bootstrap.css	/^.table-danger, .table-danger > th, .table-danger > td {$/;"	c
+.table-danger	bootstrap.css	/^.table-danger,$/;"	c
+.table-danger > td	bootstrap.css	/^.table-danger > td {$/;"	s
+.table-danger > td	bootstrap.css	/^.table-danger, .table-danger > th, .table-danger > td {$/;"	s
+.table-danger > th	bootstrap.css	/^.table-danger > th,$/;"	s
+.table-danger > th	bootstrap.css	/^.table-danger, .table-danger > th, .table-danger > td {$/;"	s
+.table-dark	bootstrap.css	/^.table-dark {$/;"	c
+.table-dark	bootstrap.css	/^.table-dark,$/;"	c
+.table-dark > td	bootstrap.css	/^.table-dark > td {$/;"	s
+.table-dark > th	bootstrap.css	/^.table-dark > th,$/;"	s
+.table-dark td	bootstrap.css	/^.table-dark td,$/;"	s
+.table-dark th	bootstrap.css	/^.table-dark th,$/;"	s
+.table-dark thead th	bootstrap.css	/^.table-dark thead th {$/;"	s
+.table-dark.table-bordered	bootstrap.css	/^.table-dark.table-bordered {$/;"	c
+.table-dark.table-hover tbody tr:hover	bootstrap.css	/^.table-dark.table-hover tbody tr:hover {$/;"	s
+.table-dark.table-striped tbody tr:nth-of-type(odd)	bootstrap.css	/^.table-dark.table-striped tbody tr:nth-of-type(odd) {$/;"	s
+.table-hover .table-active:hover	bootstrap.css	/^.table-hover .table-active:hover {$/;"	c
+.table-hover .table-active:hover > td	bootstrap.css	/^.table-hover .table-active:hover > td,$/;"	s
+.table-hover .table-active:hover > th	bootstrap.css	/^.table-hover .table-active:hover > th {$/;"	s
+.table-hover .table-danger:hover	bootstrap.css	/^.table-hover .table-danger:hover {$/;"	c
+.table-hover .table-danger:hover	bootstrap.css	/^.table-hover .table-danger:hover, .table-hover .table-danger:hover > th, .table-hover .table-dan/;"	c
+.table-hover .table-danger:hover > td	bootstrap.css	/^.table-hover .table-danger:hover > td,$/;"	s
+.table-hover .table-danger:hover > td	bootstrap.css	/^.table-hover .table-danger:hover, .table-hover .table-danger:hover > th, .table-hover .table-dan/;"	s
+.table-hover .table-danger:hover > th	bootstrap.css	/^.table-hover .table-danger:hover > th {$/;"	s
+.table-hover .table-danger:hover > th	bootstrap.css	/^.table-hover .table-danger:hover, .table-hover .table-danger:hover > th, .table-hover .table-dan/;"	s
+.table-hover .table-dark:hover	bootstrap.css	/^.table-hover .table-dark:hover {$/;"	c
+.table-hover .table-dark:hover > td	bootstrap.css	/^.table-hover .table-dark:hover > td,$/;"	s
+.table-hover .table-dark:hover > th	bootstrap.css	/^.table-hover .table-dark:hover > th {$/;"	s
+.table-hover .table-info:hover	bootstrap.css	/^.table-hover .table-info:hover {$/;"	c
+.table-hover .table-info:hover	bootstrap.css	/^.table-hover .table-info:hover, .table-hover .table-info:hover > th, .table-hover .table-info:ho/;"	c
+.table-hover .table-info:hover > td	bootstrap.css	/^.table-hover .table-info:hover > td,$/;"	s
+.table-hover .table-info:hover > td	bootstrap.css	/^.table-hover .table-info:hover, .table-hover .table-info:hover > th, .table-hover .table-info:ho/;"	s
+.table-hover .table-info:hover > th	bootstrap.css	/^.table-hover .table-info:hover > th {$/;"	s
+.table-hover .table-info:hover > th	bootstrap.css	/^.table-hover .table-info:hover, .table-hover .table-info:hover > th, .table-hover .table-info:ho/;"	s
+.table-hover .table-light:hover	bootstrap.css	/^.table-hover .table-light:hover {$/;"	c
+.table-hover .table-light:hover > td	bootstrap.css	/^.table-hover .table-light:hover > td,$/;"	s
+.table-hover .table-light:hover > th	bootstrap.css	/^.table-hover .table-light:hover > th {$/;"	s
+.table-hover .table-primary:hover	bootstrap.css	/^.table-hover .table-primary:hover {$/;"	c
+.table-hover .table-primary:hover > td	bootstrap.css	/^.table-hover .table-primary:hover > td,$/;"	s
+.table-hover .table-primary:hover > th	bootstrap.css	/^.table-hover .table-primary:hover > th {$/;"	s
+.table-hover .table-secondary:hover	bootstrap.css	/^.table-hover .table-secondary:hover {$/;"	c
+.table-hover .table-secondary:hover > td	bootstrap.css	/^.table-hover .table-secondary:hover > td,$/;"	s
+.table-hover .table-secondary:hover > th	bootstrap.css	/^.table-hover .table-secondary:hover > th {$/;"	s
+.table-hover .table-success:hover	bootstrap.css	/^.table-hover .table-success:hover {$/;"	c
+.table-hover .table-success:hover	bootstrap.css	/^.table-hover .table-success:hover, .table-hover .table-success:hover > th, .table-hover .table-s/;"	c
+.table-hover .table-success:hover > td	bootstrap.css	/^.table-hover .table-success:hover > td,$/;"	s
+.table-hover .table-success:hover > td	bootstrap.css	/^.table-hover .table-success:hover, .table-hover .table-success:hover > th, .table-hover .table-s/;"	s
+.table-hover .table-success:hover > th	bootstrap.css	/^.table-hover .table-success:hover > th {$/;"	s
+.table-hover .table-success:hover > th	bootstrap.css	/^.table-hover .table-success:hover, .table-hover .table-success:hover > th, .table-hover .table-s/;"	s
+.table-hover .table-warning:hover	bootstrap.css	/^.table-hover .table-warning:hover {$/;"	c
+.table-hover .table-warning:hover	bootstrap.css	/^.table-hover .table-warning:hover, .table-hover .table-warning:hover > th, .table-hover .table-w/;"	c
+.table-hover .table-warning:hover > td	bootstrap.css	/^.table-hover .table-warning:hover > td,$/;"	s
+.table-hover .table-warning:hover > td	bootstrap.css	/^.table-hover .table-warning:hover, .table-hover .table-warning:hover > th, .table-hover .table-w/;"	s
+.table-hover .table-warning:hover > th	bootstrap.css	/^.table-hover .table-warning:hover > th {$/;"	s
+.table-hover .table-warning:hover > th	bootstrap.css	/^.table-hover .table-warning:hover, .table-hover .table-warning:hover > th, .table-hover .table-w/;"	s
+.table-hover tbody tr:hover	bootstrap.css	/^.table-hover tbody tr:hover {$/;"	s
+.table-info	bootstrap.css	/^.table-info, .table-info > th, .table-info > td {$/;"	c
+.table-info	bootstrap.css	/^.table-info,$/;"	c
+.table-info > td	bootstrap.css	/^.table-info > td {$/;"	s
+.table-info > td	bootstrap.css	/^.table-info, .table-info > th, .table-info > td {$/;"	s
+.table-info > th	bootstrap.css	/^.table-info > th,$/;"	s
+.table-info > th	bootstrap.css	/^.table-info, .table-info > th, .table-info > td {$/;"	s
+.table-light	bootstrap.css	/^.table-light,$/;"	c
+.table-light > td	bootstrap.css	/^.table-light > td {$/;"	s
+.table-light > th	bootstrap.css	/^.table-light > th,$/;"	s
+.table-primary	bootstrap.css	/^.table-primary,$/;"	c
+.table-primary > td	bootstrap.css	/^.table-primary > td {$/;"	s
+.table-primary > th	bootstrap.css	/^.table-primary > th,$/;"	s
+.table-responsive	bootstrap.css	/^.table-responsive {$/;"	c
+.table-responsive-lg	bootstrap.css	/^  .table-responsive-lg {$/;"	c
+.table-responsive-lg.table-bordered	bootstrap.css	/^  .table-responsive-lg.table-bordered {$/;"	c
+.table-responsive-md	bootstrap.css	/^  .table-responsive-md {$/;"	c
+.table-responsive-md.table-bordered	bootstrap.css	/^  .table-responsive-md.table-bordered {$/;"	c
+.table-responsive-sm	bootstrap.css	/^  .table-responsive-sm {$/;"	c
+.table-responsive-sm.table-bordered	bootstrap.css	/^  .table-responsive-sm.table-bordered {$/;"	c
+.table-responsive-xl	bootstrap.css	/^  .table-responsive-xl {$/;"	c
+.table-responsive-xl.table-bordered	bootstrap.css	/^  .table-responsive-xl.table-bordered {$/;"	c
+.table-responsive.table-bordered	bootstrap.css	/^.table-responsive.table-bordered {$/;"	c
+.table-secondary	bootstrap.css	/^.table-secondary,$/;"	c
+.table-secondary > td	bootstrap.css	/^.table-secondary > td {$/;"	s
+.table-secondary > th	bootstrap.css	/^.table-secondary > th,$/;"	s
+.table-sm td	bootstrap.css	/^.table-sm td {$/;"	s
+.table-sm th	bootstrap.css	/^.table-sm th,$/;"	s
+.table-striped tbody tr:nth-of-type(odd)	bootstrap.css	/^.table-striped tbody tr:nth-of-type(odd) {$/;"	s
+.table-success	bootstrap.css	/^.table-success, .table-success > th, .table-success > td {$/;"	c
+.table-success	bootstrap.css	/^.table-success,$/;"	c
+.table-success > td	bootstrap.css	/^.table-success > td {$/;"	s
+.table-success > td	bootstrap.css	/^.table-success, .table-success > th, .table-success > td {$/;"	s
+.table-success > th	bootstrap.css	/^.table-success > th,$/;"	s
+.table-success > th	bootstrap.css	/^.table-success, .table-success > th, .table-success > td {$/;"	s
+.table-warning	bootstrap.css	/^.table-warning, .table-warning > th, .table-warning > td {$/;"	c
+.table-warning	bootstrap.css	/^.table-warning,$/;"	c
+.table-warning > td	bootstrap.css	/^.table-warning > td {$/;"	s
+.table-warning > td	bootstrap.css	/^.table-warning, .table-warning > th, .table-warning > td {$/;"	s
+.table-warning > th	bootstrap.css	/^.table-warning > th,$/;"	s
+.table-warning > th	bootstrap.css	/^.table-warning, .table-warning > th, .table-warning > td {$/;"	s
+.term a	terminal.css	/^.term a { color: inherit; text-decoration: underline; text-decoration-style: dashed; }$/;"	s
+.term a:hover	terminal.css	/^.term a:hover { color: #2882F9 }$/;"	s
+.term-bg40	terminal.css	/^.term-bg40 { background: #676767; } \/* grey *\/$/;"	c
+.term-bg41	terminal.css	/^.term-bg41 { background: #ff4343; } \/* red *\/$/;"	c
+.term-bg42	terminal.css	/^.term-bg42 { background: #99ff5f; } \/* green *\/$/;"	c
+.term-container	terminal.css	/^.term-container {$/;"	c
+.term-container img	terminal.css	/^.term-container img { max-width: 100%; }$/;"	s
+.term-fg1	terminal.css	/^.term-fg1 { } \/* don't bold beccause it looks weird *\/$/;"	c
+.term-fg2	terminal.css	/^.term-fg2 { color: #838887; } \/* faint (decreased intensity) - same as gray really *\/$/;"	c
+.term-fg3	terminal.css	/^.term-fg3 { font-style: italic; } \/* italic *\/$/;"	c
+.term-fg30	terminal.css	/^.term-fg30 { color: #666666; } \/* black (but we can't use black, so a diff color) *\/$/;"	c
+.term-fg31	terminal.css	/^.term-fg31 { color: #ff7070; } \/* red *\/$/;"	c
+.term-fg31.term-bg40	terminal.css	/^.term-fg31.term-bg40 { color: #F8A39F; }$/;"	c
+.term-fg32	terminal.css	/^.term-fg32 { color: #b0f986; } \/* green *\/$/;"	c
+.term-fg33	terminal.css	/^.term-fg33 { color: #c6c502; } \/* yellow *\/$/;"	c
+.term-fg34	terminal.css	/^.term-fg34 { color: #8db7e0; } \/* blue *\/$/;"	c
+.term-fg35	terminal.css	/^.term-fg35 { color: #f271fb; } \/* magenta *\/$/;"	c
+.term-fg36	terminal.css	/^.term-fg36 { color: #6bf7ff; } \/* cyan *\/$/;"	c
+.term-fg4	terminal.css	/^.term-fg4 { text-decoration: underline; } \/* underline *\/$/;"	c
+.term-fg5	terminal.css	/^.term-fg5 { animation: blink-animation 1s steps(3, start) infinite; } \/* blink *\/$/;"	c
+.term-fg9	terminal.css	/^.term-fg9 { text-decoration: line-through; } \/* crossed-out *\/$/;"	c
+.term-fgi1	terminal.css	/^.term-fgi1 { color: #5ef765; }$/;"	c
+.term-fgi90	terminal.css	/^.term-fgi90 { color: #838887; } \/* grey *\/$/;"	c
+.term-fgi91	terminal.css	/^.term-fgi91 { color: #ff3333; } \/* red *\/$/;"	c
+.term-fgi92	terminal.css	/^.term-fgi92 { color: #00FF00; } \/* green *\/$/;"	c
+.term-fgi93	terminal.css	/^.term-fgi93 { color: #fffc67; } \/* yellow *\/$/;"	c
+.term-fgi94	terminal.css	/^.term-fgi94 { color: #6871ff; } \/* blue *\/$/;"	c
+.term-fgi95	terminal.css	/^.term-fgi95 { color: #ff76ff; } \/* magenta *\/$/;"	c
+.term-fgi96	terminal.css	/^.term-fgi96 { color: #60fcff; } \/* cyan *\/$/;"	c
+.term-fgx100	terminal.css	/^.term-fgx100 { color: #878700; }$/;"	c
+.term-fgx101	terminal.css	/^.term-fgx101 { color: #87875f; }$/;"	c
+.term-fgx102	terminal.css	/^.term-fgx102 { color: #878787; }$/;"	c
+.term-fgx103	terminal.css	/^.term-fgx103 { color: #8787af; }$/;"	c
+.term-fgx104	terminal.css	/^.term-fgx104 { color: #8787d7; }$/;"	c
+.term-fgx105	terminal.css	/^.term-fgx105 { color: #8787ff; }$/;"	c
+.term-fgx106	terminal.css	/^.term-fgx106 { color: #87af00; }$/;"	c
+.term-fgx107	terminal.css	/^.term-fgx107 { color: #87af5f; }$/;"	c
+.term-fgx108	terminal.css	/^.term-fgx108 { color: #87af87; }$/;"	c
+.term-fgx109	terminal.css	/^.term-fgx109 { color: #87afaf; }$/;"	c
+.term-fgx110	terminal.css	/^.term-fgx110 { color: #87afd7; }$/;"	c
+.term-fgx111	terminal.css	/^.term-fgx111 { color: #87afff; }$/;"	c
+.term-fgx112	terminal.css	/^.term-fgx112 { color: #87d700; }$/;"	c
+.term-fgx113	terminal.css	/^.term-fgx113 { color: #87d75f; }$/;"	c
+.term-fgx114	terminal.css	/^.term-fgx114 { color: #87d787; }$/;"	c
+.term-fgx115	terminal.css	/^.term-fgx115 { color: #87d7af; }$/;"	c
+.term-fgx116	terminal.css	/^.term-fgx116 { color: #87d7d7; }$/;"	c
+.term-fgx117	terminal.css	/^.term-fgx117 { color: #87d7ff; }$/;"	c
+.term-fgx118	terminal.css	/^.term-fgx118 { color: #87ff00; }$/;"	c
+.term-fgx119	terminal.css	/^.term-fgx119 { color: #87ff5f; }$/;"	c
+.term-fgx120	terminal.css	/^.term-fgx120 { color: #87ff87; }$/;"	c
+.term-fgx121	terminal.css	/^.term-fgx121 { color: #87ffaf; }$/;"	c
+.term-fgx122	terminal.css	/^.term-fgx122 { color: #87ffd7; }$/;"	c
+.term-fgx123	terminal.css	/^.term-fgx123 { color: #87ffff; }$/;"	c
+.term-fgx124	terminal.css	/^.term-fgx124 { color: #af0000; }$/;"	c
+.term-fgx125	terminal.css	/^.term-fgx125 { color: #af005f; }$/;"	c
+.term-fgx126	terminal.css	/^.term-fgx126 { color: #af0087; }$/;"	c
+.term-fgx127	terminal.css	/^.term-fgx127 { color: #af00af; }$/;"	c
+.term-fgx128	terminal.css	/^.term-fgx128 { color: #af00d7; }$/;"	c
+.term-fgx129	terminal.css	/^.term-fgx129 { color: #af00ff; }$/;"	c
+.term-fgx130	terminal.css	/^.term-fgx130 { color: #af5f00; }$/;"	c
+.term-fgx131	terminal.css	/^.term-fgx131 { color: #af5f5f; }$/;"	c
+.term-fgx132	terminal.css	/^.term-fgx132 { color: #af5f87; }$/;"	c
+.term-fgx133	terminal.css	/^.term-fgx133 { color: #af5faf; }$/;"	c
+.term-fgx134	terminal.css	/^.term-fgx134 { color: #af5fd7; }$/;"	c
+.term-fgx135	terminal.css	/^.term-fgx135 { color: #af5fff; }$/;"	c
+.term-fgx136	terminal.css	/^.term-fgx136 { color: #af8700; }$/;"	c
+.term-fgx137	terminal.css	/^.term-fgx137 { color: #af875f; }$/;"	c
+.term-fgx138	terminal.css	/^.term-fgx138 { color: #af8787; }$/;"	c
+.term-fgx139	terminal.css	/^.term-fgx139 { color: #af87af; }$/;"	c
+.term-fgx140	terminal.css	/^.term-fgx140 { color: #af87d7; }$/;"	c
+.term-fgx141	terminal.css	/^.term-fgx141 { color: #af87ff; }$/;"	c
+.term-fgx142	terminal.css	/^.term-fgx142 { color: #afaf00; }$/;"	c
+.term-fgx143	terminal.css	/^.term-fgx143 { color: #afaf5f; }$/;"	c
+.term-fgx144	terminal.css	/^.term-fgx144 { color: #afaf87; }$/;"	c
+.term-fgx145	terminal.css	/^.term-fgx145 { color: #afafaf; }$/;"	c
+.term-fgx146	terminal.css	/^.term-fgx146 { color: #afafd7; }$/;"	c
+.term-fgx147	terminal.css	/^.term-fgx147 { color: #afafff; }$/;"	c
+.term-fgx148	terminal.css	/^.term-fgx148 { color: #afd700; }$/;"	c
+.term-fgx149	terminal.css	/^.term-fgx149 { color: #afd75f; }$/;"	c
+.term-fgx150	terminal.css	/^.term-fgx150 { color: #afd787; }$/;"	c
+.term-fgx151	terminal.css	/^.term-fgx151 { color: #afd7af; }$/;"	c
+.term-fgx152	terminal.css	/^.term-fgx152 { color: #afd7d7; }$/;"	c
+.term-fgx153	terminal.css	/^.term-fgx153 { color: #afd7ff; }$/;"	c
+.term-fgx154	terminal.css	/^.term-fgx154 { color: #afff00; }$/;"	c
+.term-fgx155	terminal.css	/^.term-fgx155 { color: #afff5f; }$/;"	c
+.term-fgx156	terminal.css	/^.term-fgx156 { color: #afff87; }$/;"	c
+.term-fgx157	terminal.css	/^.term-fgx157 { color: #afffaf; }$/;"	c
+.term-fgx158	terminal.css	/^.term-fgx158 { color: #afffd7; }$/;"	c
+.term-fgx159	terminal.css	/^.term-fgx159 { color: #afffff; }$/;"	c
+.term-fgx16	terminal.css	/^.term-fgx16 { color: #000000; }$/;"	c
+.term-fgx160	terminal.css	/^.term-fgx160 { color: #d70000; }$/;"	c
+.term-fgx161	terminal.css	/^.term-fgx161 { color: #d7005f; }$/;"	c
+.term-fgx162	terminal.css	/^.term-fgx162 { color: #d70087; }$/;"	c
+.term-fgx163	terminal.css	/^.term-fgx163 { color: #d700af; }$/;"	c
+.term-fgx164	terminal.css	/^.term-fgx164 { color: #d700d7; }$/;"	c
+.term-fgx165	terminal.css	/^.term-fgx165 { color: #d700ff; }$/;"	c
+.term-fgx166	terminal.css	/^.term-fgx166 { color: #d75f00; }$/;"	c
+.term-fgx167	terminal.css	/^.term-fgx167 { color: #d75f5f; }$/;"	c
+.term-fgx168	terminal.css	/^.term-fgx168 { color: #d75f87; }$/;"	c
+.term-fgx169	terminal.css	/^.term-fgx169 { color: #d75faf; }$/;"	c
+.term-fgx17	terminal.css	/^.term-fgx17 { color: #00005f; }$/;"	c
+.term-fgx170	terminal.css	/^.term-fgx170 { color: #d75fd7; }$/;"	c
+.term-fgx171	terminal.css	/^.term-fgx171 { color: #d75fff; }$/;"	c
+.term-fgx172	terminal.css	/^.term-fgx172 { color: #d78700; }$/;"	c
+.term-fgx173	terminal.css	/^.term-fgx173 { color: #d7875f; }$/;"	c
+.term-fgx174	terminal.css	/^.term-fgx174 { color: #d78787; }$/;"	c
+.term-fgx175	terminal.css	/^.term-fgx175 { color: #d787af; }$/;"	c
+.term-fgx176	terminal.css	/^.term-fgx176 { color: #d787d7; }$/;"	c
+.term-fgx177	terminal.css	/^.term-fgx177 { color: #d787ff; }$/;"	c
+.term-fgx178	terminal.css	/^.term-fgx178 { color: #d7af00; }$/;"	c
+.term-fgx179	terminal.css	/^.term-fgx179 { color: #d7af5f; }$/;"	c
+.term-fgx18	terminal.css	/^.term-fgx18 { color: #000087; }$/;"	c
+.term-fgx180	terminal.css	/^.term-fgx180 { color: #d7af87; }$/;"	c
+.term-fgx181	terminal.css	/^.term-fgx181 { color: #d7afaf; }$/;"	c
+.term-fgx182	terminal.css	/^.term-fgx182 { color: #d7afd7; }$/;"	c
+.term-fgx183	terminal.css	/^.term-fgx183 { color: #d7afff; }$/;"	c
+.term-fgx184	terminal.css	/^.term-fgx184 { color: #d7d700; }$/;"	c
+.term-fgx185	terminal.css	/^.term-fgx185 { color: #d7d75f; }$/;"	c
+.term-fgx186	terminal.css	/^.term-fgx186 { color: #d7d787; }$/;"	c
+.term-fgx187	terminal.css	/^.term-fgx187 { color: #d7d7af; }$/;"	c
+.term-fgx188	terminal.css	/^.term-fgx188 { color: #d7d7d7; }$/;"	c
+.term-fgx189	terminal.css	/^.term-fgx189 { color: #d7d7ff; }$/;"	c
+.term-fgx19	terminal.css	/^.term-fgx19 { color: #0000af; }$/;"	c
+.term-fgx190	terminal.css	/^.term-fgx190 { color: #d7ff00; }$/;"	c
+.term-fgx191	terminal.css	/^.term-fgx191 { color: #d7ff5f; }$/;"	c
+.term-fgx192	terminal.css	/^.term-fgx192 { color: #d7ff87; }$/;"	c
+.term-fgx193	terminal.css	/^.term-fgx193 { color: #d7ffaf; }$/;"	c
+.term-fgx194	terminal.css	/^.term-fgx194 { color: #d7ffd7; }$/;"	c
+.term-fgx195	terminal.css	/^.term-fgx195 { color: #d7ffff; }$/;"	c
+.term-fgx196	terminal.css	/^.term-fgx196 { color: #ff0000; }$/;"	c
+.term-fgx197	terminal.css	/^.term-fgx197 { color: #ff005f; }$/;"	c
+.term-fgx198	terminal.css	/^.term-fgx198 { color: #ff0087; }$/;"	c
+.term-fgx199	terminal.css	/^.term-fgx199 { color: #ff00af; }$/;"	c
+.term-fgx20	terminal.css	/^.term-fgx20 { color: #0000d7; }$/;"	c
+.term-fgx200	terminal.css	/^.term-fgx200 { color: #ff00d7; }$/;"	c
+.term-fgx201	terminal.css	/^.term-fgx201 { color: #ff00ff; }$/;"	c
+.term-fgx202	terminal.css	/^.term-fgx202 { color: #ff5f00; }$/;"	c
+.term-fgx203	terminal.css	/^.term-fgx203 { color: #ff5f5f; }$/;"	c
+.term-fgx204	terminal.css	/^.term-fgx204 { color: #ff5f87; }$/;"	c
+.term-fgx205	terminal.css	/^.term-fgx205 { color: #ff5faf; }$/;"	c
+.term-fgx206	terminal.css	/^.term-fgx206 { color: #ff5fd7; }$/;"	c
+.term-fgx207	terminal.css	/^.term-fgx207 { color: #ff5fff; }$/;"	c
+.term-fgx208	terminal.css	/^.term-fgx208 { color: #ff8700; }$/;"	c
+.term-fgx209	terminal.css	/^.term-fgx209 { color: #ff875f; }$/;"	c
+.term-fgx21	terminal.css	/^.term-fgx21 { color: #0000ff; }$/;"	c
+.term-fgx210	terminal.css	/^.term-fgx210 { color: #ff8787; }$/;"	c
+.term-fgx211	terminal.css	/^.term-fgx211 { color: #ff87af; }$/;"	c
+.term-fgx212	terminal.css	/^.term-fgx212 { color: #ff87d7; }$/;"	c
+.term-fgx213	terminal.css	/^.term-fgx213 { color: #ff87ff; }$/;"	c
+.term-fgx214	terminal.css	/^.term-fgx214 { color: #ffaf00; }$/;"	c
+.term-fgx215	terminal.css	/^.term-fgx215 { color: #ffaf5f; }$/;"	c
+.term-fgx216	terminal.css	/^.term-fgx216 { color: #ffaf87; }$/;"	c
+.term-fgx217	terminal.css	/^.term-fgx217 { color: #ffafaf; }$/;"	c
+.term-fgx218	terminal.css	/^.term-fgx218 { color: #ffafd7; }$/;"	c
+.term-fgx219	terminal.css	/^.term-fgx219 { color: #ffafff; }$/;"	c
+.term-fgx22	terminal.css	/^.term-fgx22 { color: #005f00; }$/;"	c
+.term-fgx220	terminal.css	/^.term-fgx220 { color: #ffd700; }$/;"	c
+.term-fgx221	terminal.css	/^.term-fgx221 { color: #ffd75f; }$/;"	c
+.term-fgx222	terminal.css	/^.term-fgx222 { color: #ffd787; }$/;"	c
+.term-fgx223	terminal.css	/^.term-fgx223 { color: #ffd7af; }$/;"	c
+.term-fgx224	terminal.css	/^.term-fgx224 { color: #ffd7d7; }$/;"	c
+.term-fgx225	terminal.css	/^.term-fgx225 { color: #ffd7ff; }$/;"	c
+.term-fgx226	terminal.css	/^.term-fgx226 { color: #ffff00; }$/;"	c
+.term-fgx227	terminal.css	/^.term-fgx227 { color: #ffff5f; }$/;"	c
+.term-fgx228	terminal.css	/^.term-fgx228 { color: #ffff87; }$/;"	c
+.term-fgx229	terminal.css	/^.term-fgx229 { color: #ffffaf; }$/;"	c
+.term-fgx23	terminal.css	/^.term-fgx23 { color: #005f5f; }$/;"	c
+.term-fgx230	terminal.css	/^.term-fgx230 { color: #ffffd7; }$/;"	c
+.term-fgx231	terminal.css	/^.term-fgx231 { color: #ffffff; }$/;"	c
+.term-fgx232	terminal.css	/^.term-fgx232 { color: #080808; }$/;"	c
+.term-fgx233	terminal.css	/^.term-fgx233 { color: #121212; }$/;"	c
+.term-fgx234	terminal.css	/^.term-fgx234 { color: #1c1c1c; }$/;"	c
+.term-fgx235	terminal.css	/^.term-fgx235 { color: #262626; }$/;"	c
+.term-fgx236	terminal.css	/^.term-fgx236 { color: #303030; }$/;"	c
+.term-fgx237	terminal.css	/^.term-fgx237 { color: #3a3a3a; }$/;"	c
+.term-fgx238	terminal.css	/^.term-fgx238 { color: #444444; }$/;"	c
+.term-fgx239	terminal.css	/^.term-fgx239 { color: #4e4e4e; }$/;"	c
+.term-fgx24	terminal.css	/^.term-fgx24 { color: #005f87; }$/;"	c
+.term-fgx240	terminal.css	/^.term-fgx240 { color: #585858; }$/;"	c
+.term-fgx241	terminal.css	/^.term-fgx241 { color: #626262; }$/;"	c
+.term-fgx242	terminal.css	/^.term-fgx242 { color: #6c6c6c; }$/;"	c
+.term-fgx243	terminal.css	/^.term-fgx243 { color: #767676; }$/;"	c
+.term-fgx244	terminal.css	/^.term-fgx244 { color: #808080; }$/;"	c
+.term-fgx245	terminal.css	/^.term-fgx245 { color: #8a8a8a; }$/;"	c
+.term-fgx246	terminal.css	/^.term-fgx246 { color: #949494; }$/;"	c
+.term-fgx247	terminal.css	/^.term-fgx247 { color: #9e9e9e; }$/;"	c
+.term-fgx248	terminal.css	/^.term-fgx248 { color: #a8a8a8; }$/;"	c
+.term-fgx249	terminal.css	/^.term-fgx249 { color: #b2b2b2; }$/;"	c
+.term-fgx25	terminal.css	/^.term-fgx25 { color: #005faf; }$/;"	c
+.term-fgx250	terminal.css	/^.term-fgx250 { color: #bcbcbc; }$/;"	c
+.term-fgx251	terminal.css	/^.term-fgx251 { color: #c6c6c6; }$/;"	c
+.term-fgx252	terminal.css	/^.term-fgx252 { color: #d0d0d0; }$/;"	c
+.term-fgx253	terminal.css	/^.term-fgx253 { color: #dadada; }$/;"	c
+.term-fgx254	terminal.css	/^.term-fgx254 { color: #e4e4e4; }$/;"	c
+.term-fgx255	terminal.css	/^.term-fgx255 { color: #eeeeee; }$/;"	c
+.term-fgx26	terminal.css	/^.term-fgx26 { color: #005fd7; }$/;"	c
+.term-fgx27	terminal.css	/^.term-fgx27 { color: #005fff; }$/;"	c
+.term-fgx28	terminal.css	/^.term-fgx28 { color: #008700; }$/;"	c
+.term-fgx29	terminal.css	/^.term-fgx29 { color: #00875f; }$/;"	c
+.term-fgx30	terminal.css	/^.term-fgx30 { color: #008787; }$/;"	c
+.term-fgx31	terminal.css	/^.term-fgx31 { color: #0087af; }$/;"	c
+.term-fgx32	terminal.css	/^.term-fgx32 { color: #0087d7; }$/;"	c
+.term-fgx33	terminal.css	/^.term-fgx33 { color: #0087ff; }$/;"	c
+.term-fgx34	terminal.css	/^.term-fgx34 { color: #00af00; }$/;"	c
+.term-fgx35	terminal.css	/^.term-fgx35 { color: #00af5f; }$/;"	c
+.term-fgx36	terminal.css	/^.term-fgx36 { color: #00af87; }$/;"	c
+.term-fgx37	terminal.css	/^.term-fgx37 { color: #00afaf; }$/;"	c
+.term-fgx38	terminal.css	/^.term-fgx38 { color: #00afd7; }$/;"	c
+.term-fgx39	terminal.css	/^.term-fgx39 { color: #00afff; }$/;"	c
+.term-fgx40	terminal.css	/^.term-fgx40 { color: #00d700; }$/;"	c
+.term-fgx41	terminal.css	/^.term-fgx41 { color: #00d75f; }$/;"	c
+.term-fgx42	terminal.css	/^.term-fgx42 { color: #00d787; }$/;"	c
+.term-fgx43	terminal.css	/^.term-fgx43 { color: #00d7af; }$/;"	c
+.term-fgx44	terminal.css	/^.term-fgx44 { color: #00d7d7; }$/;"	c
+.term-fgx45	terminal.css	/^.term-fgx45 { color: #00d7ff; }$/;"	c
+.term-fgx46	terminal.css	/^.term-fgx46 { color: #00ff00; }$/;"	c
+.term-fgx47	terminal.css	/^.term-fgx47 { color: #00ff5f; }$/;"	c
+.term-fgx48	terminal.css	/^.term-fgx48 { color: #00ff87; }$/;"	c
+.term-fgx49	terminal.css	/^.term-fgx49 { color: #00ffaf; }$/;"	c
+.term-fgx50	terminal.css	/^.term-fgx50 { color: #00ffd7; }$/;"	c
+.term-fgx51	terminal.css	/^.term-fgx51 { color: #00ffff; }$/;"	c
+.term-fgx52	terminal.css	/^.term-fgx52 { color: #5f0000; }$/;"	c
+.term-fgx53	terminal.css	/^.term-fgx53 { color: #5f005f; }$/;"	c
+.term-fgx54	terminal.css	/^.term-fgx54 { color: #5f0087; }$/;"	c
+.term-fgx55	terminal.css	/^.term-fgx55 { color: #5f00af; }$/;"	c
+.term-fgx56	terminal.css	/^.term-fgx56 { color: #5f00d7; }$/;"	c
+.term-fgx57	terminal.css	/^.term-fgx57 { color: #5f00ff; }$/;"	c
+.term-fgx58	terminal.css	/^.term-fgx58 { color: #5f5f00; }$/;"	c
+.term-fgx59	terminal.css	/^.term-fgx59 { color: #5f5f5f; }$/;"	c
+.term-fgx60	terminal.css	/^.term-fgx60 { color: #5f5f87; }$/;"	c
+.term-fgx61	terminal.css	/^.term-fgx61 { color: #5f5faf; }$/;"	c
+.term-fgx62	terminal.css	/^.term-fgx62 { color: #5f5fd7; }$/;"	c
+.term-fgx63	terminal.css	/^.term-fgx63 { color: #5f5fff; }$/;"	c
+.term-fgx64	terminal.css	/^.term-fgx64 { color: #5f8700; }$/;"	c
+.term-fgx65	terminal.css	/^.term-fgx65 { color: #5f875f; }$/;"	c
+.term-fgx66	terminal.css	/^.term-fgx66 { color: #5f8787; }$/;"	c
+.term-fgx67	terminal.css	/^.term-fgx67 { color: #5f87af; }$/;"	c
+.term-fgx68	terminal.css	/^.term-fgx68 { color: #5f87d7; }$/;"	c
+.term-fgx69	terminal.css	/^.term-fgx69 { color: #5f87ff; }$/;"	c
+.term-fgx70	terminal.css	/^.term-fgx70 { color: #5faf00; }$/;"	c
+.term-fgx71	terminal.css	/^.term-fgx71 { color: #5faf5f; }$/;"	c
+.term-fgx72	terminal.css	/^.term-fgx72 { color: #5faf87; }$/;"	c
+.term-fgx73	terminal.css	/^.term-fgx73 { color: #5fafaf; }$/;"	c
+.term-fgx74	terminal.css	/^.term-fgx74 { color: #5fafd7; }$/;"	c
+.term-fgx75	terminal.css	/^.term-fgx75 { color: #5fafff; }$/;"	c
+.term-fgx76	terminal.css	/^.term-fgx76 { color: #5fd700; }$/;"	c
+.term-fgx77	terminal.css	/^.term-fgx77 { color: #5fd75f; }$/;"	c
+.term-fgx78	terminal.css	/^.term-fgx78 { color: #5fd787; }$/;"	c
+.term-fgx79	terminal.css	/^.term-fgx79 { color: #5fd7af; }$/;"	c
+.term-fgx80	terminal.css	/^.term-fgx80 { color: #5fd7d7; }$/;"	c
+.term-fgx81	terminal.css	/^.term-fgx81 { color: #5fd7ff; }$/;"	c
+.term-fgx82	terminal.css	/^.term-fgx82 { color: #5fff00; }$/;"	c
+.term-fgx83	terminal.css	/^.term-fgx83 { color: #5fff5f; }$/;"	c
+.term-fgx84	terminal.css	/^.term-fgx84 { color: #5fff87; }$/;"	c
+.term-fgx85	terminal.css	/^.term-fgx85 { color: #5fffaf; }$/;"	c
+.term-fgx86	terminal.css	/^.term-fgx86 { color: #5fffd7; }$/;"	c
+.term-fgx87	terminal.css	/^.term-fgx87 { color: #5fffff; }$/;"	c
+.term-fgx88	terminal.css	/^.term-fgx88 { color: #870000; }$/;"	c
+.term-fgx89	terminal.css	/^.term-fgx89 { color: #87005f; }$/;"	c
+.term-fgx90	terminal.css	/^.term-fgx90 { color: #870087; }$/;"	c
+.term-fgx91	terminal.css	/^.term-fgx91 { color: #8700af; }$/;"	c
+.term-fgx92	terminal.css	/^.term-fgx92 { color: #8700d7; }$/;"	c
+.term-fgx93	terminal.css	/^.term-fgx93 { color: #8700ff; }$/;"	c
+.term-fgx94	terminal.css	/^.term-fgx94 { color: #875f00; }$/;"	c
+.term-fgx95	terminal.css	/^.term-fgx95 { color: #875f5f; }$/;"	c
+.term-fgx96	terminal.css	/^.term-fgx96 { color: #875f87; }$/;"	c
+.term-fgx97	terminal.css	/^.term-fgx97 { color: #875faf; }$/;"	c
+.term-fgx98	terminal.css	/^.term-fgx98 { color: #875fd7; }$/;"	c
+.term-fgx99	terminal.css	/^.term-fgx99 { color: #875fff; }$/;"	c
+.text-capitalize	bootstrap.css	/^.text-capitalize {$/;"	c
+.text-center	bootstrap.css	/^.text-center {$/;"	c
+.text-danger	bootstrap.css	/^.text-danger {$/;"	c
+.text-dark	bootstrap.css	/^.text-dark {$/;"	c
+.text-hide	bootstrap.css	/^.text-hide {$/;"	c
+.text-info	bootstrap.css	/^.text-info {$/;"	c
+.text-justify	bootstrap.css	/^.text-justify {$/;"	c
+.text-left	bootstrap.css	/^.text-left {$/;"	c
+.text-lg-center	bootstrap.css	/^  .text-lg-center {$/;"	c
+.text-lg-left	bootstrap.css	/^  .text-lg-left {$/;"	c
+.text-lg-right	bootstrap.css	/^  .text-lg-right {$/;"	c
+.text-light	bootstrap.css	/^.text-light {$/;"	c
+.text-lowercase	bootstrap.css	/^.text-lowercase {$/;"	c
+.text-md-center	bootstrap.css	/^  .text-md-center {$/;"	c
+.text-md-left	bootstrap.css	/^  .text-md-left {$/;"	c
+.text-md-right	bootstrap.css	/^  .text-md-right {$/;"	c
+.text-muted	bootstrap.css	/^.text-muted {$/;"	c
+.text-nowrap	bootstrap.css	/^.text-nowrap {$/;"	c
+.text-primary	bootstrap.css	/^.text-primary {$/;"	c
+.text-right	bootstrap.css	/^.text-right {$/;"	c
+.text-secondary	bootstrap.css	/^.text-secondary {$/;"	c
+.text-sm-center	bootstrap.css	/^  .text-sm-center {$/;"	c
+.text-sm-left	bootstrap.css	/^  .text-sm-left {$/;"	c
+.text-sm-right	bootstrap.css	/^  .text-sm-right {$/;"	c
+.text-success	bootstrap.css	/^.text-success {$/;"	c
+.text-truncate	bootstrap.css	/^.text-truncate {$/;"	c
+.text-uppercase	bootstrap.css	/^.text-uppercase {$/;"	c
+.text-warning	bootstrap.css	/^.text-warning {$/;"	c
+.text-white	bootstrap.css	/^.text-white {$/;"	c
+.text-xl-center	bootstrap.css	/^  .text-xl-center {$/;"	c
+.text-xl-left	bootstrap.css	/^  .text-xl-left {$/;"	c
+.text-xl-right	bootstrap.css	/^  .text-xl-right {$/;"	c
+.tooltip	bootstrap.css	/^.tooltip {$/;"	c
+.tooltip .arrow	bootstrap.css	/^.tooltip .arrow {$/;"	c
+.tooltip .arrow::before	bootstrap.css	/^.tooltip .arrow::before {$/;"	c
+.tooltip-inner	bootstrap.css	/^.tooltip-inner {$/;"	c
+.tooltip.bs-tooltip-auto[x-placement^="bottom"]	bootstrap.css	/^.tooltip.bs-tooltip-bottom, .tooltip.bs-tooltip-auto[x-placement^="bottom"] {$/;"	c
+.tooltip.bs-tooltip-auto[x-placement^="bottom"] .arrow	bootstrap.css	/^.tooltip.bs-tooltip-bottom .arrow, .tooltip.bs-tooltip-auto[x-placement^="bottom"] .arrow {$/;"	c
+.tooltip.bs-tooltip-auto[x-placement^="bottom"] .arrow::before	bootstrap.css	/^.tooltip.bs-tooltip-bottom .arrow::before, .tooltip.bs-tooltip-auto[x-placement^="bottom"] .arro/;"	c
+.tooltip.bs-tooltip-auto[x-placement^="left"]	bootstrap.css	/^.tooltip.bs-tooltip-left, .tooltip.bs-tooltip-auto[x-placement^="left"] {$/;"	c
+.tooltip.bs-tooltip-auto[x-placement^="left"] .arrow	bootstrap.css	/^.tooltip.bs-tooltip-left .arrow, .tooltip.bs-tooltip-auto[x-placement^="left"] .arrow {$/;"	c
+.tooltip.bs-tooltip-auto[x-placement^="left"] .arrow::before	bootstrap.css	/^.tooltip.bs-tooltip-left .arrow::before, .tooltip.bs-tooltip-auto[x-placement^="left"] .arrow::b/;"	c
+.tooltip.bs-tooltip-auto[x-placement^="right"]	bootstrap.css	/^.tooltip.bs-tooltip-right, .tooltip.bs-tooltip-auto[x-placement^="right"] {$/;"	c
+.tooltip.bs-tooltip-auto[x-placement^="right"] .arrow	bootstrap.css	/^.tooltip.bs-tooltip-right .arrow, .tooltip.bs-tooltip-auto[x-placement^="right"] .arrow {$/;"	c
+.tooltip.bs-tooltip-auto[x-placement^="right"] .arrow::before	bootstrap.css	/^.tooltip.bs-tooltip-right .arrow::before, .tooltip.bs-tooltip-auto[x-placement^="right"] .arrow:/;"	c
+.tooltip.bs-tooltip-auto[x-placement^="top"]	bootstrap.css	/^.tooltip.bs-tooltip-top, .tooltip.bs-tooltip-auto[x-placement^="top"] {$/;"	c
+.tooltip.bs-tooltip-auto[x-placement^="top"] .arrow	bootstrap.css	/^.tooltip.bs-tooltip-top .arrow, .tooltip.bs-tooltip-auto[x-placement^="top"] .arrow {$/;"	c
+.tooltip.bs-tooltip-auto[x-placement^="top"] .arrow::before	bootstrap.css	/^.tooltip.bs-tooltip-top .arrow::before, .tooltip.bs-tooltip-auto[x-placement^="top"] .arrow::bef/;"	c
+.tooltip.bs-tooltip-bottom	bootstrap.css	/^.tooltip.bs-tooltip-bottom, .tooltip.bs-tooltip-auto[x-placement^="bottom"] {$/;"	c
+.tooltip.bs-tooltip-bottom .arrow	bootstrap.css	/^.tooltip.bs-tooltip-bottom .arrow, .tooltip.bs-tooltip-auto[x-placement^="bottom"] .arrow {$/;"	c
+.tooltip.bs-tooltip-bottom .arrow::before	bootstrap.css	/^.tooltip.bs-tooltip-bottom .arrow::before, .tooltip.bs-tooltip-auto[x-placement^="bottom"] .arro/;"	c
+.tooltip.bs-tooltip-left	bootstrap.css	/^.tooltip.bs-tooltip-left, .tooltip.bs-tooltip-auto[x-placement^="left"] {$/;"	c
+.tooltip.bs-tooltip-left .arrow	bootstrap.css	/^.tooltip.bs-tooltip-left .arrow, .tooltip.bs-tooltip-auto[x-placement^="left"] .arrow {$/;"	c
+.tooltip.bs-tooltip-left .arrow::before	bootstrap.css	/^.tooltip.bs-tooltip-left .arrow::before, .tooltip.bs-tooltip-auto[x-placement^="left"] .arrow::b/;"	c
+.tooltip.bs-tooltip-right	bootstrap.css	/^.tooltip.bs-tooltip-right, .tooltip.bs-tooltip-auto[x-placement^="right"] {$/;"	c
+.tooltip.bs-tooltip-right .arrow	bootstrap.css	/^.tooltip.bs-tooltip-right .arrow, .tooltip.bs-tooltip-auto[x-placement^="right"] .arrow {$/;"	c
+.tooltip.bs-tooltip-right .arrow::before	bootstrap.css	/^.tooltip.bs-tooltip-right .arrow::before, .tooltip.bs-tooltip-auto[x-placement^="right"] .arrow:/;"	c
+.tooltip.bs-tooltip-top	bootstrap.css	/^.tooltip.bs-tooltip-top, .tooltip.bs-tooltip-auto[x-placement^="top"] {$/;"	c
+.tooltip.bs-tooltip-top .arrow	bootstrap.css	/^.tooltip.bs-tooltip-top .arrow, .tooltip.bs-tooltip-auto[x-placement^="top"] .arrow {$/;"	c
+.tooltip.bs-tooltip-top .arrow::before	bootstrap.css	/^.tooltip.bs-tooltip-top .arrow::before, .tooltip.bs-tooltip-auto[x-placement^="top"] .arrow::bef/;"	c
+.tooltip.show	bootstrap.css	/^.tooltip.show {$/;"	c
+.valid-feedback	bootstrap.css	/^.custom-select.is-valid ~ .valid-feedback,$/;"	c
+.valid-feedback	bootstrap.css	/^.custom-select:valid ~ .valid-feedback,$/;"	c
+.valid-feedback	bootstrap.css	/^.valid-feedback {$/;"	c
+.valid-feedback	bootstrap.css	/^.was-validated .form-control:valid ~ .valid-feedback,$/;"	c
+.valid-feedback	bootstrap.css	/^.was-validated .form-control:valid ~ .valid-tooltip, .form-control.is-valid ~ .valid-feedback,$/;"	c
+.valid-tooltip	bootstrap.css	/^.custom-select.is-valid ~ .valid-tooltip {$/;"	c
+.valid-tooltip	bootstrap.css	/^.custom-select:valid ~ .valid-tooltip,$/;"	c
+.valid-tooltip	bootstrap.css	/^.form-control.is-valid ~ .valid-tooltip, .was-validated$/;"	c
+.valid-tooltip	bootstrap.css	/^.valid-tooltip {$/;"	c
+.valid-tooltip	bootstrap.css	/^.was-validated .form-control:valid ~ .valid-tooltip, .form-control.is-valid ~ .valid-feedback,$/;"	c
+.visible	bootstrap.css	/^.visible {$/;"	c
+.w-100	bootstrap.css	/^.w-100 {$/;"	c
+.w-25	bootstrap.css	/^.w-25 {$/;"	c
+.w-50	bootstrap.css	/^.w-50 {$/;"	c
+.w-75	bootstrap.css	/^.w-75 {$/;"	c
+.was-validated .custom-control-input:invalid	bootstrap.css	/^.was-validated .custom-control-input:invalid ~ .custom-control-description, .custom-control-inpu/;"	c
+.was-validated .custom-control-input:invalid	bootstrap.css	/^.was-validated .custom-control-input:invalid ~ .custom-control-indicator, .custom-control-input./;"	c
+.was-validated .custom-control-input:valid	bootstrap.css	/^.was-validated .custom-control-input:valid ~ .custom-control-description, .custom-control-input./;"	c
+.was-validated .custom-control-input:valid	bootstrap.css	/^.was-validated .custom-control-input:valid ~ .custom-control-indicator, .custom-control-input.is/;"	c
+.was-validated .custom-file-input:invalid	bootstrap.css	/^.was-validated .custom-file-input:invalid ~ .custom-file-control, .custom-file-input.is-invalid /;"	c
+.was-validated .custom-file-input:invalid	bootstrap.css	/^.was-validated .custom-file-input:invalid ~ .custom-file-control::before, .custom-file-input.is-/;"	c
+.was-validated .custom-file-input:invalid:focus	bootstrap.css	/^.was-validated .custom-file-input:invalid:focus, .custom-file-input.is-invalid:focus {$/;"	c
+.was-validated .custom-file-input:valid	bootstrap.css	/^.was-validated .custom-file-input:valid ~ .custom-file-control, .custom-file-input.is-valid ~ .c/;"	c
+.was-validated .custom-file-input:valid	bootstrap.css	/^.was-validated .custom-file-input:valid ~ .custom-file-control::before, .custom-file-input.is-va/;"	c
+.was-validated .custom-file-input:valid:focus	bootstrap.css	/^.was-validated .custom-file-input:valid:focus, .custom-file-input.is-valid:focus {$/;"	c
+.was-validated .custom-select:invalid	bootstrap.css	/^.custom-select:invalid ~ .invalid-feedback,$/;"	c
+.was-validated .custom-select:invalid	bootstrap.css	/^.custom-select:invalid ~ .invalid-tooltip,$/;"	c
+.was-validated .custom-select:invalid	bootstrap.css	/^.custom-select:invalid,$/;"	c
+.was-validated .custom-select:invalid:focus	bootstrap.css	/^.custom-select:invalid:focus,$/;"	c
+.was-validated .custom-select:valid	bootstrap.css	/^.custom-select:valid ~ .valid-feedback,$/;"	c
+.was-validated .custom-select:valid	bootstrap.css	/^.custom-select:valid ~ .valid-tooltip,$/;"	c
+.was-validated .custom-select:valid	bootstrap.css	/^.custom-select:valid,$/;"	c
+.was-validated .custom-select:valid:focus	bootstrap.css	/^.custom-select:valid:focus,$/;"	c
+.was-validated .form-check-input:invalid + .form-check-label	bootstrap.css	/^.was-validated .form-check-input:invalid + .form-check-label, .form-check-input.is-invalid + .fo/;"	c
+.was-validated .form-check-input:valid + .form-check-label	bootstrap.css	/^.was-validated .form-check-input:valid + .form-check-label, .form-check-input.is-valid + .form-c/;"	c
+.was-validated .form-control:invalid	bootstrap.css	/^.was-validated .form-control:invalid ~ .invalid-feedback,$/;"	c
+.was-validated .form-control:invalid	bootstrap.css	/^.was-validated .form-control:invalid ~ .invalid-tooltip, .form-control.is-invalid ~ .invalid-fee/;"	c
+.was-validated .form-control:invalid	bootstrap.css	/^.was-validated .form-control:invalid, .form-control.is-invalid, .was-validated$/;"	c
+.was-validated .form-control:invalid:focus	bootstrap.css	/^.was-validated .form-control:invalid:focus, .form-control.is-invalid:focus, .was-validated$/;"	c
+.was-validated .form-control:valid	bootstrap.css	/^.was-validated .form-control:valid ~ .valid-feedback,$/;"	c
+.was-validated .form-control:valid	bootstrap.css	/^.was-validated .form-control:valid ~ .valid-tooltip, .form-control.is-valid ~ .valid-feedback,$/;"	c
+.was-validated .form-control:valid	bootstrap.css	/^.was-validated .form-control:valid, .form-control.is-valid, .was-validated$/;"	c
+.was-validated .form-control:valid:focus	bootstrap.css	/^.was-validated .form-control:valid:focus, .form-control.is-valid:focus, .was-validated$/;"	c
+::-moz-focus-inner	bootstrap.css	/^[type="button"]::-moz-focus-inner,$/;"	s
+::-moz-focus-inner	bootstrap.css	/^[type="reset"]::-moz-focus-inner,$/;"	s
+::-moz-focus-inner	bootstrap.css	/^[type="submit"]::-moz-focus-inner {$/;"	s
+::-webkit-file-upload-button	bootstrap.css	/^::-webkit-file-upload-button {$/;"	s
+::-webkit-inner-spin-button	bootstrap.css	/^[type="number"]::-webkit-inner-spin-button,$/;"	s
+::-webkit-outer-spin-button	bootstrap.css	/^[type="number"]::-webkit-outer-spin-button {$/;"	s
+::-webkit-search-cancel-button	bootstrap.css	/^[type="search"]::-webkit-search-cancel-button,$/;"	s
+::-webkit-search-decoration	bootstrap.css	/^[type="search"]::-webkit-search-decoration {$/;"	s
+:focus	bootstrap.css	/^[tabindex="-1"]:focus {$/;"	s
+:root	bootstrap.css	/^:root {$/;"	s
+> .btn input[type="checkbox"]	bootstrap.css	/^[data-toggle="buttons"] > .btn input[type="checkbox"],$/;"	s
+> .btn input[type="radio"]	bootstrap.css	/^[data-toggle="buttons"] > .btn input[type="radio"],$/;"	s
+> .btn-group > .btn input[type="checkbox"]	bootstrap.css	/^[data-toggle="buttons"] > .btn-group > .btn input[type="checkbox"] {$/;"	s
+> .btn-group > .btn input[type="radio"]	bootstrap.css	/^[data-toggle="buttons"] > .btn-group > .btn input[type="radio"],$/;"	s
+a	bootstrap.css	/^  a,$/;"	s
+a	bootstrap.css	/^a {$/;"	s
+a	bootstrap.css	/^a,$/;"	s
+a	neon.css	/^a {$/;"	s
+a > code	bootstrap.css	/^a > code {$/;"	s
+a > img	neon.css	/^a > img {$/;"	s
+a > img:hover	neon.css	/^a > img:hover {$/;"	s
+a.bg-danger:focus	bootstrap.css	/^a.bg-danger:focus, a.bg-danger:hover {$/;"	c
+a.bg-danger:hover	bootstrap.css	/^a.bg-danger:focus, a.bg-danger:hover {$/;"	c
+a.bg-dark:focus	bootstrap.css	/^a.bg-dark:focus, a.bg-dark:hover {$/;"	c
+a.bg-dark:hover	bootstrap.css	/^a.bg-dark:focus, a.bg-dark:hover {$/;"	c
+a.bg-info:focus	bootstrap.css	/^a.bg-info:focus, a.bg-info:hover {$/;"	c
+a.bg-info:hover	bootstrap.css	/^a.bg-info:focus, a.bg-info:hover {$/;"	c
+a.bg-light:focus	bootstrap.css	/^a.bg-light:focus, a.bg-light:hover {$/;"	c
+a.bg-light:hover	bootstrap.css	/^a.bg-light:focus, a.bg-light:hover {$/;"	c
+a.bg-primary:focus	bootstrap.css	/^a.bg-primary:focus, a.bg-primary:hover {$/;"	c
+a.bg-primary:hover	bootstrap.css	/^a.bg-primary:focus, a.bg-primary:hover {$/;"	c
+a.bg-secondary:focus	bootstrap.css	/^a.bg-secondary:focus, a.bg-secondary:hover {$/;"	c
+a.bg-secondary:hover	bootstrap.css	/^a.bg-secondary:focus, a.bg-secondary:hover {$/;"	c
+a.bg-success:focus	bootstrap.css	/^a.bg-success:focus, a.bg-success:hover {$/;"	c
+a.bg-success:hover	bootstrap.css	/^a.bg-success:focus, a.bg-success:hover {$/;"	c
+a.bg-warning:focus	bootstrap.css	/^a.bg-warning:focus, a.bg-warning:hover {$/;"	c
+a.bg-warning:hover	bootstrap.css	/^a.bg-warning:focus, a.bg-warning:hover {$/;"	c
+a.btn.disabled	bootstrap.css	/^a.btn.disabled,$/;"	c
+a.list-group-item-danger	bootstrap.css	/^a.list-group-item-danger,$/;"	c
+a.list-group-item-danger.active	bootstrap.css	/^a.list-group-item-danger.active,$/;"	c
+a.list-group-item-danger:focus	bootstrap.css	/^a.list-group-item-danger:focus, a.list-group-item-danger:hover,$/;"	c
+a.list-group-item-danger:hover	bootstrap.css	/^a.list-group-item-danger:focus, a.list-group-item-danger:hover,$/;"	c
+a.list-group-item-dark	bootstrap.css	/^a.list-group-item-dark,$/;"	c
+a.list-group-item-dark.active	bootstrap.css	/^a.list-group-item-dark.active,$/;"	c
+a.list-group-item-dark:focus	bootstrap.css	/^a.list-group-item-dark:focus, a.list-group-item-dark:hover,$/;"	c
+a.list-group-item-dark:hover	bootstrap.css	/^a.list-group-item-dark:focus, a.list-group-item-dark:hover,$/;"	c
+a.list-group-item-info	bootstrap.css	/^a.list-group-item-info,$/;"	c
+a.list-group-item-info.active	bootstrap.css	/^a.list-group-item-info.active,$/;"	c
+a.list-group-item-info:focus	bootstrap.css	/^a.list-group-item-info:focus, a.list-group-item-info:hover,$/;"	c
+a.list-group-item-info:hover	bootstrap.css	/^a.list-group-item-info:focus, a.list-group-item-info:hover,$/;"	c
+a.list-group-item-light	bootstrap.css	/^a.list-group-item-light,$/;"	c
+a.list-group-item-light.active	bootstrap.css	/^a.list-group-item-light.active,$/;"	c
+a.list-group-item-light:focus	bootstrap.css	/^a.list-group-item-light:focus, a.list-group-item-light:hover,$/;"	c
+a.list-group-item-light:hover	bootstrap.css	/^a.list-group-item-light:focus, a.list-group-item-light:hover,$/;"	c
+a.list-group-item-primary	bootstrap.css	/^a.list-group-item-primary,$/;"	c
+a.list-group-item-primary.active	bootstrap.css	/^a.list-group-item-primary.active,$/;"	c
+a.list-group-item-primary:focus	bootstrap.css	/^a.list-group-item-primary:focus, a.list-group-item-primary:hover,$/;"	c
+a.list-group-item-primary:hover	bootstrap.css	/^a.list-group-item-primary:focus, a.list-group-item-primary:hover,$/;"	c
+a.list-group-item-secondary	bootstrap.css	/^a.list-group-item-secondary,$/;"	c
+a.list-group-item-secondary.active	bootstrap.css	/^a.list-group-item-secondary.active,$/;"	c
+a.list-group-item-secondary:focus	bootstrap.css	/^a.list-group-item-secondary:focus, a.list-group-item-secondary:hover,$/;"	c
+a.list-group-item-secondary:hover	bootstrap.css	/^a.list-group-item-secondary:focus, a.list-group-item-secondary:hover,$/;"	c
+a.list-group-item-success	bootstrap.css	/^a.list-group-item-success,$/;"	c
+a.list-group-item-success.active	bootstrap.css	/^a.list-group-item-success.active,$/;"	c
+a.list-group-item-success:focus	bootstrap.css	/^a.list-group-item-success:focus, a.list-group-item-success:hover,$/;"	c
+a.list-group-item-success:hover	bootstrap.css	/^a.list-group-item-success:focus, a.list-group-item-success:hover,$/;"	c
+a.list-group-item-warning	bootstrap.css	/^a.list-group-item-warning,$/;"	c
+a.list-group-item-warning.active	bootstrap.css	/^a.list-group-item-warning.active,$/;"	c
+a.list-group-item-warning:focus	bootstrap.css	/^a.list-group-item-warning:focus, a.list-group-item-warning:hover,$/;"	c
+a.list-group-item-warning:hover	bootstrap.css	/^a.list-group-item-warning:focus, a.list-group-item-warning:hover,$/;"	c
+a.text-danger:focus	bootstrap.css	/^a.text-danger:focus, a.text-danger:hover {$/;"	c
+a.text-danger:hover	bootstrap.css	/^a.text-danger:focus, a.text-danger:hover {$/;"	c
+a.text-dark:focus	bootstrap.css	/^a.text-dark:focus, a.text-dark:hover {$/;"	c
+a.text-dark:hover	bootstrap.css	/^a.text-dark:focus, a.text-dark:hover {$/;"	c
+a.text-info:focus	bootstrap.css	/^a.text-info:focus, a.text-info:hover {$/;"	c
+a.text-info:hover	bootstrap.css	/^a.text-info:focus, a.text-info:hover {$/;"	c
+a.text-light:focus	bootstrap.css	/^a.text-light:focus, a.text-light:hover {$/;"	c
+a.text-light:hover	bootstrap.css	/^a.text-light:focus, a.text-light:hover {$/;"	c
+a.text-primary:focus	bootstrap.css	/^a.text-primary:focus, a.text-primary:hover {$/;"	c
+a.text-primary:hover	bootstrap.css	/^a.text-primary:focus, a.text-primary:hover {$/;"	c
+a.text-secondary:focus	bootstrap.css	/^a.text-secondary:focus, a.text-secondary:hover {$/;"	c
+a.text-secondary:hover	bootstrap.css	/^a.text-secondary:focus, a.text-secondary:hover {$/;"	c
+a.text-success:focus	bootstrap.css	/^a.text-success:focus, a.text-success:hover {$/;"	c
+a.text-success:hover	bootstrap.css	/^a.text-success:focus, a.text-success:hover {$/;"	c
+a.text-warning:focus	bootstrap.css	/^a.text-warning:focus, a.text-warning:hover {$/;"	c
+a.text-warning:hover	bootstrap.css	/^a.text-warning:focus, a.text-warning:hover {$/;"	c
+a:hover	bootstrap.css	/^a:hover {$/;"	s
+a:hover	neon.css	/^a:hover {$/;"	s
+a:not([href] ):not([tabindex] )	bootstrap.css	/^a:not([href]):not([tabindex]) {$/;"	s
+a:not([href] ):not([tabindex] ):focus	bootstrap.css	/^a:not([href]):not([tabindex]):focus {$/;"	s
+a:not([href] ):not([tabindex] ):focus	bootstrap.css	/^a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {$/;"	s
+a:not([href] ):not([tabindex] ):hover	bootstrap.css	/^a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {$/;"	s
+a:visited	bootstrap.css	/^  a:visited {$/;"	s
+abbr[data-original-title]	bootstrap.css	/^abbr[data-original-title] {$/;"	s
+abbr[title]	bootstrap.css	/^abbr[title],$/;"	s
+abbr[title] ::after	bootstrap.css	/^  abbr[title]::after {$/;"	s
+address	bootstrap.css	/^address {$/;"	s
+area	bootstrap.css	/^area,$/;"	s
+article	bootstrap.css	/^article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, section {$/;"	s
+aside	bootstrap.css	/^article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, section {$/;"	s
+b	bootstrap.css	/^b,$/;"	s
+blockquote	bootstrap.css	/^  blockquote {$/;"	s
+blockquote	bootstrap.css	/^blockquote {$/;"	s
+body	bootstrap.css	/^body {$/;"	s
+body	jumbotron.css	/^body {$/;"	s
+button	bootstrap.css	/^button {$/;"	s
+button	bootstrap.css	/^button,$/;"	s
+button.close	bootstrap.css	/^button.close {$/;"	c
+button.list-group-item-danger	bootstrap.css	/^button.list-group-item-danger {$/;"	c
+button.list-group-item-danger.active	bootstrap.css	/^button.list-group-item-danger.active {$/;"	c
+button.list-group-item-danger:focus	bootstrap.css	/^button.list-group-item-danger:focus,$/;"	c
+button.list-group-item-danger:hover	bootstrap.css	/^button.list-group-item-danger:hover {$/;"	c
+button.list-group-item-dark	bootstrap.css	/^button.list-group-item-dark {$/;"	c
+button.list-group-item-dark.active	bootstrap.css	/^button.list-group-item-dark.active {$/;"	c
+button.list-group-item-dark:focus	bootstrap.css	/^button.list-group-item-dark:focus,$/;"	c
+button.list-group-item-dark:hover	bootstrap.css	/^button.list-group-item-dark:hover {$/;"	c
+button.list-group-item-info	bootstrap.css	/^button.list-group-item-info {$/;"	c
+button.list-group-item-info.active	bootstrap.css	/^button.list-group-item-info.active {$/;"	c
+button.list-group-item-info:focus	bootstrap.css	/^button.list-group-item-info:focus,$/;"	c
+button.list-group-item-info:hover	bootstrap.css	/^button.list-group-item-info:hover {$/;"	c
+button.list-group-item-light	bootstrap.css	/^button.list-group-item-light {$/;"	c
+button.list-group-item-light.active	bootstrap.css	/^button.list-group-item-light.active {$/;"	c
+button.list-group-item-light:focus	bootstrap.css	/^button.list-group-item-light:focus,$/;"	c
+button.list-group-item-light:hover	bootstrap.css	/^button.list-group-item-light:hover {$/;"	c
+button.list-group-item-primary	bootstrap.css	/^button.list-group-item-primary {$/;"	c
+button.list-group-item-primary.active	bootstrap.css	/^button.list-group-item-primary.active {$/;"	c
+button.list-group-item-primary:focus	bootstrap.css	/^button.list-group-item-primary:focus,$/;"	c
+button.list-group-item-primary:hover	bootstrap.css	/^button.list-group-item-primary:hover {$/;"	c
+button.list-group-item-secondary	bootstrap.css	/^button.list-group-item-secondary {$/;"	c
+button.list-group-item-secondary.active	bootstrap.css	/^button.list-group-item-secondary.active {$/;"	c
+button.list-group-item-secondary:focus	bootstrap.css	/^button.list-group-item-secondary:focus,$/;"	c
+button.list-group-item-secondary:hover	bootstrap.css	/^button.list-group-item-secondary:hover {$/;"	c
+button.list-group-item-success	bootstrap.css	/^button.list-group-item-success {$/;"	c
+button.list-group-item-success.active	bootstrap.css	/^button.list-group-item-success.active {$/;"	c
+button.list-group-item-success:focus	bootstrap.css	/^button.list-group-item-success:focus,$/;"	c
+button.list-group-item-success:hover	bootstrap.css	/^button.list-group-item-success:hover {$/;"	c
+button.list-group-item-warning	bootstrap.css	/^button.list-group-item-warning {$/;"	c
+button.list-group-item-warning.active	bootstrap.css	/^button.list-group-item-warning.active {$/;"	c
+button.list-group-item-warning:focus	bootstrap.css	/^button.list-group-item-warning:focus,$/;"	c
+button.list-group-item-warning:hover	bootstrap.css	/^button.list-group-item-warning:hover {$/;"	c
+button::-moz-focus-inner	bootstrap.css	/^button::-moz-focus-inner,$/;"	s
+button:focus	bootstrap.css	/^button:focus {$/;"	s
+caption	bootstrap.css	/^caption {$/;"	s
+code	bootstrap.css	/^code {$/;"	s
+code	bootstrap.css	/^code,$/;"	s
+data-toggle	bootstrap.css	/^[data-toggle="buttons"] > .btn input[type="checkbox"],$/;"	s
+data-toggle	bootstrap.css	/^[data-toggle="buttons"] > .btn input[type="radio"],$/;"	s
+data-toggle	bootstrap.css	/^[data-toggle="buttons"] > .btn-group > .btn input[type="checkbox"] {$/;"	s
+data-toggle	bootstrap.css	/^[data-toggle="buttons"] > .btn-group > .btn input[type="radio"],$/;"	s
+dd	bootstrap.css	/^dd {$/;"	s
+dfn	bootstrap.css	/^dfn {$/;"	s
+dialog	bootstrap.css	/^article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, section {$/;"	s
+dl	bootstrap.css	/^dl {$/;"	s
+dt	bootstrap.css	/^dt {$/;"	s
+fade	index.html	/^                    <span class="term-fgx145 term-bgx16">█ ▓<\/span><span id="fade" class="t/;"	I
+fieldset	bootstrap.css	/^fieldset {$/;"	s
+fieldset[disabled] a.btn	bootstrap.css	/^fieldset[disabled] a.btn {$/;"	c
+figcaption	bootstrap.css	/^article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, section {$/;"	s
+figure	bootstrap.css	/^article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, section {$/;"	s
+figure	bootstrap.css	/^figure {$/;"	s
+footer	bootstrap.css	/^article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, section {$/;"	s
+h1	bootstrap.css	/^h1, .h1 {$/;"	s
+h1	bootstrap.css	/^h1, h2, h3, h4, h5, h6 {$/;"	s
+h1	bootstrap.css	/^h1, h2, h3, h4, h5, h6,$/;"	s
+h2	bootstrap.css	/^  h2,$/;"	s
+h2	bootstrap.css	/^h1, h2, h3, h4, h5, h6 {$/;"	s
+h2	bootstrap.css	/^h1, h2, h3, h4, h5, h6,$/;"	s
+h2	bootstrap.css	/^h2, .h2 {$/;"	s
+h3	bootstrap.css	/^  h3 {$/;"	s
+h3	bootstrap.css	/^h1, h2, h3, h4, h5, h6 {$/;"	s
+h3	bootstrap.css	/^h1, h2, h3, h4, h5, h6,$/;"	s
+h3	bootstrap.css	/^h3, .h3 {$/;"	s
+h4	bootstrap.css	/^h1, h2, h3, h4, h5, h6 {$/;"	s
+h4	bootstrap.css	/^h1, h2, h3, h4, h5, h6,$/;"	s
+h4	bootstrap.css	/^h4, .h4 {$/;"	s
+h5	bootstrap.css	/^h1, h2, h3, h4, h5, h6 {$/;"	s
+h5	bootstrap.css	/^h1, h2, h3, h4, h5, h6,$/;"	s
+h5	bootstrap.css	/^h5, .h5 {$/;"	s
+h6	bootstrap.css	/^h1, h2, h3, h4, h5, h6 {$/;"	s
+h6	bootstrap.css	/^h1, h2, h3, h4, h5, h6,$/;"	s
+h6	bootstrap.css	/^h6, .h6 {$/;"	s
+header	bootstrap.css	/^article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, section {$/;"	s
+hgroup	bootstrap.css	/^article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, section {$/;"	s
+hidden	bootstrap.css	/^[hidden] {$/;"	s
+hr	bootstrap.css	/^hr {$/;"	s
+html	bootstrap.css	/^html {$/;"	s
+html[type="button"]	bootstrap.css	/^html [type="button"],$/;"	s
+img	bootstrap.css	/^  img {$/;"	s
+img	bootstrap.css	/^img {$/;"	s
+input	bootstrap.css	/^input {$/;"	s
+input	bootstrap.css	/^input,$/;"	s
+input:not([type="range"] )	bootstrap.css	/^input:not([type="range"]),$/;"	s
+input[type="button"] .btn-block	bootstrap.css	/^input[type="button"].btn-block {$/;"	c
+input[type="checkbox"]	bootstrap.css	/^input[type="checkbox"] {$/;"	s
+input[type="date"]	bootstrap.css	/^input[type="date"],$/;"	s
+input[type="datetime-local"]	bootstrap.css	/^input[type="datetime-local"],$/;"	s
+input[type="month"]	bootstrap.css	/^input[type="month"] {$/;"	s
+input[type="radio"]	bootstrap.css	/^input[type="radio"],$/;"	s
+input[type="reset"] .btn-block	bootstrap.css	/^input[type="reset"].btn-block,$/;"	c
+input[type="submit"] .btn-block	bootstrap.css	/^input[type="submit"].btn-block,$/;"	c
+input[type="time"]	bootstrap.css	/^input[type="time"],$/;"	s
+kbd	bootstrap.css	/^kbd {$/;"	s
+kbd	bootstrap.css	/^kbd,$/;"	s
+kbd kbd	bootstrap.css	/^kbd kbd {$/;"	s
+label	bootstrap.css	/^label {$/;"	s
+label	bootstrap.css	/^label,$/;"	s
+legend	bootstrap.css	/^legend {$/;"	s
+legend	bootstrap.css	/^legend,$/;"	s
+main	bootstrap.css	/^article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, section {$/;"	s
+mark	bootstrap.css	/^mark,$/;"	s
+nav	bootstrap.css	/^article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, section {$/;"	s
+ol	bootstrap.css	/^ol,$/;"	s
+ol ol	bootstrap.css	/^ol ol,$/;"	s
+ol ul	bootstrap.css	/^ol ul,$/;"	s
+optgroup	bootstrap.css	/^optgroup,$/;"	s
+output	bootstrap.css	/^output {$/;"	s
+p	bootstrap.css	/^  p,$/;"	s
+p	bootstrap.css	/^p {$/;"	s
+p	neon.css	/^p {$/;"	s
+pre	bootstrap.css	/^  pre {$/;"	s
+pre	bootstrap.css	/^  pre,$/;"	s
+pre	bootstrap.css	/^pre {$/;"	s
+pre	bootstrap.css	/^pre,$/;"	s
+pre code	bootstrap.css	/^pre code {$/;"	s
+progress	bootstrap.css	/^progress {$/;"	s
+role	bootstrap.css	/^[role="button"],$/;"	s
+samp	bootstrap.css	/^samp {$/;"	s
+section	bootstrap.css	/^article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, section {$/;"	s
+select	bootstrap.css	/^select {$/;"	s
+select	bootstrap.css	/^select,$/;"	s
+select.form-control-lg:not([size] ):not([multiple] )	bootstrap.css	/^select.form-control-lg:not([size]):not([multiple]), .input-group-lg > select.form-control:not([s/;"	s
+select.form-control-sm:not([size] ):not([multiple] )	bootstrap.css	/^select.form-control-sm:not([size]):not([multiple]), .input-group-sm > select.form-control:not([s/;"	s
+select.form-control:focus::-ms-value	bootstrap.css	/^select.form-control:focus::-ms-value {$/;"	c
+select.form-control:not([size] ):not([multiple] )	bootstrap.css	/^select.form-control:not([size]):not([multiple]) {$/;"	s
+small	bootstrap.css	/^small {$/;"	s
+small	bootstrap.css	/^small,$/;"	s
+strong	bootstrap.css	/^strong {$/;"	s
+sub	bootstrap.css	/^sub {$/;"	s
+sub	bootstrap.css	/^sub,$/;"	s
+summary	bootstrap.css	/^summary {$/;"	s
+summary	bootstrap.css	/^summary,$/;"	s
+sup	bootstrap.css	/^sup {$/;"	s
+svg:not(:root)	bootstrap.css	/^svg:not(:root) {$/;"	s
+tabindex	bootstrap.css	/^[tabindex="-1"]:focus {$/;"	s
+table	bootstrap.css	/^table {$/;"	s
+tbody.collapse.show	bootstrap.css	/^tbody.collapse.show {$/;"	c
+template	bootstrap.css	/^template {$/;"	s
+textarea	bootstrap.css	/^textarea {$/;"	s
+th	bootstrap.css	/^th {$/;"	s
+thead	bootstrap.css	/^  thead {$/;"	s
+tr	bootstrap.css	/^  tr,$/;"	s
+tr.collapse.show	bootstrap.css	/^tr.collapse.show {$/;"	c
+type	bootstrap.css	/^[type="button"]::-moz-focus-inner,$/;"	s
+type	bootstrap.css	/^[type="number"]::-webkit-inner-spin-button,$/;"	s
+type	bootstrap.css	/^[type="number"]::-webkit-outer-spin-button {$/;"	s
+type	bootstrap.css	/^[type="reset"],$/;"	s
+type	bootstrap.css	/^[type="reset"]::-moz-focus-inner,$/;"	s
+type	bootstrap.css	/^[type="search"] {$/;"	s
+type	bootstrap.css	/^[type="search"]::-webkit-search-cancel-button,$/;"	s
+type	bootstrap.css	/^[type="search"]::-webkit-search-decoration {$/;"	s
+type	bootstrap.css	/^[type="submit"] {$/;"	s
+type	bootstrap.css	/^[type="submit"]::-moz-focus-inner {$/;"	s
+ul	bootstrap.css	/^ul,$/;"	s
+ul ol	bootstrap.css	/^ul ol {$/;"	s
+ul ul	bootstrap.css	/^ul ul,$/;"	s
