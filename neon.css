@@ -1,0 +1,38 @@
+#container {
+  width: 500px;
+  margin: auto;
+}
+
+/*Neon*/
+p {
+  text-align: left;
+  margin: 40px 0 40px 0;
+}
+
+a {
+  font-size: 1em;
+  text-decoration: none;
+  -webkit-transition: all 0.4s;
+  -moz-transition: all 0.4s;
+  transition: all 0.4s;
+  color: #00aad4;
+}
+
+a > img {
+  -webkit-transition: all 0.4s;
+  -moz-transition: all 0.4s;
+  transition: all 0.4s;
+  color: #00aad4;
+}
+
+a > img:hover {
+  box-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #00aad4, 0 0 35px #00aad4, 0 0 40px #00aad4, 0 0 50px #00aad4, 0 0 75px #00aad4;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #00aad4, 0 0 35px #00aad4, 0 0 40px #00aad4, 0 0 50px #00aad4, 0 0 75px #00aad4;
+  color: #ffffff;
+  text-decoration: none;
+}
