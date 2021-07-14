@@ -1,1 +1,1 @@
-[Freeside](https://freeside.s3kr.it)
+[Freeside](https://freeside.network)
